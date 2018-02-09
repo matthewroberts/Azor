@@ -44,9 +44,7 @@ export class NativeCropPage {
     .then((fileUri) => {
       // Crop Image, on android this returns something like, '/storage/emulated/0/Android/...'
       // Only giving an android example as ionic-native camera has built in cropping ability
-      if (this.platform.is('ios')) {
-        return this.crop.crop(fileUri, { quality: 100 });
-      } else if (this.platform.is('android')) {
+      if (this.platform.is('android')) {
         // Modify fileUri format, may not always be necessary
         fileUri = 'file://' + fileUri;
 
