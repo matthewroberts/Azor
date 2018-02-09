@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "728947504355",
+    "firebase_url": "https://azor-d0b9c.firebaseio.com",
+    "project_id": "azor-d0b9c",
+    "storage_bucket": "azor-d0b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728947504355:android:cd2e245c494ad844",
+        "android_client_info": {
+          "package_name": "com.azor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728947504355-64lvb6nvr2bq9g64sgsfkng5n8jv3rf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YKwm_Zlh6W02VOIu3vuI-rtkA9XNEwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

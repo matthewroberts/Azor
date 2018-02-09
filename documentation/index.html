@@ -1,0 +1,384 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Ionium 2 - Ionic Premium Multipurpose App</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		body{
+			background: #f1f1f1;
+			margin: 0;
+			padding: 0;
+		}
+		.container{
+			padding: 0 25px;
+			background: #fff;
+			width: 800px;
+		}
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+		.img-res{width: 100%; }
+		img {border: 1px solid #000;}
+		ul.demo {
+		    margin: 0 0 30px;
+		    overflow: hidden;
+		}
+		ul.demo li{
+			float: left;
+			width: 50%;
+			list-style: none;
+		}
+		ul.demo li a{
+			text-align: center;
+			background: #f2f2f2;
+			display: block;
+			border: 1px solid #ccc;
+		}
+	</style>
+
+	<link rel="stylesheet" href="syntax/styles/shCore.css" type="text/css">
+	<link rel="stylesheet" href="syntax/styles/shThemeDefault.css" type="text/css">
+	<script src="syntax/scripts/shCore.js"></script>
+	<script src="syntax/scripts/shBrushJScript.js"></script>
+	<script src="syntax/scripts/shBrushXml.js"></script>
+	<script src="syntax/scripts/shBrushCss.js"></script>
+	<script type="text/javascript">
+     SyntaxHighlighter.all()
+	</script>
+</head>
+
+
+<body>
+	<div class="container">
+
+		<h3 class="center alt">&ldquo;Ionium 2&rdquo; Documentation by &ldquo;Ionic Premium&rdquo; v1.3</h3>
+
+		<hr>
+
+		<h1 class="center">&ldquo;Ionium 2 - Ionic Premium Multipurpose App&rdquo;</h1>
+
+		<hr>
+
+		<h2 align="center" style="margin: 0 -25px 20px;">
+			<img class="img-res" src="assets/images/preview.jpg" style="border:none;" alt="Ionium 2 - Ionic Premium Multipurpose App" />
+		</h2>
+
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Updated: 18/11/2017<br>
+					By: <a href="http://www.ionicpremium.com" alt="Ionic Premium Themes and Starter">Ionic Premium</a><br>
+					Email: <a href="mailto:ionicpremium@gmail.com">ionicpremium@gmail.com</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->
+
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing <b>Ionium 2 - Ionic Premium Multipurpose App</b>. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://themeforest.net/user/ionicpremium">here</a>. Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+
+		<hr>
+
+		<ul class="demo">
+			<li><a href="http://www.ionicpremium.com/ionium2" target="_blank"><img src="assets/images/demo-web.jpg" alt="Live Demo" /></a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=com.ionicpremium.ionium2" target="_blank"><img src="assets/images/demo-playstore.jpg" alt="Demo in Playstore" /></a></li>
+		</ul>
+
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#intro">Introduction</a></li>
+			<li><a href="#requirements">Requirements</a></li>
+			<li><a href="#folder">Folder Structure</a></li>
+			<li><a href="#getstart">Getting Started</a>
+				<ul>
+					<li>D.1 <a href="#installIonic">Installing Ionic Framework</a></li>
+					<li>D.2 <a href="#addPlatforms">Firebase, Push Plugin (FCM) & Google Map Configuration</a></li>
+					<li>D.3 <a href="#mysqlConfig">MySQL API Configuration</a></li>
+					<li>D.4 <a href="#runBrowser">Run on Browser</a></li>
+					<li>D.5 <a href="#androidSDKMac">Android SDK for Mac</a></li>
+					<li>D.6 <a href="#androidSDKWindows">Android SDK for Windows</a></li>
+					<li>D.7 <a href="#buildRunAndroid">Build and Run on Android</a></li>
+					<li>D.8 <a href="#buildRunIOS">Build and Run on iOS</a></li>
+				</ul>
+			</li>
+
+			<li><a href="#ref">References</a> </li>
+			<li><a href="#support">Support</a> </li>
+			<li><a href="#faq">FAQs</a> </li>
+			<li><a href="#credit">Sources & Credits</a> </li>
+			<li><a href="#version">Version History</a> </li>
+		</ol>
+
+		<hr>
+
+		<h3 id="intro"><strong>A) Introduction</strong> - <a href="#toc">top</a></h3>
+		<p><strong><a href="http://ionium2.ionicpremium.com/" target="_blank">Ionium 2</strong></a> is an advanced version of the previous Ionium. Ionium 2 is already using the latest Ionic CLI version (Ionic v3). This app will allow you to develop hybrid applications using Ionic 3. Some of the features we offer such as Ionic UI Components, Ionic Forms, Ionic Native, CRUD (Create Update Update Delete) using Firebase, MySQL (http) and Local Storage, Google Map, Push Notification (FCM) and more.</p>
+		<p>Lastly, thank you for supporting us in purchasing this product, looking forward to our exciting feature updates for Ionium 2. If you have any question to ask, feel free to <a href="http://codecanyon.com/user/ionicpremium" target="_blank">contact us</a>.</p>
+		<p>Regards, <br> Ionic Premium Team</p>
+		<hr>
+
+		<h3 id="requirements"><strong>B) Requirements</strong> - <a href="#toc">top</a></h3>
+		<p>Here is what you need:</p>
+		<ol>
+			<li>Firebase</li>
+			<li>MySQL Database</li>
+		</ol>
+
+		<hr>
+
+		<h3 id="folder"><strong>C) Folder Structure</strong> - <a href="#toc">top</a></h3>
+		<p>When you extract the zip package, you will find this:</p>
+		<ul>
+			<li>Folder <b>Ionium</b>: Our main project files</li>
+			<li>Folder <b>Documentation</b>: Our documentation details</li>
+			<li>Folder <b>API</b>: Will be used with CRUD with MySQL</li>
+			<li>File <b>README</b>: You should read this first</li>
+		</ul>
+
+		<hr>
+
+		<h3 id="getstart"><strong>D) Getting Started</strong> - <a href="#toc">top</a></h3>
+		<p>Please follow these step to get the app work. You can also watch our video tutorial below to get started.</p>
+		<!-- <iframe width="800" height="400" src="https://www.youtube.com/embed/BurDH9BtF6s" frameborder="0" allowfullscreen></iframe> -->
+		<hr>
+		
+		<h3 id="installIonic">D.1) Installing Ionic Framework - <a href="#toc">top</a></h3>
+		<p>To run this Ionic, you have to install <a href="http://ionicframework.com">Ionic Framework</a> by following this step. Download and install devendable version of  <a href="https://nodejs.org/en/download/">node.js</a>. Then open your <b>cmd.exe</b> for windows or <b>Terminal</b> for mac and run:</p>
+		<pre class="brush: js; ruler: true;">
+			npm install -g cordova@latest ionic@latest
+			npm install -g npm@latest
+			npm update</pre>
+		<p>Or if you use mac, don’t forget to use "sudo":</p>
+		<pre class="brush: js; ruler: true;">
+			sudo npm install -g cordova@latest ionic@latest
+			sudo npm install -g npm@latest
+			npm update</pre>
+		<p>Ionic and cordova are now ready on your computer. No we need to re-install <b>node_modules</b> and <b>plugins</b> into the app. Go to <b>ionium2</b></p>
+		<pre class="brush: js; ruler: true;">
+			npm i
+			cordova prepare</pre>
+			<p>Note: Make sure your internet connection is stable and running well. It may take several minutes to install all modules. Ionic and cordova are now ready on your computer.</p>
+		<hr>
+		<h3 id="addPlatforms">D.2) Firebase, Push Plugin (FCM) & Google Map Configuration - <a href="#toc">top</a></h3>
+		<p>In this step you will learn how to setup the Firebase & Google Map into the app. Firebase will be used in app to integrate the Firebase Cloud Messaging (FCM) and it also will be used with Note app. Create a new project in <a href="https://console.firebase.google.com">firebase console</a>. If you alrady have, then click on it. Check this video below and follow the step-by-step.<p>
+		<iframe width="800" height="400" src="https://www.youtube.com/embed/tRRAjIF8sUM" frameborder="0" allowfullscreen></iframe>
+		<h4><b>Install Phonegap Push Plugin</b></h4>
+		<p>To install the phonegap push plugin, use the code below:</p>
+		<pre class="brush: js; ruler: true;">
+			ionic cordova plugin rm phonegap-plugin-push
+			ionic cordova plugin add phonegap-plugin-push --variable SENDER_ID="YOUR_SENDER_ID"</pre>
+		<hr>
+
+		<h3 id="mysqlConfig">D.3) MySQL API Configuration - <a href="#toc">top</a></h3>
+		<p>To integrate the MySQL database, please kindly check this video below:</p>
+		<iframe width="800" height="400" src="https://www.youtube.com/embed/xUVO53g3jAg" frameborder="0" allowfullscreen></iframe>
+		<hr>
+
+		<h3 id="runBrowser">D.4) Run in Browser - <a href="#toc">top</a></h3>
+		<p>Now, we have completed all of requirements to run our apps. First, we will run app on browser by run:</p>
+		<pre class="brush: js; ruler: true;">
+			cd ionium
+			ionic serve --lab</pre>
+		<img class="img-res" src="assets/images/run-browser.jpg" alt="Ionstore on browser"/>
+
+		<p>Now, you app is on chrome browser and running well.<br><b>Note:</b> All of hardware plugin will not work on browser.</p>
+		<hr>
+
+		<h3 id="androidSDKMac">D.5) Android SDK for Mac- <a href="#toc">top</a></h3>
+		<p>In order to run this app on Android, you have to install Android SDK and some extras. Follow this step:</p>
+		<ol>
+			<li>Download <a href="https://developer.android.com/studio/index.html">Android Studio</a> for your Mac OS X and install
+				<img class="img-res" src="assets/images/android-sdk.png" alt="Download Android Studio for Mac" /></li>
+				<li>After installation finished, open Android Studio & select <b>Preferences</b>
+					<img class="img-res" src="assets/images/select-preferences.jpg" alt="Select Preferences on Android Studio" />
+				</li>
+				<li>Launch standalone SDK Manager
+					<img class="img-res" src="assets/images/launch-sdk.png" alt="Launch SDK Manager" /></li>
+				<li>Install <b>Tools</b>, <b>Android 6.0 (API 23)</b> and some <b>Extras</b> as below
+					<img class="img-res" src="assets/images/install-android60.png" alt="Installing Android Platform" /></li>
+		</ol>
+		<p>It may take times untill the installation finish. After finish, close SDK Manager.</p>
+		<hr>
+		<h3 id="androidSDKWindows">D.6) Android SDK for Windows - <a href="#toc">top</a></h3>
+		<p>In order to run this app on Android, you have to install Android SDK and some extras. Follow this step:</p>
+		<ol>
+			<li>Download <a href="https://developer.android.com/studio/index.html#downloads">Android SDK</a> (not Android Studio) for your Windows and install
+				<img class="img-res" src="assets/images/android-sdk-windows.png" alt="Download Android Studio for Windows" /></li>
+				<li>After installation finished, open <b>SDK Manager</b>
+					<img class="img-res" src="assets/images/open-sdk-manager.png" alt="Open SDK Manager" />
+				</li>
+				<li>Install <b>Tools</b>, <b>Android 6.0 (API 23)</b> and some <b>Extras</b> as below
+					<img class="img-res" src="assets/images/install-android60-windows.png" alt="Installing Android Platform" /></li>
+		</ol>
+		<p>It may take times untill the installation finish. After finish, close SDK Manager. Then you have to setting the environment variables, check the reference below.</p>
+		<ul>
+			<li><a href="http://learn.ionicframework.com/videos/windows-android/">Installing Android on Windows</a></li>
+			<li><a href="https://www.youtube.com/watch?v=RNrNIHQ9cWo">Youtube on Installing Android</a></li>
+		</ul>
+		<hr>
+		<h3 id="buildRunAndroid">D.7) Build and Run on Android - <a href="#toc">top</a></h3>
+		<p>To build your project to Android platform, please make sure that you have completed the instructions above. After the installation complete, you can build the project using:</p>
+		<pre class="brush: js; ruler: true;">
+			cd ionium
+			ionic cordova build android</pre>
+			<p>This process will produce apk file on your <b>platforms/android</b>.</p>
+			<p>Now, let’s start running & testing on real device. Follow this step:</p>
+			<ol>
+			<li>Connect USB cable on your Android device to computer (Windows only)</li>
+			<li>Run the app on real device using:
+				<pre class="brush: js; ruler: false;">
+					ionic cordova run android</pre></li>
+			<li>If you want to run Android on Mac, you can use android emulator or Genymotion</li>
+			<li>Emulate the app using:
+				<pre class="brush: js; ruler: false;">
+					ionic cordova emulate android</pre></li></ol>
+			<p>You will see the app running on your real device or android emulator.</p>
+			<hr>
+		<h3 id="buildRunIOS">D.8) Build and Run on iOS - <a href="#toc">top</a></h3>
+		<p>To build your project to iOS platform, open your <b>Terminal</b> and type:</p>
+		<pre class="brush: js; ruler: true;">
+			cd ionium
+			ionic cordova build ios</pre>
+		<p>The build process will produce <b>ios</b> folder in your <b>platforms</b> folder. Then, to run your app on emulator, please follow this step:</p>
+		<ol>
+			<li>Open <b>Ionium 2/platforms/ios/Ionium 2.xcodeproj</b></li>
+			<li>Double click <b>Ionium 2.xcodeproj</b> file, it will open Xcode</li>
+			<li>Your can run your app by selecting <b>iOS device</b> or <b>device emulator</b>, then click play button
+			<img class="img-res" src="assets/images/run-ios.jpg" alt="Running on iOS" /></li>
+			<li>You can also run the app using command line from Terminal, using
+				<pre class="brush: js; ruler: false;">
+					ionic cordova emulate ios</pre></li>
+			<li>To emulate on specific iOS device (eq. iPhone 6s)
+				<pre class="brush: js; ruler: false;">
+					ionic cordova emulate ios --target="iPhone-6s"</pre></li>
+		</ol>
+		<p>You will see the app running on iOS simulator.</p>
+		
+		<hr>
+
+		<h3 id="ref"><strong>I) References</strong> - <a href="#toc">top</a></h3>
+		<p>To learn more about Ionic Framework, you can visit:</p>
+		<p><b>Ionic Getting started guide</b> <br><a href="http://ionicframework.com/getting-started" target="_blank">ionicframework.com/getting-started</a>
+		<p><b>Ionic Documentation</b> <br><a href="http://ionicframework.com/docs" target="_blank">ionicframework.com/docs</a>
+		<p><b>Ionic Community Forum </b> <br><a href="http://forum.ionicframework.com" target="_blank">forum.ionicframework.com</a>
+		<p><b>ngCordova Documentation</b> <br><a href="http://ngcordova.com/docs" target="_blank">http://ngcordova.com/docs</a>
+		<hr>
+		<h3 id="support"><strong>J) Support</strong> - <a href="#toc">top</a></h3>
+		<p>When you have any issues related to Ionic, please don’t be hesitate to contact us using:</p>
+		<ul>
+			<li>Email - <a href="mailto:ionicpremium@gmail.com">ionicpremium@gmail.com</a> or <a href="mailto:envato@ionicpremium.com">envato@ionicpremium.com</a></li>
+			<li>Envato Account - <a href="http://codecanyon.net/user/ionicpremium" target="_blank">http://codecanyon.net/user/ionicpremium</a></li>
+		</ul>
+		<p>You can also visit: forum.ionicframework.com for more informations and any issues about <a href="http://forum.ionicframework.com" target="_blank">Ionic Framework</a>.</p>
+		<hr>
+
+		<h3 id="faq"><strong>K) FAQs</strong> - <a href="#toc">top</a></h3>
+		<p><b>1. How to edit the project files?</b></p>
+		<span>You can use below editors to edit project file on your Windows and Mac :</span>
+			<ul>
+				<li><a href="http://www.sublimetext.com/" target="_blank">Sublimetext</a></li>
+				<li><a href="https://www.jetbrains.com/webstorm/" target="_blank">Webstorm</a></li>
+				<li><a href="http://brackets.io/" target="_blank">Brackets</a></li>
+				<li><a href="https://atom.io/" target="_blank">Atom</a></li>
+			</ul>
+			<p>By downloading and installing it to your computer.</p>
+		<hr>
+		<p><b>2. How to change the icon and splash screen?</b></p>
+		<span>To change Icon and Splash Screen, you can do it by following this step:</span>
+			<ol>
+				<li>Open your cmd or Terminal, then:
+					<pre class="brush: javascript; ruler: true;">
+						cd ionium
+						ionic cordova resources</pre>
+						<p>Ionic Framework will create <b>resources</b> directory at the root of the project. This <b>resources</b> directory contains image file for icon and splash screen.</p>
+				</li>
+				<li>Create your own icon by save an <b>icon.png</b> (1024px x 1024px) in resource directory. The icon images dimension should follow the Ionic Framework recommended icon file dimension. This <a href="http://code.ionicframework.com/resources/icon.psd" target="_blank">icon template</a> provide the recommended size icon files.</li>
+				<li>Create your own splash screen by save a <b>splash.png</b> (2732px x 2732px) in resource directory. The splash screen images dimension should follow the Ionic Framework recommended splash screen file dimension. This <a href="http://code.ionicframework.com/resources/splash.psd" target="_blank">splash screen template</a> provide the recommended size splash screen files.</li>
+				<li>Every time you change the icon or splash screen, you have to run <b>ionic cordova resources</b>. Ionic will will automatically generate the icon and splash for each screen size using the icon.png and splash.png you provided.</li>
+			</ol>
+		<hr>
+
+		<h3 id="credit"><strong>L) Sources & Credits</strong> - <a href="#toc">top</a></h3>
+		<p>Thanks for all of you that give me resources and inspirations.</p>
+		<ul>
+        <li><a href="http://ionic.io" target="_blank">Ionic Framework</a></li>
+        <li><a href="http://blog.ionic.io/" target="_blank">Ionic Blog</a></li>
+        <li><a href="http://market.ionic.io/" target="_blank">Ionic Market</a></li>
+		<li><a href="http://ionicons.com" target="_blank">Ionic Icons</a></li>
+		<li><a href="https://pixabay.com" target="_blank">Pixabay</a></li>
+		<li><a href="https://yannbraga.com/" target="_blank">Yann Braga</a></li>
+		<li><a href="https://github.com/lohanidamodar" target="_blank">Damodar Lohani</a></li>
+		<li><a href="https://github.com/Fdom92" target="_blank">Fernando del Olmo</a></li>
+		<li><a href="https://github.com/danielsogl" target="_blank">Daniel Sogl</a></li>
+		<li><a href="https://github.com/javico2609" target="_blank">Javier</a></li>
+		<li><a href="https://github.com/miguelcarrascoq" target="_blank">Miguel Carrasco</a></li>
+		<li><a href="https://github.com/corysmc" target="_blank">Cory</a></li>
+		<li><a href="https://github.com/medeirosrafael" target="_blank">Rafael Medeiros</a></li>
+    </ul>
+		<hr>
+
+		<h3 id="version"><strong>M) Version History</strong> - <a href="#toc">top</a></h3>
+		<ul>
+			<li><b>Version 1.3.0</b> - Released 18 November 2017</li>
+			<ol>
+				<li><b>IMPORTANT!!: </b>
+					Since v1.3+ we will not include <b>node_modules</b> and <b>plugins</b> directory in app. You will install node_module and plugins yourself. Dont worry, all plugins and node_modules will follow our <b>package.json</b> file.
+				</li>
+				<li><b>Updates:</b>
+					<ul>
+						<li>Latest Ionic Angular 3.9.2 (<a href="https://github.com/ionic-team/ionic/blob/master/CHANGELOG.md#392-2017-11-08" target="_blank">2017-11-08</a>)</li>
+						<li>Latest Angular 5.0 and App Script 3.1.0 (<a href="https://github.com/ionic-team/ionic/blob/master/CHANGELOG.md#390-2017-11-08" target="_blank">2017-11-08</a>)</li>
+						<li>Documentation: <a href="#installIonic">D.1) Installing Ionic Framework</a></li>
+					</ul>
+				</li>
+			</ol>
+			<li><b>Version 1.2 </b> - Released 27 September 2017</li>
+			<ol>
+				<li><b>New Features:</b>
+					<ul>
+						<li><b>Firebase - Login, Register, Logout</b></li>
+						<li><b>Firebase - Upload Profile Image</b></li>
+						<li><b>Settings - Multilanguage i8n support</b></li>
+					</ul>
+				</li>
+			</ol>
+			<li><b>Version 1.1 </b> - Released 05 September 2017</li>
+			<ol>
+				<li><b>New Features:</b>
+					<ul>
+						<li><b>Login</b> - New 5 UI Templates (Login Instagram Style, Login with Image Background, Login with Slider Text, Login with Video Background, Login with Slider background)</li>
+						<li><b>Side menu</b> - New 2 UI Templates (Side Menu with Avatar, Side Menu Material Design)</li>
+						<li><b>Miscellaneous</b> - New 9 UI Templates (Autosizing Textarea, Blog Post, Countdown, Expandable Header, Flash Card, Masonry Cards, Testimonials, Timeline, Tinder Cards)</li>
+						<li><b>Profiles</b> - New 4 UI Templates (Profile Type 1, Profile Type 2, Profile Type 3, Profile Setting)</li>
+						<li><b>Slides</b> - New 8 UI Templates (Slide with Color Changing, Slide with Free Mode, Multiple Slides, Nested Slides, Slide Transitions, Slide Right to Left, Slide with Pagination Row, Slide Walkthrough)</li>
+						<li><b>Theming</b> - Default and Dark</li>
+					</ul>
+				</li>
+				<li><b>Performance:</b>
+					<ul>
+						<li>New navigation style</li>
+					</ul>
+				</li>
+				<li><b>Issues fixed:</b>
+					<ul>
+						<li>Fixed: Splash screen delay</li>
+					</ul>
+				</li>
+			</ol>
+			<li><b>Version 1.0</b> - Released 07 Augustus 2017</li>
+		</ul>
+		<hr>
+
+		<p>Once again, thank you so much for purchasing Ionium 2 - Ionic Premium Multipurpose App. As I said at the beginning, I'd be glad to help you if you have any questions relating to this app. No guarantees, but I'll do my best to assist. If you have a more general question relating to the app on CodeCanyon, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p>
+		<p class="append-bottom alt large"><strong>Ionic Premium</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>
