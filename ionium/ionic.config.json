@@ -1,8 +1,0 @@
-{
-  "name": "Ionium2",
-  "app_id": "fe5388fc",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
