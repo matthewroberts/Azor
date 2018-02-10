@@ -8,7 +8,7 @@ import { NavController, IonicPage } from 'ionic-angular';
 })
 export class FirebaseAuthPage {
 
-  backgroundImage = 'assets/img/background/background-2.jpg';
+  backgroundImage = 'assets/img/background/splash2-small.png';
   public loginForm: any;
 
   constructor(public navCtrl: NavController) {  }

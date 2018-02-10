@@ -2,6 +2,7 @@ import { SharedModule } from './shared.module';
 import { ErrorHandler, NgModule, enableProdMode } from '@angular/core';  //enableProdMode : make development faster
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
 import { MyApp } from './app.component';
+import { SwingModule } from 'angular2-swing';
 
 import { MODULES, PROVIDERS, NATIVES  } from './app.imports';
 
@@ -15,7 +16,8 @@ enableProdMode();
   imports: [
     MODULES,
     IonicModule.forRoot(MyApp),
-    SharedModule
+    SharedModule,
+    SwingModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [

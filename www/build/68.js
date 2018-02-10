@@ -30,7 +30,7 @@ var FirebaseRegisterPage = /** @class */ (function () {
         this.navCtrl = navCtrl;
         this.navParams = navParams;
         this.formBuilder = formBuilder;
-        this.backgroundImage = 'assets/img/background/background-2.jpg';
+        this.backgroundImage = 'assets/img/background/splash3-small.png';
         this.regisForm = this.formBuilder.group({
             'nameRegister': ['', __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].compose([__WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].required])],
             'emailRegister': ['', __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].compose([__WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].required, __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].pattern(/[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/)])],
@@ -55,7 +55,7 @@ var FirebaseRegisterPage = /** @class */ (function () {
                     });
                     _this.alert.present().then(function () {
                         if (result.uid)
-                            _this.navCtrl.setRoot('FirebaseListPage');
+                            _this.navCtrl.setRoot('ProfileFourPage');
                     });
                 });
                 _this.loading = null;
@@ -81,7 +81,7 @@ var FirebaseRegisterPage = /** @class */ (function () {
     };
     FirebaseRegisterPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-firebase-register',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-register\firebase-register.html"*/'<ion-content padding class="transparent-header" [ngStyle]="{\'background-image\': \'url(\' + backgroundImage +\')\'}">    \n  <ion-header no-border>\n    <ion-navbar transparent>\n    </ion-navbar>\n  </ion-header>\n  <div class="login-container">\n    <img class="logo" src="assets/img/logo/logo.png" />\n    <h2>Register</h2>\n    <ion-row>\n      <form [formGroup]="regisForm" (ngSubmit)="doRegister()" #registerForm="ngForm">                \n        <ion-item padding-right>\n          <ion-label>Nama</ion-label>\n          <ion-input type="text" formControlName="nameRegister" ></ion-input>                \n        </ion-item>\n        <ion-item padding-right>\n          <ion-label>Email</ion-label>\n          <ion-input type="text" formControlName="emailRegister" ></ion-input>                \n        </ion-item>\n        <ion-item padding-right>\n          <ion-label>Password</ion-label>\n          <ion-input type="password" formControlName="passwordRegister" ></ion-input>                \n        </ion-item>\n        <div>\n          <button ion-button class="submit-btn" full type="submit" [disabled]="!registerForm.form.valid">SIGN UP</button>\n        </div>\n      </form>\n    </ion-row>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-register\firebase-register.html"*/,
+            selector: 'page-firebase-register',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-register\firebase-register.html"*/'<ion-content padding class="transparent-header" [ngStyle]="{\'background-image\': \'url(\' + backgroundImage +\')\'}">    \n  <ion-header no-border>\n    <ion-navbar transparent>\n    </ion-navbar>\n  </ion-header>\n  <div class="login-container">\n    <img class="logo" src="assets/img/logo/azorlogo.png" />\n    <h2>Register</h2>\n    <ion-row>\n      <form [formGroup]="regisForm" (ngSubmit)="doRegister()" #registerForm="ngForm">                \n        <ion-item padding-right>\n          <ion-label>Name</ion-label>\n          <ion-input type="text" formControlName="nameRegister" ></ion-input>                \n        </ion-item>\n        <ion-item padding-right>\n          <ion-label>Email</ion-label>\n          <ion-input type="text" formControlName="emailRegister" ></ion-input>                \n        </ion-item>\n        <ion-item padding-right>\n          <ion-label>Password</ion-label>\n          <ion-input type="password" formControlName="passwordRegister" ></ion-input>                \n        </ion-item>\n        <div>\n          <button ion-button class="submit-btn" full type="submit" [disabled]="!registerForm.form.valid">SIGN UP</button>\n        </div>\n      </form>\n    </ion-row>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-register\firebase-register.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */],
             __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */],

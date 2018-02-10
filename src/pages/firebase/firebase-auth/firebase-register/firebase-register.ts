@@ -17,7 +17,7 @@ export class FirebaseRegisterPage {
   emailRegister: AbstractControl;
   passwordRegister: AbstractControl;
 
-  backgroundImage = 'assets/img/background/background-2.jpg';
+  backgroundImage = 'assets/img/background/splash3-small.png';
 
   constructor(
     public loadingCtrl: LoadingController,
@@ -54,7 +54,7 @@ export class FirebaseRegisterPage {
               buttons: ['OK']
             });
             this.alert.present().then(()=>{
-              if(result.uid) this.navCtrl.setRoot('FirebaseListPage');
+              if(result.uid) this.navCtrl.setRoot('ProfileFourPage');
             });
           });
           this.loading = null; 

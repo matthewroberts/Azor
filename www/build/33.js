@@ -8,7 +8,7 @@ webpackJsonp([33],{
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_crop__ = __webpack_require__(466);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_camera__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_camera__ = __webpack_require__(454);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -51,11 +51,14 @@ var NativeCropPage = /** @class */ (function () {
             .then(function (fileUri) {
             // Crop Image, on android this returns something like, '/storage/emulated/0/Android/...'
             // Only giving an android example as ionic-native camera has built in cropping ability
-            if (_this.platform.is('android')) {
+            if (_this.platform.is('ios')) {
+                return _this.crop.crop(fileUri);
+            }
+            else if (_this.platform.is('android')) {
                 // Modify fileUri format, may not always be necessary
                 fileUri = 'file://' + fileUri;
                 /* Using cordova-plugin-crop starts here */
-                return _this.crop.crop(fileUri, { quality: 100 });
+                return _this.crop.crop(fileUri);
             }
         })
             .then(function (path) {
@@ -79,10 +82,12 @@ var NativeCropPage = /** @class */ (function () {
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
             selector: 'page-native-crop',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-crop\native-crop.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Native Crop</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n  <button ion-button block color="primary" (click)="getMedia()" > Get Picture and Crop</button>\n  <br>\n  <img [src]="croped_image" *ngIf="croped_image" />\n  <p> {{ successMessage }} </p>\n  <p> {{ errorMessage }} </p>\n  <br>\n\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-crop\native-crop.html"*/,
         }),
-        __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_3__ionic_native_camera__["a" /* Camera */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_3__ionic_native_camera__["a" /* Camera */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__ionic_native_crop__["a" /* Crop */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__ionic_native_crop__["a" /* Crop */]) === "function" && _b || Object, typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["p" /* Platform */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["p" /* Platform */]) === "function" && _c || Object, typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */]) === "function" && _d || Object])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3__ionic_native_camera__["a" /* Camera */],
+            __WEBPACK_IMPORTED_MODULE_2__ionic_native_crop__["a" /* Crop */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["p" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */]])
     ], NativeCropPage);
     return NativeCropPage;
-    var _a, _b, _c, _d;
 }());
 
 //# sourceMappingURL=native-crop.js.map

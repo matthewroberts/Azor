@@ -4,12 +4,12 @@
     </ion-navbar>
   </ion-header>
   <div class="login-container">
-    <img class="logo" src="assets/img/logo/logo.png" />
+    <img class="logo" src="assets/img/logo/azorlogo.png" />
     <h2>Register</h2>
     <ion-row>
       <form [formGroup]="regisForm" (ngSubmit)="doRegister()" #registerForm="ngForm">                
         <ion-item padding-right>
-          <ion-label>Nama</ion-label>
+          <ion-label>Name</ion-label>
           <ion-input type="text" formControlName="nameRegister" ></ion-input>                
         </ion-item>
         <ion-item padding-right>

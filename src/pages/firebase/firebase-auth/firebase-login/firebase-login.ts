@@ -16,7 +16,7 @@ export class FirebaseLoginPage {
   email: AbstractControl;
   password: AbstractControl;
 
-  backgroundImage = 'assets/img/background/background-2.jpg';
+  backgroundImage = 'assets/img/background/splash3-small.png';
 
   constructor(
     public loadingCtrl: LoadingController,
@@ -46,7 +46,7 @@ export class FirebaseLoginPage {
         if(this.loading || this.alert){ 
           this.loading.dismiss().then(()=>{
             if (allowed[0]) {
-              this.navCtrl.setRoot('FirebaseListPage');
+              this.navCtrl.setRoot('ProfileFourPage');
             } else {
               this.showError(allowed[1]);
             }
