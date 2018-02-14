@@ -1,1 +1,73 @@
-webpackJsonp([62],{861:function(l,n,e){"use strict";function a(l){return d["ɵvid"](0,[(l()(),d["ɵeld"](0,0,null,null,4,"div",[["class","post-description"]],null,null,null,null,null)),(l()(),d["ɵted"](-1,null,["\n        "])),(l()(),d["ɵeld"](2,0,null,null,1,"small",[],null,null,null,null,null)),(l()(),d["ɵted"](3,null,["",""])),(l()(),d["ɵted"](-1,null,["\n      "]))],null,function(l,n){l(n,3,0,n.parent.context.$implicit.description)})}function u(l){return d["ɵvid"](0,[(l()(),d["ɵeld"](0,0,null,null,28,"ion-card",[["class","pin"]],null,null,null,null,null)),d["ɵdid"](1,16384,null,0,h.a,[R.a,d.ElementRef,d.Renderer],null,null),(l()(),d["ɵted"](-1,null,["\n      "])),(l()(),d["ɵeld"](3,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),d["ɵted"](-1,null,["\n      "])),(l()(),d["ɵand"](16777216,null,null,1,null,a)),d["ɵdid"](6,16384,null,0,v.NgIf,[d.ViewContainerRef,d.TemplateRef],{ngIf:[0,"ngIf"]},null),(l()(),d["ɵted"](-1,null,["\n      "])),(l()(),d["ɵeld"](8,0,null,null,19,"ion-item",[["class","item item-block"]],null,null,null,C.b,C.a)),d["ɵdid"](9,1097728,null,3,y.a,[x.a,R.a,d.ElementRef,d.Renderer,[2,_.a]],null,null),d["ɵqud"](335544320,1,{contentLabel:0}),d["ɵqud"](603979776,2,{_buttons:1}),d["ɵqud"](603979776,3,{_icons:1}),d["ɵdid"](13,16384,null,0,D.a,[],null,null),(l()(),d["ɵted"](-1,2,["\n        "])),(l()(),d["ɵeld"](15,0,null,0,4,"ion-avatar",[["item-start",""]],null,null,null,null,null)),d["ɵdid"](16,16384,null,0,E.a,[],null,null),(l()(),d["ɵted"](-1,null,["\n          "])),(l()(),d["ɵeld"](18,0,null,null,0,"img",[["src","assets/img/avatar/marty-avatar.png"]],null,null,null,null,null)),(l()(),d["ɵted"](-1,null,["\n        "])),(l()(),d["ɵted"](-1,2,["\n        "])),(l()(),d["ɵeld"](21,0,null,2,1,"small",[],null,null,null,null,null)),(l()(),d["ɵted"](-1,null,["McFly"])),(l()(),d["ɵted"](-1,2,["\n        "])),(l()(),d["ɵeld"](24,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),d["ɵeld"](25,0,null,null,1,"small",[],null,null,null,null,null)),(l()(),d["ɵted"](-1,null,["Category"])),(l()(),d["ɵted"](-1,2,["\n      "])),(l()(),d["ɵted"](-1,null,["\n    "]))],function(l,n){l(n,6,0,n.context.$implicit.description)},function(l,n){l(n,3,0,n.context.$implicit.image)})}function t(l){return d["ɵvid"](0,[(l()(),d["ɵeld"](0,0,null,null,10,"ion-header",[],null,null,null,null,null)),d["ɵdid"](1,16384,null,0,j.a,[R.a,d.ElementRef,d.Renderer,[2,I.a]],null,null),(l()(),d["ɵted"](-1,null,["\n\n  "])),(l()(),d["ɵeld"](3,0,null,null,6,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,N.b,N.a)),d["ɵdid"](4,49152,null,0,F.a,[L.a,[2,I.a],[2,M.a],R.a,d.ElementRef,d.Renderer],{color:[0,"color"]},null),(l()(),d["ɵted"](-1,3,["\n    "])),(l()(),d["ɵeld"](6,0,null,3,2,"ion-title",[],null,null,null,V.b,V.a)),d["ɵdid"](7,49152,null,0,O.a,[R.a,d.ElementRef,d.Renderer,[2,K.a],[2,F.a]],null,null),(l()(),d["ɵted"](-1,0,["Masonry Cards"])),(l()(),d["ɵted"](-1,3,["\n  "])),(l()(),d["ɵted"](-1,null,["\n\n"])),(l()(),d["ɵted"](-1,null,["\n"])),(l()(),d["ɵeld"](12,0,null,null,8,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,P.b,P.a)),d["ɵdid"](13,4374528,null,0,w.a,[R.a,T.a,q.a,d.ElementRef,d.Renderer,L.a,z.a,d.NgZone,[2,I.a],[2,M.a]],null,null),(l()(),d["ɵted"](-1,1,["\n  "])),(l()(),d["ɵeld"](15,0,null,1,4,"div",[["class","pins"]],null,null,null,null,null)),(l()(),d["ɵted"](-1,null,["\n    "])),(l()(),d["ɵand"](16777216,null,null,1,null,u)),d["ɵdid"](18,802816,null,0,v.NgForOf,[d.ViewContainerRef,d.TemplateRef,d.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),d["ɵted"](-1,null,["\n  "])),(l()(),d["ɵted"](-1,1,["\n"])),(l()(),d["ɵted"](-1,null,["\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,18,0,e.posts)},function(l,n){l(n,3,0,d["ɵnov"](n,4)._hidden,d["ɵnov"](n,4)._sbPadding);l(n,12,0,d["ɵnov"](n,13).statusbarPadding,d["ɵnov"](n,13)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var d=e(1),i=(e(0),e(69),function(){function l(l,n){this.navCtrl=l,this.navParams=n,this.posts=[]}return l.prototype.ionViewDidLoad=function(){this.posts=[{description:"Trying out digital painting",image:"https://s-media-cache-ak0.pinimg.com/564x/d5/63/b0/d563b08194f0a92cc7d381f7f8582a08.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/236x/43/f3/3d/43f33de6f96ca8e6f8dc6ff1ad86b586.jpg"},{description:"Look at this amazing clay humming bird I crafted!",image:"https://s-media-cache-ak0.pinimg.com/236x/68/68/a2/6868a2f821e5d15cc8fcd8cfa1694606.jpg"},{description:"Origami tullip tutorial",image:"https://s-media-cache-ak0.pinimg.com/236x/38/6f/8e/386f8ec1725f09883d827094228d0f82.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/564x/f6/61/5c/f6615ca7068da18157588890f9e9e03a.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/564x/0d/29/35/0d2935d14c17aff1baab75360c9e2bd6.jpg"},{description:"Delicious chocolate bread recipe!",image:"https://s-media-cache-ak0.pinimg.com/564x/06/a9/8e/06a98e67111aae83a481a2c1dbb594a4.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/564x/d5/8c/37/d58c3783d6ebf79db0f9c057726800a0.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/564x/f5/35/97/f53597bf16aff91315a0beca27ffdbda.jpg"},{description:"",image:"https://s-media-cache-ak0.pinimg.com/564x/cf/fe/6d/cffe6dd7dece1cb0562f65cd3bfba1ac.jpg"},{description:"Fastest car of all times",image:"https://s-media-cache-ak0.pinimg.com/564x/5f/bf/34/5fbf3414f9de301c8f4b868b1c2e2339.jpg"}]},l}()),o=function(){return function(){}}(),c=e(456),s=e(457),r=e(458),f=e(459),m=e(460),p=e(461),b=e(462),g=e(463),k=e(464),h=e(229),R=e(4),v=e(21),C=e(225),y=e(29),x=e(26),_=e(65),D=e(91),E=e(234),j=e(145),I=e(8),N=e(903),F=e(56),L=e(14),M=e(36),V=e(466),O=e(90),K=e(57),P=e(465),w=e(37),T=e(7),q=e(15),z=e(43),$=e(19),B=d["ɵcrt"]({encapsulation:2,styles:[],data:{}}),A=d["ɵccf"]("page-masonry-cards",i,function(l){return d["ɵvid"](0,[(l()(),d["ɵeld"](0,0,null,null,1,"page-masonry-cards",[],null,null,null,t,B)),d["ɵdid"](1,49152,null,0,i,[M.a,$.a],null,null)],null,null)},{},{},[]),J=e(32),Z=e(222),G=e(64);e.d(n,"MasonryCardsPageModuleNgFactory",function(){return H});var H=d["ɵcmf"](o,[],function(l){return d["ɵmod"]([d["ɵmpd"](512,d.ComponentFactoryResolver,d["ɵCodegenComponentFactoryResolver"],[[8,[c.a,s.a,r.a,f.a,m.a,p.a,b.a,g.a,k.a,A]],[3,d.ComponentFactoryResolver],d.NgModuleRef]),d["ɵmpd"](4608,v.NgLocalization,v.NgLocaleLocalization,[d.LOCALE_ID,[2,v["ɵa"]]]),d["ɵmpd"](4608,J.t,J.t,[]),d["ɵmpd"](4608,J.d,J.d,[]),d["ɵmpd"](512,v.CommonModule,v.CommonModule,[]),d["ɵmpd"](512,J.r,J.r,[]),d["ɵmpd"](512,J.i,J.i,[]),d["ɵmpd"](512,J.p,J.p,[]),d["ɵmpd"](512,Z.a,Z.a,[]),d["ɵmpd"](512,Z.b,Z.b,[]),d["ɵmpd"](512,o,o,[]),d["ɵmpd"](256,G.a,i,[])])})},903:function(l,n,e){"use strict";function a(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),u["ɵdid"](1,278528,null,0,t.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.backButtonClick(e)&&a}return a},d.b,d.a)),u["ɵdid"](3,278528,null,0,t.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](4,1097728,null,0,i.a,[[8,"bar-button"],o.a,u.ElementRef,u.Renderer],null,null),(l()(),u["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),u["ɵdid"](6,278528,null,0,t.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](7,147456,null,0,c.a,[o.a,u.ElementRef,u.Renderer],{name:[0,"name"]},null),(l()(),u["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),u["ɵdid"](9,278528,null,0,t.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵted"](10,null,["",""])),u["ɵncd"](null,0),u["ɵncd"](null,1),u["ɵncd"](null,2),(l()(),u["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),u["ɵdid"](15,278528,null,0,t.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,u["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=a;var u=e(1),t=e(21),d=e(68),i=e(35),o=e(4),c=e(63),s=(e(56),e(8),e(36),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([62],{
+
+/***/ 1163:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TogglePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+var TogglePage = /** @class */ (function () {
+    function TogglePage() {
+    }
+    TogglePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-toggle',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\toggle\toggle.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Toggle</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <ion-list>\n    <ion-list-header>\n      Characters\n    </ion-list-header>\n\n    <ion-item>\n      <ion-label>Frodo Baggins</ion-label>\n      <ion-toggle value="foo" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Sam</ion-label>\n      <ion-toggle color="energized"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Éowyn</ion-label>\n      <ion-toggle color="danger" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Legolas</ion-label>\n      <ion-toggle color="royal" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Gimli</ion-label>\n      <ion-toggle color="danger"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Saruman</ion-label>\n      <ion-toggle color="dark" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Gandalf</ion-label>\n      <ion-toggle color="energized" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Arwen</ion-label>\n      <ion-toggle color="royal"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Treebeard</ion-label>\n      <ion-toggle color="secondary" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Boromir</ion-label>\n      <ion-toggle color="royal"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Gollum</ion-label>\n      <ion-toggle color="dark" checked="true"></ion-toggle>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Galadriel</ion-label>\n      <ion-toggle color="energized"></ion-toggle>\n    </ion-item>\n\n  </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\toggle\toggle.html"*/,
+        })
+    ], TogglePage);
+    return TogglePage;
+}());
+
+//# sourceMappingURL=toggle.js.map
+
+/***/ }),
+
+/***/ 892:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TogglePageModule", function() { return TogglePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toggle__ = __webpack_require__(1163);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var TogglePageModule = /** @class */ (function () {
+    function TogglePageModule() {
+    }
+    TogglePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__toggle__["a" /* TogglePage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__toggle__["a" /* TogglePage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__toggle__["a" /* TogglePage */]
+            ]
+        })
+    ], TogglePageModule);
+    return TogglePageModule;
+}());
+
+//# sourceMappingURL=toggle.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=62.js.map

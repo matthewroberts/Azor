@@ -1,1 +1,117 @@
-webpackJsonp([5],{900:function(l,n,e){"use strict";function t(l){return i["ɵvid"](0,[(l()(),i["ɵeld"](0,0,null,null,13,"ion-slide",[["class","text-center slider-item"]],null,null,null,R.b,R.a)),i["ɵdid"](1,278528,null,0,k.NgStyle,[i.KeyValueDiffers,i.ElementRef,i.Renderer2],{ngStyle:[0,"ngStyle"]},null),i["ɵpod"](2,{"background-image":0}),i["ɵdid"](3,180224,null,0,h.a,[i.ElementRef,i.Renderer,y.a],null,null),(l()(),i["ɵted"](-1,0,["\n        "])),(l()(),i["ɵeld"](5,0,null,0,7,"div",[["class","slide-text"]],null,null,null,null,null)),(l()(),i["ɵted"](-1,null,["\n          "])),(l()(),i["ɵeld"](7,0,null,null,1,"h2",[],null,null,null,null,null)),(l()(),i["ɵted"](8,null,["",""])),(l()(),i["ɵted"](-1,null,["\n          "])),(l()(),i["ɵeld"](10,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),i["ɵted"](11,null,[""," songs"])),(l()(),i["ɵted"](-1,null,["\n        "])),(l()(),i["ɵted"](-1,0,["\n      "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,8,0,n.context.$implicit.title);l(n,11,0,n.context.$implicit.songs)})}function u(l){return i["ɵvid"](0,[(l()(),i["ɵeld"](0,0,null,null,9,"ion-list",[["no-margin",""]],null,null,null,null,null)),i["ɵdid"](1,16384,null,0,C.a,[w.a,i.ElementRef,i.Renderer,D.a,F.l,E.a],null,null),(l()(),i["ɵted"](-1,null,["\n    "])),(l()(),i["ɵeld"](3,0,null,null,5,"ion-slides",[["pager",""]],null,null,null,_.b,_.a)),i["ɵdid"](4,1228800,null,0,y.a,[w.a,D.a,i.NgZone,[2,j.a],i.ElementRef,i.Renderer],{pager:[0,"pager"]},null),(l()(),i["ɵted"](-1,0,["\n      "])),(l()(),i["ɵand"](16777216,null,0,1,null,t)),i["ɵdid"](7,802816,null,0,k.NgForOf,[i.ViewContainerRef,i.TemplateRef,i.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),i["ɵted"](-1,0,["\n    "])),(l()(),i["ɵted"](-1,null,["\n  "]))],function(l,n){l(n,4,0,"");l(n,7,0,n.context.$implicit.slides)},null)}function s(l){return i["ɵvid"](0,[(l()(),i["ɵeld"](0,0,null,null,10,"ion-header",[],null,null,null,null,null)),i["ɵdid"](1,16384,null,0,N.a,[w.a,i.ElementRef,i.Renderer,[2,j.a]],null,null),(l()(),i["ɵted"](-1,null,["\n  "])),(l()(),i["ɵeld"](3,0,null,null,6,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,U.b,U.a)),i["ɵdid"](4,49152,null,0,x.a,[I.a,[2,j.a],[2,T.a],w.a,i.ElementRef,i.Renderer],{color:[0,"color"]},null),(l()(),i["ɵted"](-1,3,["\n    "])),(l()(),i["ɵeld"](6,0,null,3,2,"ion-title",[],null,null,null,O.b,O.a)),i["ɵdid"](7,49152,null,0,V.a,[w.a,i.ElementRef,i.Renderer,[2,L.a],[2,x.a]],null,null),(l()(),i["ɵted"](-1,0,["Slider List"])),(l()(),i["ɵted"](-1,3,["\n  "])),(l()(),i["ɵted"](-1,null,["\n"])),(l()(),i["ɵted"](-1,null,["\n"])),(l()(),i["ɵeld"](12,0,null,null,5,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,M.b,M.a)),i["ɵdid"](13,4374528,null,0,K.a,[w.a,D.a,E.a,i.ElementRef,i.Renderer,I.a,A.a,i.NgZone,[2,j.a],[2,T.a]],null,null),(l()(),i["ɵted"](-1,1,["\n  "])),(l()(),i["ɵand"](16777216,null,1,1,null,u)),i["ɵdid"](16,802816,null,0,k.NgForOf,[i.ViewContainerRef,i.TemplateRef,i.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),i["ɵted"](-1,1,["\n"])),(l()(),i["ɵted"](-1,null,["\n\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,16,0,e.items)},function(l,n){l(n,3,0,i["ɵnov"](n,4)._hidden,i["ɵnov"](n,4)._sbPadding);l(n,12,0,i["ɵnov"](n,13).statusbarPadding,i["ɵnov"](n,13)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var i=e(1),a=(e(0),e(69),function(){return function(l){this.navCtrl=l,this.items=[{name:"one",slides:[{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",songs:2,private:!1},{title:"For the Weekend",imageUrl:"assets/img/lists/wishlist-2.jpg",songs:4,private:!1},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",songs:5,private:!0},{title:"My Trip",imageUrl:"assets/img/lists/wishlist-4.jpg",songs:12,private:!0}]},{name:"one",slides:[{title:"My Trip",imageUrl:"assets/img/lists/wishlist-4.jpg",songs:12,private:!0},{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",songs:2,private:!1},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",songs:5,private:!0}]},{name:"one",slides:[{title:"For the Weekend",imageUrl:"assets/img/lists/wishlist-2.jpg",songs:4,private:!1},{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",songs:2,private:!1},{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",songs:2,private:!1},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",songs:5,private:!0},{title:"For the Weekend",imageUrl:"assets/img/lists/wishlist-2.jpg",songs:4,private:!1},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",songs:5,private:!0}]}]}}()),r=function(){return function(){}}(),d=e(456),o=e(457),c=e(458),g=e(459),m=e(460),f=e(461),p=e(462),b=e(463),v=e(464),R=e(907),k=e(21),h=e(226),y=e(146),C=e(70),w=e(4),D=e(7),F=e(12),E=e(15),_=e(906),j=e(8),N=e(145),U=e(903),x=e(56),I=e(14),T=e(36),O=e(466),V=e(90),L=e(57),M=e(465),K=e(37),A=e(43),S=i["ɵcrt"]({encapsulation:2,styles:[],data:{}}),P=i["ɵccf"]("page-slider-list",a,function(l){return i["ɵvid"](0,[(l()(),i["ɵeld"](0,0,null,null,1,"page-slider-list",[],null,null,null,s,S)),i["ɵdid"](1,49152,null,0,a,[T.a],null,null)],null,null)},{},{},[]),$=e(32),z=e(222),W=e(64);e.d(n,"SliderListPageModuleNgFactory",function(){return B});var B=i["ɵcmf"](r,[],function(l){return i["ɵmod"]([i["ɵmpd"](512,i.ComponentFactoryResolver,i["ɵCodegenComponentFactoryResolver"],[[8,[d.a,o.a,c.a,g.a,m.a,f.a,p.a,b.a,v.a,P]],[3,i.ComponentFactoryResolver],i.NgModuleRef]),i["ɵmpd"](4608,k.NgLocalization,k.NgLocaleLocalization,[i.LOCALE_ID,[2,k["ɵa"]]]),i["ɵmpd"](4608,$.t,$.t,[]),i["ɵmpd"](4608,$.d,$.d,[]),i["ɵmpd"](512,k.CommonModule,k.CommonModule,[]),i["ɵmpd"](512,$.r,$.r,[]),i["ɵmpd"](512,$.i,$.i,[]),i["ɵmpd"](512,$.p,$.p,[]),i["ɵmpd"](512,z.a,z.a,[]),i["ɵmpd"](512,z.b,z.b,[]),i["ɵmpd"](512,r,r,[]),i["ɵmpd"](256,W.a,a,[])])})},903:function(l,n,e){"use strict";function t(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),u["ɵdid"](1,278528,null,0,s.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},i.b,i.a)),u["ɵdid"](3,278528,null,0,s.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](4,1097728,null,0,a.a,[[8,"bar-button"],r.a,u.ElementRef,u.Renderer],null,null),(l()(),u["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),u["ɵdid"](6,278528,null,0,s.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](7,147456,null,0,d.a,[r.a,u.ElementRef,u.Renderer],{name:[0,"name"]},null),(l()(),u["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),u["ɵdid"](9,278528,null,0,s.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵted"](10,null,["",""])),u["ɵncd"](null,0),u["ɵncd"](null,1),u["ɵncd"](null,2),(l()(),u["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),u["ɵdid"](15,278528,null,0,s.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,u["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return o}),n.b=t;var u=e(1),s=e(21),i=e(68),a=e(35),r=e(4),d=e(63),o=(e(56),e(8),e(36),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},906:function(l,n,e){"use strict";function t(l){return u["ɵvid"](2,[(l()(),u["ɵeld"](0,0,null,null,3,"div",[["class","swiper-container"]],[[1,"dir",0]],null,null,null,null)),(l()(),u["ɵeld"](1,0,null,null,1,"div",[["class","swiper-wrapper"]],null,null,null,null,null)),u["ɵncd"](null,0),(l()(),u["ɵeld"](3,0,null,null,0,"div",[["class","swiper-pagination"]],[[2,"hide",null]],null,null,null,null))],null,function(l,n){var e=n.component;l(n,0,0,e._rtl?"rtl":null);l(n,3,0,!e.pager)})}e.d(n,"a",function(){return s}),n.b=t;var u=e(1),s=(e(146),e(4),e(7),e(8),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},907:function(l,n,e){"use strict";function t(l){return u["ɵvid"](2,[(l()(),u["ɵeld"](0,0,null,null,1,"div",[["class","slide-zoom"]],null,null,null,null,null)),u["ɵncd"](null,0)],null,null)}e.d(n,"a",function(){return s}),n.b=t;var u=e(1),s=(e(226),e(146),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([5],{
+
+/***/ 1269:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideWalkthroughPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var SlideWalkthroughPage = /** @class */ (function () {
+    function SlideWalkthroughPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.slideIndex = 0;
+        this.slides = [
+            {
+                title: 'Dream\'s Adventure',
+                imageUrl: 'assets/img/lists/wishlist-1.jpg',
+                description: 'Take a look at our amazing options',
+            },
+            {
+                title: 'For the Weekend',
+                imageUrl: 'assets/img/lists/wishlist-2.jpg',
+                description: 'Take a look at our amazing options',
+            },
+            {
+                title: 'Family Time',
+                imageUrl: 'assets/img/lists/wishlist-3.jpg',
+                description: 'Take a look at our amazing options',
+            },
+            {
+                title: 'My Trip',
+                imageUrl: 'assets/img/lists/wishlist-4.jpg',
+                description: 'Take a look at our amazing options',
+            }
+        ];
+    }
+    SlideWalkthroughPage.prototype.onSlideChanged = function () {
+        this.slideIndex = this.slider.getActiveIndex();
+        console.log('Slide changed! Current index is', this.slideIndex);
+    };
+    SlideWalkthroughPage.prototype.goToApp = function () {
+        console.log('Go to App clicked');
+    };
+    SlideWalkthroughPage.prototype.skip = function () {
+        console.log('Skip clicked');
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('slider'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* Slides */])
+    ], SlideWalkthroughPage.prototype, "slider", void 0);
+    SlideWalkthroughPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-slide-walkthrough',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-walkthrough\slide-walkthrough.html"*/'<ion-header no-border>\n  <ion-navbar transparent>\n    <ion-buttons right>\n      <button ion-button color="light"\n              *ngIf="slideIndex < slides.length - 1"\n              class="skip-button"\n              (click)="skip()">SKIP</button>\n    </ion-buttons>\n  </ion-navbar>\n</ion-header>\n<ion-content fullscreen="true" class="no-padding-top">\n  <ion-slides #slider pager="true" autoplay="3000" (ionSlideWillChange)="onSlideChanged()">\n    <ion-slide *ngFor="let slide of slides"\n               class="slide-background"\n               [ngStyle]="{\'background-image\': \'url(\' + slide.imageUrl +\')\'}">\n      <div class="text-wrapper">\n        <div class="slide-text">\n          <h2 class="slide-title" [innerHTML]="slide.title"></h2><br>\n          <p [innerHTML]="slide.description"></p>\n        </div>\n      </div>\n    </ion-slide>\n  </ion-slides>\n  <div class="floating-buttons pop-in" *ngIf="slideIndex >= slides.length - 1">\n    <button ion-button clear large full (click)="goToApp()">Let\'s go!</button>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-walkthrough\slide-walkthrough.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], SlideWalkthroughPage);
+    return SlideWalkthroughPage;
+}());
+
+//# sourceMappingURL=slide-walkthrough.js.map
+
+/***/ }),
+
+/***/ 950:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SlideWalkthroughPageModule", function() { return SlideWalkthroughPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__slide_walkthrough__ = __webpack_require__(1269);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var SlideWalkthroughPageModule = /** @class */ (function () {
+    function SlideWalkthroughPageModule() {
+    }
+    SlideWalkthroughPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__slide_walkthrough__["a" /* SlideWalkthroughPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__slide_walkthrough__["a" /* SlideWalkthroughPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__slide_walkthrough__["a" /* SlideWalkthroughPage */]
+            ]
+        })
+    ], SlideWalkthroughPageModule);
+    return SlideWalkthroughPageModule;
+}());
+
+//# sourceMappingURL=slide-walkthrough.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=5.js.map

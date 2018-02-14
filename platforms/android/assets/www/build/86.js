@@ -1,1 +1,78 @@
-webpackJsonp([86],{812:function(l,n,e){"use strict";function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,h.a,[p.a,a.ElementRef,a.Renderer,[2,k.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\n  "])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,R.b,R.a)),a["ɵdid"](4,49152,null,0,v.a,[C.a,[2,k.a],[2,y.a],p.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==a["ɵnov"](l,8).toggle()&&t}return t},_.b,_.a)),a["ɵdid"](7,1097728,[[1,4]],0,E.a,[[8,""],p.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,D.a,[N.a,[2,k.a],[2,E.a],[2,v.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,S.a,[p.a,a.ElementRef,a.Renderer,[2,x.a],[2,v.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,A.a,[p.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,I.b,I.a)),a["ɵdid"](17,49152,null,0,P.a,[p.a,a.ElementRef,a.Renderer,[2,x.a],[2,v.a]],null,null),(l()(),a["ɵted"](-1,0,["Action Sheets"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n\n\n"])),(l()(),a["ɵeld"](22,0,null,null,6,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,F.b,F.a)),a["ɵdid"](23,4374528,null,0,w.a,[p.a,K.a,L.a,a.ElementRef,a.Renderer,C.a,M.a,a.NgZone,[2,k.a],[2,y.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](25,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showActionSheet()&&t}return t},_.b,_.a)),a["ɵdid"](26,1097728,null,0,E.a,[[8,""],p.a,a.ElementRef,a.Renderer],{block:[0,"block"]},null),(l()(),a["ɵted"](-1,0,["\n      Show Action Sheet\n  "])),(l()(),a["ɵted"](-1,1,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"")},function(l,n){l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),u=(e(0),e(69),function(){function l(l,n,e,t){this.platform=l,this.actionSheetCtrl=n,this.navCtrl=e,this.navParams=t}return l.prototype.showActionSheet=function(){this.actionSheetCtrl.create({title:"Your Albums",cssClass:"action-sheets-basic-page",buttons:[{text:"Delete",role:"destructive",icon:this.platform.is("ios")?null:"trash",handler:function(){console.log("Delete clicked")}},{text:"Share",icon:this.platform.is("ios")?null:"share",handler:function(){console.log("Share clicked")}},{text:"Play",icon:this.platform.is("ios")?null:"arrow-dropright-circle",handler:function(){console.log("Play clicked")}},{text:"Favorite",icon:this.platform.is("ios")?null:"heart-outline",handler:function(){console.log("Favorite clicked")}},{text:"Cancel",role:"cancel",icon:this.platform.is("ios")?null:"close",handler:function(){console.log("Cancel clicked")}}]}).present()},l}()),o=function(){return function(){}}(),i=e(456),d=e(457),r=e(458),s=e(459),c=e(460),f=e(461),b=e(462),m=e(463),g=e(464),h=e(145),p=e(4),k=e(8),R=e(903),v=e(56),C=e(14),y=e(36),_=e(68),E=e(35),D=e(224),N=e(39),S=e(223),x=e(57),A=e(63),I=e(466),P=e(90),F=e(465),w=e(37),K=e(7),L=e(15),M=e(43),V=e(164),T=e(19),z=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),B=a["ɵccf"]("page-action-sheets",u,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-action-sheets",[],null,null,null,t,z)),a["ɵdid"](1,49152,null,0,u,[K.a,V.a,y.a,T.a],null,null)],null,null)},{},{},[]),O=e(21),j=e(32),q=e(222),H=e(64);e.d(n,"ActionSheetsPageModuleNgFactory",function(){return J});var J=a["ɵcmf"](o,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[i.a,d.a,r.a,s.a,c.a,f.a,b.a,m.a,g.a,B]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,O.NgLocalization,O.NgLocaleLocalization,[a.LOCALE_ID,[2,O["ɵa"]]]),a["ɵmpd"](4608,j.t,j.t,[]),a["ɵmpd"](4608,j.d,j.d,[]),a["ɵmpd"](512,O.CommonModule,O.CommonModule,[]),a["ɵmpd"](512,j.r,j.r,[]),a["ɵmpd"](512,j.i,j.i,[]),a["ɵmpd"](512,j.p,j.p,[]),a["ɵmpd"](512,q.a,q.a,[]),a["ɵmpd"](512,q.b,q.b,[]),a["ɵmpd"](512,o,o,[]),a["ɵmpd"](256,H.a,u,[])])})},903:function(l,n,e){"use strict";function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},o.b,o.a)),a["ɵdid"](3,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,i.a,[[8,"bar-button"],d.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,r.a,[d.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=t;var a=e(1),u=e(21),o=e(68),i=e(35),d=e(4),r=e(63),s=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([86],{
+
+/***/ 1105:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DatetimePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+var DatetimePage = /** @class */ (function () {
+    function DatetimePage() {
+        this.event = {
+            month: '1990-02-19',
+            timeStarts: '07:43',
+            timeEnds: '1990-02-20'
+        };
+    }
+    DatetimePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-datetime',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\components\datetime\datetime.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Datetime</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <ion-list>\n    <ion-item>\n      <ion-input placeholder="Title"></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-input placeholder="Location"></ion-input>\n    </ion-item>\n  </ion-list>\n\n  <ion-list>\n    <ion-item>\n      <ion-label>Start Date</ion-label>\n      <ion-datetime displayFormat="MMM DD YYYY" [(ngModel)]="event.month"></ion-datetime>\n    </ion-item>\n\n\n    <ion-item>\n      <ion-label>Start Time</ion-label>\n      <ion-datetime displayFormat="h:mm A" pickerFormat="h mm A" [(ngModel)]="event.timeStarts"></ion-datetime>\n    </ion-item>\n\n    <ion-item>\n      <ion-label>Ends</ion-label>\n      <ion-datetime displayFormat="MMM DD YYYY" [(ngModel)]="event.timeEnds"></ion-datetime>\n    </ion-item>\n\n    <button ion-item>\n      <ion-label>Repeat</ion-label>\n      <ion-note item-end>Never</ion-note>\n    </button>\n\n    <button ion-item>\n      <ion-label>Travel Time</ion-label>\n      <ion-note item-end>None</ion-note>\n    </button>\n  </ion-list>\n\n  <ion-list>\n    <button ion-item>\n      <ion-label>Alert</ion-label>\n      <ion-note item-end>None</ion-note>\n    </button>\n  </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\components\datetime\datetime.html"*/,
+        })
+    ], DatetimePage);
+    return DatetimePage;
+}());
+
+//# sourceMappingURL=datetime.js.map
+
+/***/ }),
+
+/***/ 867:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DatetimePageModule", function() { return DatetimePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__datetime__ = __webpack_require__(1105);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var DatetimePageModule = /** @class */ (function () {
+    function DatetimePageModule() {
+    }
+    DatetimePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__datetime__["a" /* DatetimePage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__datetime__["a" /* DatetimePage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__datetime__["a" /* DatetimePage */]
+            ]
+        })
+    ], DatetimePageModule);
+    return DatetimePageModule;
+}());
+
+//# sourceMappingURL=datetime.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=86.js.map

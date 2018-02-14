@@ -1,1 +1,110 @@
-webpackJsonp([6],{899:function(l,n,e){"use strict";function u(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,2,"button",[["class","skip-button"],["color","light"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.skip()&&u}return u},R.b,R.a)),o["ɵdid"](1,1097728,[[2,4]],0,h.a,[[8,""],C.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,0,["SKIP"]))],function(l,n){l(n,1,0,"light")},null)}function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,15,"ion-slide",[["class","slide-background"]],null,null,null,y.b,y.a)),o["ɵdid"](1,278528,null,0,I.NgStyle,[o.KeyValueDiffers,o.ElementRef,o.Renderer2],{ngStyle:[0,"ngStyle"]},null),o["ɵpod"](2,{"background-image":0}),o["ɵdid"](3,180224,null,0,E.a,[o.ElementRef,o.Renderer,_.a],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](5,0,null,0,9,"div",[["class","text-wrapper"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n        "])),(l()(),o["ɵeld"](7,0,null,null,6,"div",[["class","slide-text"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n          "])),(l()(),o["ɵeld"](9,0,null,null,0,"h2",[["class","slide-title"]],[[8,"innerHTML",1]],null,null,null,null)),(l()(),o["ɵeld"](10,0,null,null,0,"br",[],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n          "])),(l()(),o["ɵeld"](12,0,null,null,0,"p",[],[[8,"innerHTML",1]],null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n        "])),(l()(),o["ɵted"](-1,null,["\n      "])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,9,0,n.context.$implicit.title);l(n,12,0,n.context.$implicit.description)})}function a(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,5,"div",[["class","floating-buttons pop-in"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵeld"](2,0,null,null,2,"button",[["clear",""],["full",""],["ion-button",""],["large",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.goToApp()&&u}return u},R.b,R.a)),o["ɵdid"](3,1097728,null,0,h.a,[[8,""],C.a,o.ElementRef,o.Renderer],{large:[0,"large"],clear:[1,"clear"],full:[2,"full"]},null),(l()(),o["ɵted"](-1,0,["Let's go!"])),(l()(),o["ɵted"](-1,null,["\n  "]))],function(l,n){l(n,3,0,"","","")},null)}function i(l){return o["ɵvid"](0,[o["ɵqud"](402653184,1,{slider:0}),(l()(),o["ɵeld"](1,0,null,null,14,"ion-header",[["no-border",""]],null,null,null,null,null)),o["ɵdid"](2,16384,null,0,x.a,[C.a,o.ElementRef,o.Renderer,[2,w.a]],null,null),(l()(),o["ɵted"](-1,null,["\n  "])),(l()(),o["ɵeld"](4,0,null,null,10,"ion-navbar",[["class","toolbar"],["transparent",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,N.b,N.a)),o["ɵdid"](5,49152,null,0,D.a,[T.a,[2,w.a],[2,S.a],C.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](7,0,null,2,6,"ion-buttons",[["right",""]],null,null,null,null,null)),o["ɵdid"](8,16384,null,1,F.a,[C.a,o.ElementRef,o.Renderer,[2,V.a],[2,D.a]],null,null),o["ɵqud"](603979776,2,{_buttons:1}),(l()(),o["ɵted"](-1,null,["\n      "])),(l()(),o["ɵand"](16777216,null,null,1,null,u)),o["ɵdid"](12,16384,null,0,I.NgIf,[o.ViewContainerRef,o.TemplateRef],{ngIf:[0,"ngIf"]},null),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵeld"](17,0,null,null,12,"ion-content",[["class","no-padding-top"],["fullscreen","true"]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,L.b,L.a)),o["ɵdid"](18,4374528,null,0,M.a,[C.a,z.a,K.a,o.ElementRef,o.Renderer,T.a,A.a,o.NgZone,[2,w.a],[2,S.a]],{fullscreen:[0,"fullscreen"]},null),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](20,0,null,1,5,"ion-slides",[["autoplay","3000"],["pager","true"]],null,[[null,"ionSlideWillChange"]],function(l,n,e){var u=!0;if("ionSlideWillChange"===n){u=!1!==l.component.onSlideChanged()&&u}return u},W.b,W.a)),o["ɵdid"](21,1228800,[[1,4],["slider",4]],0,_.a,[C.a,z.a,o.NgZone,[2,w.a],o.ElementRef,o.Renderer],{autoplay:[0,"autoplay"],pager:[1,"pager"]},{ionSlideWillChange:"ionSlideWillChange"}),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,t)),o["ɵdid"](24,802816,null,0,I.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵand"](16777216,null,1,1,null,a)),o["ɵdid"](28,16384,null,0,I.NgIf,[o.ViewContainerRef,o.TemplateRef],{ngIf:[0,"ngIf"]},null),(l()(),o["ɵted"](-1,1,["\n"]))],function(l,n){var e=n.component;l(n,12,0,e.slideIndex<e.slides.length-1);l(n,18,0,"true");l(n,21,0,"3000","true");l(n,24,0,e.slides);l(n,28,0,e.slideIndex>=e.slides.length-1)},function(l,n){l(n,4,0,o["ɵnov"](n,5)._hidden,o["ɵnov"](n,5)._sbPadding);l(n,17,0,o["ɵnov"](n,18).statusbarPadding,o["ɵnov"](n,18)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),d=(e(0),e(69),function(){function l(l){this.navCtrl=l,this.slideIndex=0,this.slides=[{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",description:"Take a look at our amazing options"},{title:"For the Weekend",imageUrl:"assets/img/lists/wishlist-2.jpg",description:"Take a look at our amazing options"},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",description:"Take a look at our amazing options"},{title:"My Trip",imageUrl:"assets/img/lists/wishlist-4.jpg",description:"Take a look at our amazing options"}]}return l.prototype.onSlideChanged=function(){this.slideIndex=this.slider.getActiveIndex(),console.log("Slide changed! Current index is",this.slideIndex)},l.prototype.goToApp=function(){console.log("Go to App clicked")},l.prototype.skip=function(){console.log("Skip clicked")},l}()),r=function(){return function(){}}(),s=e(456),c=e(457),f=e(458),g=e(459),p=e(460),m=e(461),b=e(462),k=e(463),v=e(464),R=e(68),h=e(35),C=e(4),y=e(907),I=e(21),E=e(226),_=e(146),x=e(145),w=e(8),N=e(903),D=e(56),T=e(14),S=e(36),F=e(223),V=e(57),L=e(465),M=e(37),z=e(7),K=e(15),A=e(43),W=e(906),j=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),O=o["ɵccf"]("page-slide-walkthrough",d,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-slide-walkthrough",[],null,null,null,i,j)),o["ɵdid"](1,49152,null,0,d,[S.a],null,null)],null,null)},{},{},[]),P=e(32),U=e(222),$=e(64);e.d(n,"SlideWalkthroughPageModuleNgFactory",function(){return q});var q=o["ɵcmf"](r,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[s.a,c.a,f.a,g.a,p.a,m.a,b.a,k.a,v.a,O]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,I.NgLocalization,I.NgLocaleLocalization,[o.LOCALE_ID,[2,I["ɵa"]]]),o["ɵmpd"](4608,P.t,P.t,[]),o["ɵmpd"](4608,P.d,P.d,[]),o["ɵmpd"](512,I.CommonModule,I.CommonModule,[]),o["ɵmpd"](512,P.r,P.r,[]),o["ɵmpd"](512,P.i,P.i,[]),o["ɵmpd"](512,P.p,P.p,[]),o["ɵmpd"](512,U.a,U.a,[]),o["ɵmpd"](512,U.b,U.b,[]),o["ɵmpd"](512,r,r,[]),o["ɵmpd"](256,$.a,d,[])])})},903:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},i.b,i.a)),t["ɵdid"](3,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],d.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,r.a,[d.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var t=e(1),a=e(21),i=e(68),o=e(35),d=e(4),r=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},906:function(l,n,e){"use strict";function u(l){return t["ɵvid"](2,[(l()(),t["ɵeld"](0,0,null,null,3,"div",[["class","swiper-container"]],[[1,"dir",0]],null,null,null,null)),(l()(),t["ɵeld"](1,0,null,null,1,"div",[["class","swiper-wrapper"]],null,null,null,null,null)),t["ɵncd"](null,0),(l()(),t["ɵeld"](3,0,null,null,0,"div",[["class","swiper-pagination"]],[[2,"hide",null]],null,null,null,null))],null,function(l,n){var e=n.component;l(n,0,0,e._rtl?"rtl":null);l(n,3,0,!e.pager)})}e.d(n,"a",function(){return a}),n.b=u;var t=e(1),a=(e(146),e(4),e(7),e(8),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},907:function(l,n,e){"use strict";function u(l){return t["ɵvid"](2,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","slide-zoom"]],null,null,null,null,null)),t["ɵncd"](null,0)],null,null)}e.d(n,"a",function(){return a}),n.b=u;var t=e(1),a=(e(226),e(146),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([6],{
+
+/***/ 1268:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideTransitionsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var SlideTransitionsPage = /** @class */ (function () {
+    function SlideTransitionsPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.slides = [
+            {
+                title: 'Dream\'s Adventure',
+                imageUrl: 'assets/img/lists/wishlist-1.jpg',
+                songs: 2,
+                private: false
+            },
+            {
+                title: 'For the Weekend',
+                imageUrl: 'assets/img/lists/wishlist-2.jpg',
+                songs: 4,
+                private: false
+            },
+            {
+                title: 'Family Time',
+                imageUrl: 'assets/img/lists/wishlist-3.jpg',
+                songs: 5,
+                private: true
+            },
+            {
+                title: 'My Trip',
+                imageUrl: 'assets/img/lists/wishlist-4.jpg',
+                songs: 12,
+                private: true
+            }
+        ];
+    }
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('slider'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* Slides */])
+    ], SlideTransitionsPage.prototype, "slider", void 0);
+    SlideTransitionsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-slide-transitions',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-transitions\slide-transitions.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title>Slide Transitions</ion-title>\n  </ion-navbar>\n</ion-header>\n<ion-content text-center>\n  <h3>Slide (default)</h3>\n  <ion-slides autoplay="2500" loop="true">\n    <ion-slide *ngFor="let slide of slides" [ngStyle]="{\'background\' : \'url(\' + slide.imageUrl + \')\'}">\n      <h2>{{slide.title}}</h2>\n    </ion-slide>\n  </ion-slides>\n\n  <h3>Cube</h3>\n  <ion-slides autoplay="2500" loop="true" effect="cube">\n    <ion-slide *ngFor="let slide of slides" [ngStyle]="{\'background\' : \'url(\' + slide.imageUrl + \')\'}">\n      <h2>{{slide.title}}</h2>\n    </ion-slide>\n  </ion-slides>\n\n  <h3>Coverflow</h3>\n  <ion-slides autoplay="2500" loop="true" effect="coverflow">\n    <ion-slide *ngFor="let slide of slides" [ngStyle]="{\'background\' : \'url(\' + slide.imageUrl + \')\'}">\n      <h2>{{slide.title}}</h2>\n    </ion-slide>\n  </ion-slides>\n\n  <h3>Fade</h3>\n  <ion-slides autoplay="2500" loop="true" effect="fade">\n    <ion-slide *ngFor="let slide of slides" [ngStyle]="{\'background\' : \'url(\' + slide.imageUrl + \')\'}">\n      <h2>{{slide.title}}</h2>\n    </ion-slide>\n  </ion-slides>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-transitions\slide-transitions.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], SlideTransitionsPage);
+    return SlideTransitionsPage;
+}());
+
+//# sourceMappingURL=slide-transitions.js.map
+
+/***/ }),
+
+/***/ 949:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SlideTransitionsPageModule", function() { return SlideTransitionsPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__slide_transitions__ = __webpack_require__(1268);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var SlideTransitionsPageModule = /** @class */ (function () {
+    function SlideTransitionsPageModule() {
+    }
+    SlideTransitionsPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__slide_transitions__["a" /* SlideTransitionsPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__slide_transitions__["a" /* SlideTransitionsPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__slide_transitions__["a" /* SlideTransitionsPage */]
+            ]
+        })
+    ], SlideTransitionsPageModule);
+    return SlideTransitionsPageModule;
+}());
+
+//# sourceMappingURL=slide-transitions.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=6.js.map

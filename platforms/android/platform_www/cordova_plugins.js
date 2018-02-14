@@ -429,6 +429,20 @@ module.exports = [
     "clobbers": [
       "PushNotification"
     ]
+  },
+  {
+    "id": "es6-promise-plugin.Promise",
+    "file": "plugins/es6-promise-plugin/www/promise.js",
+    "pluginId": "es6-promise-plugin",
+    "runs": true
+  },
+  {
+    "id": "cordova-plugin-x-socialsharing.SocialSharing",
+    "file": "plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js",
+    "pluginId": "cordova-plugin-x-socialsharing",
+    "clobbers": [
+      "window.plugins.socialsharing"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -458,7 +472,9 @@ module.exports.metadata =
   "ionic-plugin-keyboard": "2.2.1",
   "cordova-plugin-camera": "4.0.3-dev",
   "cordova-plugin-ionic-webview": "1.1.16",
-  "phonegap-plugin-push": "1.10.6"
+  "phonegap-plugin-push": "1.10.6",
+  "es6-promise-plugin": "4.1.0",
+  "cordova-plugin-x-socialsharing": "5.2.1"
 };
 // BOTTOM OF METADATA
 });

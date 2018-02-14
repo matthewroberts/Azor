@@ -27009,16 +27009,6 @@ timeline .timeline timeline-item:last-child ion-icon:after {
   border-width: 0.55px;
 }
 
-page-firebase-auth #transparent-header {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  text-align: center;
-}
-
 page-firebase-auth .toolbar-content,
 page-firebase-auth span {
   color: white;

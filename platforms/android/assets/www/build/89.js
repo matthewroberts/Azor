@@ -1,1 +1,265 @@
-webpackJsonp([89],{821:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵeld"](1,0,null,null,173,"ion-list",[["class","popover-page"],["radio-group",""],["role","radiogroup"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"],[null,"ionChange"]],function(l,n,e){var u=!0,t=l.component;if("ngModelChange"===n){u=!1!==(t.fontFamily=e)&&u}if("ionChange"===n){u=!1!==t.changeFontFamily()&&u}return u},null,null)),t["ɵdid"](2,1064960,null,1,v.a,[t.Renderer,t.ElementRef,t.ChangeDetectorRef],null,{ionChange:"ionChange"}),t["ɵqud"](335544320,1,{_header:0}),t["ɵprd"](1024,null,k.j,function(l){return[l]},[v.a]),t["ɵdid"](5,671744,null,0,k.o,[[8,null],[8,null],[8,null],[2,k.j]],{model:[0,"model"]},{update:"ngModelChange"}),t["ɵprd"](2048,null,k.k,null,[k.o]),t["ɵdid"](7,16384,null,0,k.l,[k.k],null,null),t["ɵdid"](8,16384,null,0,R.a,[h.a,t.ElementRef,t.Renderer,p.a,E.l,y.a],null,null),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](10,0,null,null,26,"ion-row",[["class","row"]],null,null,null,null,null)),t["ɵdid"](11,16384,null,0,_.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](13,0,null,null,10,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](14,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](16,0,null,null,6,"button",[["class","text-button text-smaller item item-block"],["detail-none",""],["ion-item",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeFontSize("smaller")&&u}return u},q.b,q.a)),t["ɵdid"](17,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,2,{contentLabel:0}),t["ɵqud"](603979776,3,{_buttons:1}),t["ɵqud"](603979776,4,{_icons:1}),t["ɵdid"](21,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["A"])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](25,0,null,null,10,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](26,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](28,0,null,null,6,"button",[["class","text-button text-larger item item-block"],["detail-none",""],["ion-item",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeFontSize("larger")&&u}return u},q.b,q.a)),t["ɵdid"](29,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,5,{contentLabel:0}),t["ɵqud"](603979776,6,{_buttons:1}),t["ɵqud"](603979776,7,{_icons:1}),t["ɵdid"](33,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["A"])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](38,0,null,null,30,"ion-row",[["class","row-dots row"]],null,null,null,null,null)),t["ɵdid"](39,16384,null,0,_.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](41,0,null,null,5,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](42,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](44,0,null,null,1,"button",[["class","dot-white"],["ion-button","dot"]],[[2,"selected",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeBackground("white")&&u}return u},P.b,P.a)),t["ɵdid"](45,1097728,null,0,S.a,[[8,"dot"],h.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](48,0,null,null,5,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](49,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](51,0,null,null,1,"button",[["class","dot-tan"],["ion-button","dot"]],[[2,"selected",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeBackground("tan")&&u}return u},P.b,P.a)),t["ɵdid"](52,1097728,null,0,S.a,[[8,"dot"],h.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](55,0,null,null,5,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](56,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](58,0,null,null,1,"button",[["class","dot-grey"],["ion-button","dot"]],[[2,"selected",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeBackground("grey")&&u}return u},P.b,P.a)),t["ɵdid"](59,1097728,null,0,S.a,[[8,"dot"],h.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵeld"](62,0,null,null,5,"ion-col",[["class","col"]],null,null,null,null,null)),t["ɵdid"](63,16384,null,0,C.a,[],null,null),(l()(),t["ɵted"](-1,null,["\n          "])),(l()(),t["ɵeld"](65,0,null,null,1,"button",[["class","dot-black"],["ion-button","dot"]],[[2,"selected",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeBackground("black")&&u}return u},P.b,P.a)),t["ɵdid"](66,1097728,null,0,S.a,[[8,"dot"],h.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵted"](-1,null,["\n        "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](70,0,null,null,13,"ion-item",[["class","text-athelas item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](71,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,8,{contentLabel:0}),t["ɵqud"](603979776,9,{_buttons:1}),t["ɵqud"](603979776,10,{_icons:1}),t["ɵdid"](75,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](77,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](78,16384,[[8,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Athelas"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](81,0,null,4,1,"ion-radio",[["value","Athelas"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,82)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](82,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](85,0,null,null,13,"ion-item",[["class","text-charter item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](86,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,11,{contentLabel:0}),t["ɵqud"](603979776,12,{_buttons:1}),t["ɵqud"](603979776,13,{_icons:1}),t["ɵdid"](90,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](92,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](93,16384,[[11,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Charter"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](96,0,null,4,1,"ion-radio",[["value","Charter"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,97)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](97,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](100,0,null,null,13,"ion-item",[["class","text-iowan item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](101,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,14,{contentLabel:0}),t["ɵqud"](603979776,15,{_buttons:1}),t["ɵqud"](603979776,16,{_icons:1}),t["ɵdid"](105,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](107,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](108,16384,[[14,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Iowan"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](111,0,null,4,1,"ion-radio",[["value","Iowan"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,112)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](112,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](115,0,null,null,13,"ion-item",[["class","text-palatino item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](116,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,17,{contentLabel:0}),t["ɵqud"](603979776,18,{_buttons:1}),t["ɵqud"](603979776,19,{_icons:1}),t["ɵdid"](120,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](122,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](123,16384,[[17,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Palatino"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](126,0,null,4,1,"ion-radio",[["value","Palatino"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,127)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](127,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](130,0,null,null,13,"ion-item",[["class","text-san-francisco item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](131,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,20,{contentLabel:0}),t["ɵqud"](603979776,21,{_buttons:1}),t["ɵqud"](603979776,22,{_icons:1}),t["ɵdid"](135,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](137,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](138,16384,[[20,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["San Francisco"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](141,0,null,4,1,"ion-radio",[["value","San Francisco"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,142)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](142,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](145,0,null,null,13,"ion-item",[["class","text-seravek item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](146,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,23,{contentLabel:0}),t["ɵqud"](603979776,24,{_buttons:1}),t["ɵqud"](603979776,25,{_icons:1}),t["ɵdid"](150,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](152,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](153,16384,[[23,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Seravek"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](156,0,null,4,1,"ion-radio",[["value","Seravek"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,157)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](157,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](160,0,null,null,13,"ion-item",[["class","text-times-new-roman item item-block"]],null,null,null,q.b,q.a)),t["ɵdid"](161,1097728,null,3,F.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,x.a]],null,null),t["ɵqud"](335544320,26,{contentLabel:0}),t["ɵqud"](603979776,27,{_buttons:1}),t["ɵqud"](603979776,28,{_icons:1}),t["ɵdid"](165,16384,null,0,L.a,[],null,null),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](167,0,null,1,2,"ion-label",[],null,null,null,null,null)),t["ɵdid"](168,16384,[[26,4]],0,N.a,[h.a,t.ElementRef,t.Renderer,[8,null],[8,null],[8,null],[8,null]],null,null),(l()(),t["ɵted"](-1,null,["Times New Roman"])),(l()(),t["ɵted"](-1,2,["\n        "])),(l()(),t["ɵeld"](171,0,null,4,1,"ion-radio",[["value","Times New Roman"]],[[2,"radio-disabled",null]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,172)._click(e)&&u}return u},M.b,M.a)),t["ɵdid"](172,245760,null,0,z.a,[w.a,h.a,t.ElementRef,t.Renderer,[2,F.a],[2,v.a]],{value:[0,"value"]},null),(l()(),t["ɵted"](-1,2,["\n      "])),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵted"](-1,null,["\n  "]))],function(l,n){l(n,5,0,n.component.fontFamily);l(n,82,0,"Athelas");l(n,97,0,"Charter");l(n,112,0,"Iowan");l(n,127,0,"Palatino");l(n,142,0,"San Francisco");l(n,157,0,"Seravek");l(n,172,0,"Times New Roman")},function(l,n){var e=n.component;l(n,1,0,t["ɵnov"](n,7).ngClassUntouched,t["ɵnov"](n,7).ngClassTouched,t["ɵnov"](n,7).ngClassPristine,t["ɵnov"](n,7).ngClassDirty,t["ɵnov"](n,7).ngClassValid,t["ɵnov"](n,7).ngClassInvalid,t["ɵnov"](n,7).ngClassPending);l(n,44,0,"white"==e.background);l(n,51,0,"tan"==e.background);l(n,58,0,"grey"==e.background);l(n,65,0,"black"==e.background);l(n,81,0,t["ɵnov"](n,82)._disabled);l(n,96,0,t["ɵnov"](n,97)._disabled);l(n,111,0,t["ɵnov"](n,112)._disabled);l(n,126,0,t["ɵnov"](n,127)._disabled);l(n,141,0,t["ɵnov"](n,142)._disabled);l(n,156,0,t["ɵnov"](n,157)._disabled);l(n,171,0,t["ɵnov"](n,172)._disabled)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(1),a=(e(0),e(69),function(){function l(l){this.navParams=l,this.colors={white:{bg:"rgb(255, 255, 255)",fg:"rgb(0, 0, 0)"},tan:{bg:"rgb(249, 241, 228)",fg:"rgb(0, 0, 0)"},grey:{bg:"rgb(76, 75, 80)",fg:"rgb(255, 255, 255)"},black:{bg:"rgb(0, 0, 0)",fg:"rgb(255, 255, 255)"}}}return l.prototype.ngOnInit=function(){this.navParams.data&&(this.contentEle=this.navParams.data.contentEle,this.textEle=this.navParams.data.textEle,this.background=this.getColorName(this.contentEle.style.backgroundColor),this.setFontFamily())},l.prototype.getColorName=function(l){var n="white";if(!l)return"white";for(var e in this.colors)this.colors[e].bg==l&&(n=e);return n},l.prototype.setFontFamily=function(){this.textEle.style.fontFamily&&(this.fontFamily=this.textEle.style.fontFamily.replace(/'/g,""))},l.prototype.changeBackground=function(l){this.background=l,this.contentEle.style.backgroundColor=this.colors[l].bg,this.textEle.style.color=this.colors[l].fg},l.prototype.changeFontSize=function(l){this.textEle.style.fontSize=l},l.prototype.changeFontFamily=function(){this.fontFamily&&(this.textEle.style.fontFamily=this.fontFamily)},l}()),d=function(){return function(){}}(),o=e(456),i=e(457),c=e(458),r=e(459),s=e(460),m=e(461),b=e(462),f=e(463),g=e(464),v=e(73),k=e(32),R=e(70),h=e(4),p=e(7),E=e(12),y=e(15),_=e(149),C=e(147),q=e(225),F=e(29),w=e(26),x=e(65),L=e(91),P=e(68),S=e(35),N=e(71),M=e(470),z=e(98),A=e(19),I=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),B=t["ɵccf"]("ng-component",a,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"ng-component",[],null,null,null,u,I)),t["ɵdid"](1,114688,null,0,a,[A.a],null,null)],function(l,n){l(n,1,0)},null)},{},{},[]),T=e(21),j=e(222),D=e(64);e.d(n,"ShowPopoverPageModuleNgFactory",function(){return O});var O=t["ɵcmf"](d,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[o.a,i.a,c.a,r.a,s.a,m.a,b.a,f.a,g.a,B]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,T.NgLocalization,T.NgLocaleLocalization,[t.LOCALE_ID,[2,T["ɵa"]]]),t["ɵmpd"](4608,k.t,k.t,[]),t["ɵmpd"](4608,k.d,k.d,[]),t["ɵmpd"](512,T.CommonModule,T.CommonModule,[]),t["ɵmpd"](512,k.r,k.r,[]),t["ɵmpd"](512,k.i,k.i,[]),t["ɵmpd"](512,k.p,k.p,[]),t["ɵmpd"](512,j.a,j.a,[]),t["ɵmpd"](512,j.b,j.b,[]),t["ɵmpd"](512,d,d,[]),t["ɵmpd"](256,D.a,a,[])])})}});
+webpackJsonp([89],{
+
+/***/ 1102:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AlertPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var AlertPage = /** @class */ (function () {
+    function AlertPage(alertCtrl, navCtrl, navParams) {
+        this.alertCtrl = alertCtrl;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+    }
+    AlertPage.prototype.doBasicAlert = function () {
+        var alert = this.alertCtrl.create({
+            title: 'The title for the basic alert',
+            subTitle: 'The subtitle for the basic alert',
+            message: 'The message for the basic alert',
+            cssClass: 'basic-alert',
+            buttons: ['Ok']
+        });
+        alert.present();
+    };
+    AlertPage.prototype.doPromptAlert = function () {
+        var prompt = this.alertCtrl.create({
+            title: 'The title for the promt alert',
+            subTitle: 'The subtitle for the promt alert',
+            message: 'The message for the promt alert',
+            cssClass: 'promt-alert',
+            inputs: [
+                {
+                    name: 'title',
+                    placeholder: 'Title'
+                },
+            ],
+            buttons: [
+                {
+                    text: 'Cancel',
+                    handler: function (data) {
+                        console.log('Cancel clicked');
+                    }
+                },
+                {
+                    text: 'Save',
+                    handler: function (data) {
+                        console.log('Saved clicked');
+                    }
+                }
+            ]
+        });
+        prompt.present();
+    };
+    AlertPage.prototype.doConfirmationAlert = function () {
+        var confirm = this.alertCtrl.create({
+            title: 'The title for the confirm alert',
+            subTitle: 'The subtitle for the confirm alert',
+            message: 'The message for the confirm alert',
+            cssClass: 'confirm-alert',
+            buttons: [
+                {
+                    text: 'Disagree',
+                    handler: function () {
+                        console.log('Disagree clicked');
+                    }
+                },
+                {
+                    text: 'Agree',
+                    handler: function () {
+                        console.log('Agree clicked');
+                    }
+                }
+            ]
+        });
+        confirm.present();
+    };
+    AlertPage.prototype.doRadioAlert = function () {
+        var _this = this;
+        var alert = this.alertCtrl.create({
+            cssClass: 'radio-alert'
+        });
+        alert.setTitle('Lightsaber color');
+        alert.addInput({
+            type: 'radio',
+            label: 'Blue',
+            value: 'blue',
+            checked: true
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'Green',
+            value: 'green'
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'Red',
+            value: 'red'
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'Yellow',
+            value: 'yellow'
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'Purple',
+            value: 'purple'
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'White',
+            value: 'white'
+        });
+        alert.addInput({
+            type: 'radio',
+            label: 'Black',
+            value: 'black'
+        });
+        alert.addButton('Cancel');
+        alert.addButton({
+            text: 'Ok',
+            handler: function (data) {
+                console.log('Radio data:', data);
+                _this.testRadioOpen = false;
+                _this.testRadioResult = data;
+            }
+        });
+        alert.present().then(function () {
+            _this.testRadioOpen = true;
+        });
+    };
+    AlertPage.prototype.doCheckboxAlert = function () {
+        var _this = this;
+        var alert = this.alertCtrl.create();
+        alert.setTitle('Which planets have you visited?');
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Alderaan',
+            value: 'value1',
+            checked: true
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Bespin',
+            value: 'value2'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Coruscant',
+            value: 'value3'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Endor',
+            value: 'value4'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Hoth',
+            value: 'value5'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Jakku',
+            value: 'value6'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Naboo',
+            value: 'value6'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Takodana',
+            value: 'value6'
+        });
+        alert.addInput({
+            type: 'checkbox',
+            label: 'Tatooine',
+            value: 'value6'
+        });
+        alert.addButton('Cancel');
+        alert.addButton({
+            text: 'Okay',
+            handler: function (data) {
+                console.log('Checkbox data:', data);
+                _this.testCheckboxOpen = false;
+                _this.testCheckboxResult = data;
+            }
+        });
+        alert.present().then(function () {
+            _this.testCheckboxOpen = true;
+        });
+    };
+    AlertPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-alert',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\components\alert\alert.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Alert</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n  <button ion-button block color="primary" (click)="doBasicAlert()">Show Basic Alert</button>\n  <button ion-button block color="secondary" (click)="doPromptAlert()">Show Prompt Alert</button>\n  <button ion-button block color="danger" (click)="doConfirmationAlert()">Show Confirmation Alert</button>\n  <button ion-button block color="light" (click)="doRadioAlert()">Show Radio Alert</button>\n  <button ion-button block color="dark" (click)="doCheckboxAlert()">Show Checkbox Alert</button>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\components\alert\alert.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["o" /* NavParams */]])
+    ], AlertPage);
+    return AlertPage;
+}());
+
+//# sourceMappingURL=alert.js.map
+
+/***/ }),
+
+/***/ 864:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AlertPageModule", function() { return AlertPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__alert__ = __webpack_require__(1102);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var AlertPageModule = /** @class */ (function () {
+    function AlertPageModule() {
+    }
+    AlertPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__alert__["a" /* AlertPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__alert__["a" /* AlertPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__alert__["a" /* AlertPage */]
+            ]
+        })
+    ], AlertPageModule);
+    return AlertPageModule;
+}());
+
+//# sourceMappingURL=alert.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=89.js.map

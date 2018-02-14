@@ -1,1 +1,78 @@
-webpackJsonp([64],{856:function(l,n,e){"use strict";function a(l){return t["ɵvid"](0,[t["ɵqud"](402653184,1,{mapElement:0}),(l()(),t["ɵted"](-1,null,["\n"])),(l()(),t["ɵeld"](2,0,null,null,32,"ion-header",[],null,null,null,null,null)),t["ɵdid"](3,16384,null,0,R.a,[k.a,t.ElementRef,t.Renderer,[2,v.a]],null,null),(l()(),t["ɵted"](-1,null,[" \n\n  "])),(l()(),t["ɵeld"](5,0,null,null,28,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,h.b,h.a)),t["ɵdid"](6,49152,null,0,C.a,[y.a,[2,v.a],[2,E.a],k.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](8,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==t["ɵnov"](l,10).toggle()&&a}return a},_.b,_.a)),t["ɵdid"](9,1097728,[[2,4]],0,M.a,[[8,""],k.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](10,1064960,null,0,D.a,[I.a,[2,v.a],[2,M.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](11,16384,null,1,w.a,[k.a,t.ElementRef,t.Renderer,[2,N.a],[2,C.a]],null,null),t["ɵqud"](603979776,2,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵeld"](14,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](15,147456,null,0,L.a,[k.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n    "])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](18,0,null,3,2,"ion-title",[],null,null,null,P.b,P.a)),t["ɵdid"](19,49152,null,0,F.a,[k.a,t.ElementRef,t.Renderer,[2,N.a],[2,C.a]],null,null),(l()(),t["ɵted"](-1,0,["Feature Google Map"])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](22,0,null,2,10,"ion-buttons",[["end",""]],null,null,null,null,null)),t["ɵdid"](23,16384,null,1,w.a,[k.a,t.ElementRef,t.Renderer,[2,N.a],[2,C.a]],null,null),t["ɵqud"](603979776,3,{_buttons:1}),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](26,0,null,null,5,"button",[["ion-button",""]],null,[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.addMarker()&&a}return a},_.b,_.a)),t["ɵdid"](27,1097728,[[3,4]],0,M.a,[[8,""],k.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵted"](-1,0,["\n        "])),(l()(),t["ɵeld"](29,0,null,0,1,"ion-icon",[["color","royal"],["name","add"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](30,147456,null,0,L.a,[k.a,t.ElementRef,t.Renderer],{color:[0,"color"],name:[1,"name"]},null),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵted"](-1,3,["\n  "])),(l()(),t["ɵted"](-1,null,["\n\n"])),(l()(),t["ɵted"](-1,null,["\n\n\n"])),(l()(),t["ɵeld"](36,0,null,null,4,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,T.b,T.a)),t["ɵdid"](37,4374528,null,0,V.a,[k.a,K.a,x.a,t.ElementRef,t.Renderer,y.a,A.a,t.NgZone,[2,v.a],[2,E.a]],null,null),(l()(),t["ɵted"](-1,1,["\n\n  "])),(l()(),t["ɵeld"](39,0,[[1,0],["map",1]],1,0,"div",[["id","map"]],null,null,null,null,null)),(l()(),t["ɵted"](-1,1,["\n\n"])),(l()(),t["ɵted"](-1,null,["\n"]))],function(l,n){l(n,6,0,"primary");l(n,10,0,"");l(n,15,0,"menu");l(n,30,0,"royal","add")},function(l,n){l(n,5,0,t["ɵnov"](n,6)._hidden,t["ɵnov"](n,6)._sbPadding);l(n,8,0,t["ɵnov"](n,10).isHidden);l(n,14,0,t["ɵnov"](n,15)._hidden);l(n,29,0,t["ɵnov"](n,30)._hidden);l(n,36,0,t["ɵnov"](n,37).statusbarPadding,t["ɵnov"](n,37)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(1),u=(e(0),e(69),e(240)),o=function(){function l(l,n,e){this.loadingCtrl=l,this.navCtrl=n,this.geolocation=e,this.loader=this.loadingCtrl.create({content:"Please wait...",duration:1e4})}return l.prototype.ionViewDidLoad=function(){this.loader.present(),this.loadMap()},l.prototype.loadMap=function(){var l=this;this.geolocation.getCurrentPosition().then(function(n){var e={center:new google.maps.LatLng(n.coords.latitude,n.coords.longitude),zoom:15,mapTypeId:google.maps.MapTypeId.ROADMAP};l.map=new google.maps.Map(l.mapElement.nativeElement,e),l.map&&l.loader.dismiss()},function(l){console.log(l)})},l.prototype.addMarker=function(){var l=new google.maps.Marker({map:this.map,animation:google.maps.Animation.DROP,position:this.map.getCenter()});this.addInfoWindow(l,"<h4>Information!</h4>")},l.prototype.addInfoWindow=function(l,n){var e=this,a=new google.maps.InfoWindow({content:n});google.maps.event.addListener(l,"click",function(){a.open(e.map,l)})},l}(),d=function(){return function(){}}(),r=e(456),i=e(457),s=e(458),c=e(459),m=e(460),f=e(461),p=e(462),g=e(463),b=e(464),R=e(145),k=e(4),v=e(8),h=e(903),C=e(56),y=e(14),E=e(36),_=e(68),M=e(35),D=e(224),I=e(39),w=e(223),N=e(57),L=e(63),P=e(466),F=e(90),T=e(465),V=e(37),K=e(7),x=e(15),A=e(43),O=e(148),q=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),z=t["ɵccf"]("page-feature-google-map",o,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"page-feature-google-map",[],null,null,null,a,q)),t["ɵdid"](1,49152,null,0,o,[O.a,E.a,u.a],null,null)],null,null)},{},{},[]),W=e(21),B=e(32),G=e(222),j=e(64);e.d(n,"FeatureGoogleMapPageModuleNgFactory",function(){return H});var H=t["ɵcmf"](d,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[r.a,i.a,s.a,c.a,m.a,f.a,p.a,g.a,b.a,z]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,W.NgLocalization,W.NgLocaleLocalization,[t.LOCALE_ID,[2,W["ɵa"]]]),t["ɵmpd"](4608,B.t,B.t,[]),t["ɵmpd"](4608,B.d,B.d,[]),t["ɵmpd"](512,W.CommonModule,W.CommonModule,[]),t["ɵmpd"](512,B.r,B.r,[]),t["ɵmpd"](512,B.i,B.i,[]),t["ɵmpd"](512,B.p,B.p,[]),t["ɵmpd"](512,G.a,G.a,[]),t["ɵmpd"](512,G.b,G.b,[]),t["ɵmpd"](512,d,d,[]),t["ɵmpd"](256,j.a,o,[])])})},903:function(l,n,e){"use strict";function a(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.backButtonClick(e)&&a}return a},o.b,o.a)),t["ɵdid"](3,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],r.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,i.a,[r.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=a;var t=e(1),u=e(21),o=e(68),d=e(35),r=e(4),i=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([64],{
+
+/***/ 1161:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RangePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+var RangePage = /** @class */ (function () {
+    function RangePage() {
+        this.brightness = 20;
+        this.contrast = 0;
+        this.warmth = 1300;
+        this.structure = { lower: 33, upper: 60 };
+        this.text = 0;
+    }
+    RangePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-range',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\range\range.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Range</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content class="outer-content">\n  \n  <ion-list>\n    <ion-list-header>\n      Adjust Display\n    </ion-list-header>\n    <ion-item>\n      <ion-range [(ngModel)]="brightness">\n        <ion-icon range-left small name="sunny"></ion-icon>\n        <ion-icon range-right name="sunny"></ion-icon>\n      </ion-range>\n    </ion-item>\n    <ion-item>\n      <ion-range min="-200" max="200" pin="true" [(ngModel)]="contrast" color="secondary">\n        <ion-icon range-left small name="contrast"></ion-icon>\n        <ion-icon range-right name="contrast"></ion-icon>\n      </ion-range>\n    </ion-item>\n    <ion-item>\n      <ion-range dualKnobs="true" pin="true" [(ngModel)]="structure" color="dark">\n        <ion-icon range-left small name="brush"></ion-icon>\n        <ion-icon range-right name="brush"></ion-icon>\n      </ion-range>\n    </ion-item>\n    <ion-item>\n      <ion-range min="1000" max="2000" step="100" snaps="true" [(ngModel)]="warmth" color="danger">\n        <ion-icon range-left small color="danger" name="thermometer"></ion-icon>\n        <ion-icon range-right color="danger" name="thermometer"></ion-icon>\n      </ion-range>\n    </ion-item>\n  </ion-list>\n\n  <ion-list>\n    <ion-list-header>\n      Adjust Text\n    </ion-list-header>\n    <ion-item>\n      <ion-range min="-100" step="10" snaps="true" [(ngModel)]="text">\n        <ion-label range-left class="small-text">A</ion-label>\n        <ion-label range-right>A</ion-label>\n      </ion-range>\n    </ion-item>\n  </ion-list>\n\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\range\range.html"*/,
+        })
+    ], RangePage);
+    return RangePage;
+}());
+
+//# sourceMappingURL=range.js.map
+
+/***/ }),
+
+/***/ 890:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RangePageModule", function() { return RangePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range__ = __webpack_require__(1161);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var RangePageModule = /** @class */ (function () {
+    function RangePageModule() {
+    }
+    RangePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__range__["a" /* RangePage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__range__["a" /* RangePage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__range__["a" /* RangePage */]
+            ]
+        })
+    ], RangePageModule);
+    return RangePageModule;
+}());
+
+//# sourceMappingURL=range.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=64.js.map

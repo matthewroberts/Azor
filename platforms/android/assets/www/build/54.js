@@ -1,1 +1,131 @@
-webpackJsonp([54],{869:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,k.a,[R.a,a.ElementRef,a.Renderer,[2,v.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\n  "])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,C.b,C.a)),a["ɵdid"](4,49152,null,0,h.a,[y.a,[2,v.a],[2,N.a],R.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==a["ɵnov"](l,8).toggle()&&u}return u},_.b,_.a)),a["ɵdid"](7,1097728,[[1,4]],0,E.a,[[8,""],R.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,D.a,[M.a,[2,v.a],[2,E.a],[2,h.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,I.a,[R.a,a.ElementRef,a.Renderer,[2,K.a],[2,h.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,L.a,[R.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,T.b,T.a)),a["ɵdid"](17,49152,null,0,V.a,[R.a,a.ElementRef,a.Renderer,[2,K.a],[2,h.a]],null,null),(l()(),a["ɵted"](-1,0,["Native Call Number"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n\n\n"])),(l()(),a["ɵeld"](22,0,null,null,12,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,x.b,x.a)),a["ɵdid"](23,4374528,null,0,F.a,[R.a,P.a,O.a,a.ElementRef,a.Renderer,y.a,w.a,a.NgZone,[2,v.a],[2,N.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](25,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.doCall("+6285123123123")&&u}return u},_.b,_.a)),a["ɵdid"](26,1097728,null,0,E.a,[[8,""],R.a,a.ElementRef,a.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),a["ɵted"](-1,0,[" Call : +6285 123 123 123 "])),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](29,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](30,null,[" "," "])),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](32,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](33,null,[" "," "])),(l()(),a["ɵted"](-1,1,["\n  \n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"primary","")},function(l,n){var e=n.component;l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher);l(n,30,0,e.successMessage);l(n,33,0,e.errorMessage)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),t=(e(0),e(69),e(258)),o=function(){function l(l,n,e){this.callNumber=l,this.platform=n,this.alertCtrl=e}return l.prototype.doCall=function(l){var n=this;this.callNumber.callNumber(l,!0).then(function(l){n.successMessage=l,console.log(l)},function(l){n.errorMessage=l,console.log(l);n.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()})},l}(),d=function(){return function(){}}(),r=e(456),s=e(457),i=e(458),c=e(459),b=e(460),m=e(461),f=e(462),g=e(463),p=e(464),k=e(145),R=e(4),v=e(8),C=e(903),h=e(56),y=e(14),N=e(36),_=e(68),E=e(35),D=e(224),M=e(39),I=e(223),K=e(57),L=e(63),T=e(466),V=e(90),x=e(465),F=e(37),P=e(7),O=e(15),w=e(43),z=e(92),A=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),B=a["ɵccf"]("page-native-call-number",o,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-native-call-number",[],null,null,null,u,A)),a["ɵdid"](1,49152,null,0,o,[t.a,P.a,z.a],null,null)],null,null)},{},{},[]),j=e(21),q=e(32),H=e(222),J=e(64);e.d(n,"NativeCallNumberPageModuleNgFactory",function(){return Z});var Z=a["ɵcmf"](d,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[r.a,s.a,i.a,c.a,b.a,m.a,f.a,g.a,p.a,B]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,j.NgLocalization,j.NgLocaleLocalization,[a.LOCALE_ID,[2,j["ɵa"]]]),a["ɵmpd"](4608,q.t,q.t,[]),a["ɵmpd"](4608,q.d,q.d,[]),a["ɵmpd"](512,j.CommonModule,j.CommonModule,[]),a["ɵmpd"](512,q.r,q.r,[]),a["ɵmpd"](512,q.i,q.i,[]),a["ɵmpd"](512,q.p,q.p,[]),a["ɵmpd"](512,H.a,H.a,[]),a["ɵmpd"](512,H.b,H.b,[]),a["ɵmpd"](512,d,d,[]),a["ɵmpd"](256,J.a,o,[])])})},903:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},o.b,o.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],r.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,s.a,[r.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return i}),n.b=u;var a=e(1),t=e(21),o=e(68),d=e(35),r=e(4),s=e(63),i=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([54],{
+
+/***/ 1171:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoginSliderPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+// import { FormBuilder, FormControl, Validator } from '@angular/forms';
+
+
+var LoginSliderPage = /** @class */ (function () {
+    function LoginSliderPage(loadingCtrl, alertCtrl, app) {
+        this.loadingCtrl = loadingCtrl;
+        this.alertCtrl = alertCtrl;
+        this.app = app;
+    }
+    LoginSliderPage.prototype.goToLogin = function () {
+        this.slider.slideTo(1);
+    };
+    LoginSliderPage.prototype.goToSignup = function () {
+        this.slider.slideTo(2);
+    };
+    LoginSliderPage.prototype.slideNext = function () {
+        this.innerSlider.slideNext();
+    };
+    LoginSliderPage.prototype.slidePrevious = function () {
+        this.innerSlider.slidePrev();
+    };
+    LoginSliderPage.prototype.presentLoading = function (message) {
+        var _this = this;
+        var loading = this.loadingCtrl.create({
+            duration: 500
+        });
+        loading.onDidDismiss(function () {
+            var alert = _this.alertCtrl.create({
+                title: 'Success',
+                subTitle: message,
+                buttons: ['Dismiss']
+            });
+            alert.present();
+        });
+        loading.present();
+    };
+    LoginSliderPage.prototype.login = function () {
+        this.presentLoading('Thanks for signing up!');
+        // this.navCtrl.push(HomePage);
+    };
+    LoginSliderPage.prototype.signup = function () {
+        this.presentLoading('Thanks for signing up!');
+        // this.navCtrl.push(HomePage);
+    };
+    LoginSliderPage.prototype.resetPassword = function () {
+        this.presentLoading('An e-mail was sent with your new password.');
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('slider'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* Slides */])
+    ], LoginSliderPage.prototype, "slider", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('innerSlider'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* Slides */])
+    ], LoginSliderPage.prototype, "innerSlider", void 0);
+    LoginSliderPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-login-slider',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-slider\login-slider.html"*/'<ion-content class="transparent-header">\n  <ion-header>\n    <ion-navbar>\n    </ion-navbar>\n  </ion-header>\n  <ion-slides #slider  direction="vertical">\n      <ion-slide class="swiper-no-swiping">\n        <div padding>\n          <img class="logo" src="assets/img/logo/logo.png" width="100"/>\n          <ion-slides class="text-slider" autoplay="2000" loop="true">\n            <ion-slide>\n              <h3>Welcome to Shopair</h3>\n              <p>Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>\n            </ion-slide>\n            <ion-slide>\n              <h3>Beautifull shop app</h3>\n              <p>Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>\n            </ion-slide>\n            <ion-slide>\n              <h3>Easy to customized</h3>\n              <p>Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum</p>\n            </ion-slide>\n          </ion-slides>\n          <ion-row>\n            <ion-col col-6>\n              <button ion-button block color="primary" outline (click)="goToLogin()">Log in</button>\n            </ion-col>\n            <ion-col col-6>\n              <button ion-button block (click)="goToSignup()">Create Account</button>\n            </ion-col>\n          </ion-row>\n        </div>\n      </ion-slide>\n      <ion-slide class="zoom swiper-no-swiping">\n        <ion-slides #innerSlider class="content-slider">\n          <ion-slide class="swiper-no-swiping">\n            <div padding-left padding-right text-left>\n              <h1 padding-horizontal>Login</h1>\n              <ion-item padding-right>\n                <ion-label floating>Username</ion-label>\n                <ion-input type="text"></ion-input>\n              </ion-item>\n              <ion-item padding-right>\n                <ion-label floating>Password</ion-label>\n                <ion-input type="password"></ion-input>\n              </ion-item>\n              <div padding>\n                <button ion-button block (click)="login()">Login</button>\n                <button no-padding ion-button clear (click)="slideNext()" color="light">FORGOT PASSWORD?</button>\n              </div>\n              <button small clear text-left margin-top ion-button icon-right clear (click)="goToSignup()">\n                GO TO SIGNUP\n                <ion-icon end name="arrow-down"></ion-icon>\n              </button>\n            </div>\n          </ion-slide>\n          <ion-slide class="swiper-no-swiping">\n            <div padding>\n              <h1 text-left padding-horizontal>Forgot Password?</h1>\n              <p text-left padding-horizontal>We will send the confirmation link to reset your password.</p>\n              <ion-item padding-right>\n                <ion-label floating>E-mail</ion-label>\n                <ion-input type="email"></ion-input>\n              </ion-item>\n              <div padding>\n                <button ion-button block (click)="resetPassword()">RESET PASSWORD</button>\n                <button small ion-button icon-left float-left no-padding clear (click)="slidePrevious()" color="light"><ion-icon name="arrow-back"></ion-icon> GO BACK</button>\n              </div>\n            </div>\n          </ion-slide>\n        </ion-slides>\n      </ion-slide>\n      <ion-slide class="zoom swiper-no-swiping">\n        <div padding-left padding-right text-left>\n          <button small text-left margin-bottom ion-button icon-right clear (click)="goToLogin()">\n            GO TO LOGIN\n            <ion-icon end name="arrow-up"></ion-icon>\n          </button>\n          <h1 padding-horizontal>Create account</h1>\n          <p padding-horizontal>Lets join us to get tons of features.</p>\n          <ion-item padding-right>\n            <ion-label floating>Username</ion-label>\n            <ion-input type="text"></ion-input>\n          </ion-item>\n          <ion-item padding-right>\n            <ion-label floating>Password</ion-label>\n            <ion-input type="password"></ion-input>\n          </ion-item>\n          <ion-item padding-right>\n            <ion-label floating>Confirm Password</ion-label>\n            <ion-input type="password"></ion-input>\n          </ion-item>\n          <div padding>\n            <button ion-button block (click)="signup()">SIGN UP</button>\n          </div>\n          </div>\n      </ion-slide>\n    </ion-slides>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-slider\login-slider.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["c" /* App */]])
+    ], LoginSliderPage);
+    return LoginSliderPage;
+}());
+
+//# sourceMappingURL=login-slider.js.map
+
+/***/ }),
+
+/***/ 900:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LoginSliderPageModule", function() { return LoginSliderPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__login_slider__ = __webpack_require__(1171);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var LoginSliderPageModule = /** @class */ (function () {
+    function LoginSliderPageModule() {
+    }
+    LoginSliderPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__login_slider__["a" /* LoginSliderPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__login_slider__["a" /* LoginSliderPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__login_slider__["a" /* LoginSliderPage */]
+            ]
+        })
+    ], LoginSliderPageModule);
+    return LoginSliderPageModule;
+}());
+
+//# sourceMappingURL=login-slider.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=54.js.map

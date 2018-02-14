@@ -1,1 +1,110 @@
-webpackJsonp([35],{890:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,40,"ion-header",[],null,null,null,null,null)),t["ɵdid"](1,16384,null,0,R.a,[k.a,t.ElementRef,t.Renderer,[2,p.a]],null,null),(l()(),t["ɵted"](-1,null,["\n  "])),(l()(),t["ɵeld"](3,0,null,null,36,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,h.b,h.a)),t["ɵdid"](4,49152,null,0,v.a,[E.a,[2,p.a],[2,C.a],k.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](6,0,null,0,13,"ion-buttons",[["left",""]],null,null,null,null,null)),t["ɵdid"](7,16384,null,1,_.a,[k.a,t.ElementRef,t.Renderer,[2,y.a],[2,v.a]],null,null),t["ɵqud"](603979776,1,{_buttons:1}),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](10,0,null,null,8,"button",[["icon-only",""],["ion-button",""],["menuToggle","left"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,12).toggle()&&u}return u},M.b,M.a)),t["ɵdid"](11,1097728,[[2,4],[1,4]],0,N.a,[[8,""],k.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](12,1064960,null,0,D.a,[T.a,[2,p.a],[2,N.a],[2,v.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](13,16384,null,1,_.a,[k.a,t.ElementRef,t.Renderer,[2,y.a],[2,v.a]],null,null),t["ɵqud"](603979776,2,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n        "])),(l()(),t["ɵeld"](16,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](17,147456,null,0,A.a,[k.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](21,0,null,3,2,"ion-title",[],null,null,null,I.b,I.a)),t["ɵdid"](22,49152,null,0,L.a,[k.a,t.ElementRef,t.Renderer,[2,y.a],[2,v.a]],null,null),(l()(),t["ɵted"](-1,0,["Side Menu"])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](25,0,null,2,13,"ion-buttons",[["right",""]],null,null,null,null,null)),t["ɵdid"](26,16384,null,1,_.a,[k.a,t.ElementRef,t.Renderer,[2,y.a],[2,v.a]],null,null),t["ɵqud"](603979776,3,{_buttons:1}),(l()(),t["ɵted"](-1,null,["\n      "])),(l()(),t["ɵeld"](29,0,null,null,8,"button",[["icon-only",""],["ion-button",""],["menuToggle","right"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,31).toggle()&&u}return u},M.b,M.a)),t["ɵdid"](30,1097728,[[4,4],[3,4]],0,N.a,[[8,""],k.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](31,1064960,null,0,D.a,[T.a,[2,p.a],[2,N.a],[2,v.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](32,16384,null,1,_.a,[k.a,t.ElementRef,t.Renderer,[2,y.a],[2,v.a]],null,null),t["ɵqud"](603979776,4,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n        "])),(l()(),t["ɵeld"](35,0,null,0,1,"ion-icon",[["name","home"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](36,147456,null,0,A.a,[k.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵted"](-1,3,["\n  "])),(l()(),t["ɵted"](-1,null,["\n"])),(l()(),t["ɵted"](-1,null,["\n"])),(l()(),t["ɵeld"](42,0,null,null,17,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,U.b,U.a)),t["ɵdid"](43,4374528,null,0,V.a,[k.a,F.a,K.a,t.ElementRef,t.Renderer,E.a,q.a,t.NgZone,[2,p.a],[2,C.a]],null,null),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](45,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),t["ɵted"](-1,null,["The home icon on the right is a small width sidemenu."])),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](48,0,null,1,2,"button",[["block",""],["color","secondary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0,t=l.component;if("click"===n){u=!1!==t.changeMenu(t.MENU.DEFAULT)&&u}return u},M.b,M.a)),t["ɵdid"](49,1097728,null,0,N.a,[[8,""],k.a,t.ElementRef,t.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),t["ɵted"](-1,0,["Default sidemenu"])),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](52,0,null,1,2,"button",[["block",""],["color","danger"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0,t=l.component;if("click"===n){u=!1!==t.changeMenu(t.MENU.AVATAR)&&u}return u},M.b,M.a)),t["ɵdid"](53,1097728,null,0,N.a,[[8,""],k.a,t.ElementRef,t.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),t["ɵted"](-1,0,["Sidemenu with avatar"])),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](56,0,null,1,2,"button",[["block",""],["color","black"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0,t=l.component;if("click"===n){u=!1!==t.changeMenu(t.MENU.MATERIAL)&&u}return u},M.b,M.a)),t["ɵdid"](57,1097728,null,0,N.a,[[8,""],k.a,t.ElementRef,t.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),t["ɵted"](-1,0,["Material Design"])),(l()(),t["ɵted"](-1,1,["\n"])),(l()(),t["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,12,0,"left");l(n,17,0,"menu");l(n,31,0,"right");l(n,36,0,"home");l(n,49,0,"secondary","");l(n,53,0,"danger","");l(n,57,0,"black","")},function(l,n){l(n,3,0,t["ɵnov"](n,4)._hidden,t["ɵnov"](n,4)._sbPadding);l(n,10,0,t["ɵnov"](n,12).isHidden);l(n,16,0,t["ɵnov"](n,17)._hidden);l(n,29,0,t["ɵnov"](n,31).isHidden);l(n,35,0,t["ɵnov"](n,36)._hidden);l(n,42,0,t["ɵnov"](n,43).statusbarPadding,t["ɵnov"](n,43)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(1),a=(e(0),e(69),function(){function l(l,n){this.navCtrl=l,this.menuCtrl=n,this.MENU={DEFAULT:"menu-components",MATERIAL:"menu-material",AVATAR:"menu-avatar"}}return l.prototype.changeMenu=function(l){var n=this;Object.keys(this.MENU).map(function(l){return n.menuCtrl.enable(!1,n.MENU[l])}),this.menuCtrl.enable(!0,l),this.menuCtrl.open(l)},l}()),o=function(){return function(){}}(),d=e(456),r=e(457),i=e(458),c=e(459),s=e(460),m=e(461),b=e(462),f=e(463),g=e(464),R=e(145),k=e(4),p=e(8),h=e(903),v=e(56),E=e(14),C=e(36),_=e(223),y=e(57),M=e(68),N=e(35),D=e(224),T=e(39),A=e(63),I=e(466),L=e(90),U=e(465),V=e(37),F=e(7),K=e(15),q=e(43),x=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),P=t["ɵccf"]("page-side-menu",a,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"page-side-menu",[],null,null,null,u,x)),t["ɵdid"](1,49152,null,0,a,[C.a,T.a],null,null)],null,null)},{},{},[]),w=e(21),O=e(32),S=e(222),j=e(64);e.d(n,"SideMenuPageModuleNgFactory",function(){return z});var z=t["ɵcmf"](o,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[d.a,r.a,i.a,c.a,s.a,m.a,b.a,f.a,g.a,P]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,w.NgLocalization,w.NgLocaleLocalization,[t.LOCALE_ID,[2,w["ɵa"]]]),t["ɵmpd"](4608,O.t,O.t,[]),t["ɵmpd"](4608,O.d,O.d,[]),t["ɵmpd"](512,w.CommonModule,w.CommonModule,[]),t["ɵmpd"](512,O.r,O.r,[]),t["ɵmpd"](512,O.i,O.i,[]),t["ɵmpd"](512,O.p,O.p,[]),t["ɵmpd"](512,S.a,S.a,[]),t["ɵmpd"](512,S.b,S.b,[]),t["ɵmpd"](512,o,o,[]),t["ɵmpd"](256,j.a,a,[])])})},903:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},o.b,o.a)),t["ɵdid"](3,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],r.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,i.a,[r.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return c}),n.b=u;var t=e(1),a=e(21),o=e(68),d=e(35),r=e(4),i=e(63),c=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([35],{
+
+/***/ 1239:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NativeCallNumberPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_call_number__ = __webpack_require__(465);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var NativeCallNumberPage = /** @class */ (function () {
+    function NativeCallNumberPage(callNumber, platform, alertCtrl) {
+        this.callNumber = callNumber;
+        this.platform = platform;
+        this.alertCtrl = alertCtrl;
+        // if (!this.platform.is('cordova')) {
+        //   console.warn('Cordova is not available');
+        //   const alert = this.alertCtrl.create({
+        //     title: 'Attention!',
+        //     subTitle: 'Cordova is not available',
+        //     buttons: ['Close']
+        //   });
+        //   alert.present();
+        // }
+    }
+    NativeCallNumberPage.prototype.doCall = function (phoneNumber) {
+        var _this = this;
+        this.callNumber
+            .callNumber(phoneNumber, true)
+            .then(function (msg) { _this.successMessage = msg; console.log(msg); }, function (err) {
+            _this.errorMessage = err;
+            console.log(err);
+            var alert = _this.alertCtrl.create({
+                title: 'Attention!',
+                subTitle: 'Only works in real device',
+                buttons: ['Close']
+            });
+            alert.present();
+        });
+    };
+    NativeCallNumberPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-native-call-number',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-call-number\native-call-number.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Native Call Number</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n  <button ion-button block color="primary" (click)="doCall(\'+6285123123123\')"> Call : +6285 123 123 123 </button>\n\n  <p> {{ successMessage }} </p>\n  <p> {{ errorMessage }} </p>\n  \n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-call-number\native-call-number.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__ionic_native_call_number__["a" /* CallNumber */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["p" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */]])
+    ], NativeCallNumberPage);
+    return NativeCallNumberPage;
+}());
+
+//# sourceMappingURL=native-call-number.js.map
+
+/***/ }),
+
+/***/ 920:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NativeCallNumberPageModule", function() { return NativeCallNumberPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__native_call_number__ = __webpack_require__(1239);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var NativeCallNumberPageModule = /** @class */ (function () {
+    function NativeCallNumberPageModule() {
+    }
+    NativeCallNumberPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__native_call_number__["a" /* NativeCallNumberPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__native_call_number__["a" /* NativeCallNumberPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__native_call_number__["a" /* NativeCallNumberPage */]
+            ]
+        })
+    ], NativeCallNumberPageModule);
+    return NativeCallNumberPageModule;
+}());
+
+//# sourceMappingURL=native-call-number.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=35.js.map

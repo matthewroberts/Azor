@@ -67,6 +67,9 @@
     "phonegap-plugin-push": {
       "SENDER_ID": "728947504355",
       "PACKAGE_NAME": "com.ionicpremium.ionium2"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.ionicpremium.ionium2"
     }
   },
   "dependent_plugins": {
@@ -83,6 +86,9 @@
       "PACKAGE_NAME": "com.ionicpremium.ionium2"
     },
     "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "com.ionicpremium.ionium2"
+    },
+    "es6-promise-plugin": {
       "PACKAGE_NAME": "com.ionicpremium.ionium2"
     }
   }

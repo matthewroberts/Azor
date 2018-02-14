@@ -1,1 +1,126 @@
-webpackJsonp([44],{881:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵeld"](1,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](2,16384,null,0,k.a,[R.a,a.ElementRef,a.Renderer,[2,v.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\n  "])),(l()(),a["ɵeld"](4,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,y.b,y.a)),a["ɵdid"](5,49152,null,0,C.a,[h.a,[2,v.a],[2,_.a],R.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](7,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==a["ɵnov"](l,9).toggle()&&u}return u},E.b,E.a)),a["ɵdid"](8,1097728,[[1,4]],0,N.a,[[8,""],R.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](9,1064960,null,0,D.a,[V.a,[2,v.a],[2,N.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](10,16384,null,1,I.a,[R.a,a.ElementRef,a.Renderer,[2,P.a],[2,C.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](13,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](14,147456,null,0,K.a,[R.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](17,0,null,3,2,"ion-title",[],null,null,null,L.b,L.a)),a["ɵdid"](18,49152,null,0,M.a,[R.a,a.ElementRef,a.Renderer,[2,P.a],[2,C.a]],null,null),(l()(),a["ɵted"](-1,0,["Native Youtube Player"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n\n\n"])),(l()(),a["ɵeld"](23,0,null,null,6,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,x.b,x.a)),a["ɵdid"](24,4374528,null,0,F.a,[R.a,T.a,z.a,a.ElementRef,a.Renderer,h.a,A.a,a.NgZone,[2,v.a],[2,_.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](26,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.playVideo()&&u}return u},E.b,E.a)),a["ɵdid"](27,1097728,null,0,N.a,[[8,""],R.a,a.ElementRef,a.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),a["ɵted"](-1,0,[" Play Video "])),(l()(),a["ɵted"](-1,1,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){l(n,5,0,"primary");l(n,9,0,"");l(n,14,0,"menu");l(n,27,0,"primary","")},function(l,n){l(n,4,0,a["ɵnov"](n,5)._hidden,a["ɵnov"](n,5)._sbPadding);l(n,7,0,a["ɵnov"](n,9).isHidden);l(n,13,0,a["ɵnov"](n,14)._hidden);l(n,23,0,a["ɵnov"](n,24).statusbarPadding,a["ɵnov"](n,24)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),t=(e(0),e(69),e(267)),o=function(){function l(l,n,e){this.youtube=l,this.platform=n,this.alertCtrl=e}return l.prototype.playVideo=function(){this.youtube.openVideo("2IXvWAd8kG0")},l}(),d=function(){return function(){}}(),r=e(456),i=e(457),s=e(458),c=e(459),b=e(460),f=e(461),m=e(462),p=e(463),g=e(464),k=e(145),R=e(4),v=e(8),y=e(903),C=e(56),h=e(14),_=e(36),E=e(68),N=e(35),D=e(224),V=e(39),I=e(223),P=e(57),K=e(63),L=e(466),M=e(90),x=e(465),F=e(37),T=e(7),z=e(15),A=e(43),B=e(92),O=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),Y=a["ɵccf"]("page-native-youtube-player",o,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-native-youtube-player",[],null,null,null,u,O)),a["ɵdid"](1,49152,null,0,o,[t.a,T.a,B.a],null,null)],null,null)},{},{},[]),j=e(21),q=e(32),w=e(222),G=e(64);e.d(n,"NativeYoutubePlayerPageModuleNgFactory",function(){return H});var H=a["ɵcmf"](d,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[r.a,i.a,s.a,c.a,b.a,f.a,m.a,p.a,g.a,Y]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,j.NgLocalization,j.NgLocaleLocalization,[a.LOCALE_ID,[2,j["ɵa"]]]),a["ɵmpd"](4608,q.t,q.t,[]),a["ɵmpd"](4608,q.d,q.d,[]),a["ɵmpd"](512,j.CommonModule,j.CommonModule,[]),a["ɵmpd"](512,q.r,q.r,[]),a["ɵmpd"](512,q.i,q.i,[]),a["ɵmpd"](512,q.p,q.p,[]),a["ɵmpd"](512,w.a,w.a,[]),a["ɵmpd"](512,w.b,w.b,[]),a["ɵmpd"](512,d,d,[]),a["ɵmpd"](256,G.a,o,[])])})},903:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},o.b,o.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],r.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,i.a,[r.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var a=e(1),t=e(21),o=e(68),d=e(35),r=e(4),i=e(63),s=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([44],{
+
+/***/ 1230:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FlashCardPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * This Component need :
+ * - flash-card components. Load it in component
+ */
+var FlashCardPage = /** @class */ (function () {
+    function FlashCardPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.flashCards = [];
+        this.flashCards = [
+            {
+                front: { image: 'assets/img/flashcards/namaste.jpg', title: 'Namaste', subtitle: 'नमस्ते' },
+                back: {
+                    title: 'meaning',
+                    subtitle: 'Hello, Greetings, I bless the divine in you',
+                    content: 'It is used to greet people every time they meet. It is usually initiated by the juniors'
+                }
+            },
+            {
+                front: {
+                    image: 'assets/img/flashcards/how_are_you.jpg',
+                    title: '(Tapailai) Kasto chha?',
+                    subtitle: '( तपाईंलाई ) कस्तो छ ?'
+                },
+                back: {
+                    title: 'meaning',
+                    subtitle: 'How are you?',
+                    content: 'It is used to ask people how they are doing or feeling.'
+                }
+            },
+            {
+                front: {
+                    image: 'assets/img/flashcards/sorry.jpg',
+                    title: 'Maaph garnuhos',
+                    subtitle: 'माफ गर्नुहोस्'
+                },
+                back: {
+                    title: 'meaning',
+                    subtitle: 'Excuse me/ pardon me / Sorry',
+                    content: 'It is used to ask for forgiveness when you do make mistakes.'
+                }
+            }
+        ];
+    }
+    FlashCardPage.prototype.ionViewDidLoad = function () {
+        console.log('ionViewDidLoad FlashCardPage');
+    };
+    FlashCardPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-flash-card',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\flash-card\flash-card.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n     <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>FlashCard</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n      <flash-card *ngFor="let card of flashCards" >\n        <div class="fc-front">\n          <img *ngIf="card.front.image"  [src]="card.front.image" />\n          <h2 text-center>{{card.front.title}}</h2>\n          <h3 text-center>{{card.front.subtitle}}</h3>\n          <hr />\n          <p *ngIf="card.front.title" >{{card.front.content}}</p>\n        </div>\n        <div class="fc-back">\n          <img *ngIf="card.back.image"  [src]="card.back.image" />\n          <h2 text-center>{{card.back.title}}</h2>\n          <h3 text-center>{{card.back.subtitle}}</h3>\n          <hr />\n          <p *ngIf="card.back.title" >{{card.back.content}}</p>\n        </div>\n      </flash-card>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\flash-card\flash-card.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["o" /* NavParams */]])
+    ], FlashCardPage);
+    return FlashCardPage;
+}());
+
+//# sourceMappingURL=flash-card.js.map
+
+/***/ }),
+
+/***/ 911:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FlashCardPageModule", function() { return FlashCardPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__app_shared_module__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__flash_card__ = __webpack_require__(1230);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var FlashCardPageModule = /** @class */ (function () {
+    function FlashCardPageModule() {
+    }
+    FlashCardPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_2__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_1__flash_card__["a" /* FlashCardPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_1__flash_card__["a" /* FlashCardPage */]),
+                __WEBPACK_IMPORTED_MODULE_0__app_shared_module__["a" /* SharedModule */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_1__flash_card__["a" /* FlashCardPage */]
+            ]
+        })
+    ], FlashCardPageModule);
+    return FlashCardPageModule;
+}());
+
+//# sourceMappingURL=flash-card.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=44.js.map

@@ -1,1 +1,106 @@
-webpackJsonp([45],{879:function(l,n,e){"use strict";function a(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),t["ɵdid"](1,16384,null,0,h.a,[v.a,t.ElementRef,t.Renderer,[2,k.a]],null,null),(l()(),t["ɵted"](-1,null,["\n\n  "])),(l()(),t["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,R.b,R.a)),t["ɵdid"](4,49152,null,0,C.a,[E.a,[2,k.a],[2,y.a],v.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==t["ɵnov"](l,8).toggle()&&a}return a},_.b,_.a)),t["ɵdid"](7,1097728,[[1,4]],0,S.a,[[8,""],v.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](8,1064960,null,0,N.a,[D.a,[2,k.a],[2,S.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](9,16384,null,1,M.a,[v.a,t.ElementRef,t.Renderer,[2,V.a],[2,C.a]],null,null),t["ɵqud"](603979776,1,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](13,147456,null,0,I.a,[v.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n    "])),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,T.b,T.a)),t["ɵdid"](17,49152,null,0,x.a,[v.a,t.ElementRef,t.Renderer,[2,V.a],[2,C.a]],null,null),(l()(),t["ɵted"](-1,0,["Native Social Sharing"])),(l()(),t["ɵted"](-1,3,["\n  "])),(l()(),t["ɵted"](-1,null,["\n\n"])),(l()(),t["ɵted"](-1,null,["\n\n"])),(l()(),t["ɵeld"](22,0,null,null,12,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,K.b,K.a)),t["ɵdid"](23,4374528,null,0,L.a,[v.a,F.a,O.a,t.ElementRef,t.Renderer,E.a,P.a,t.NgZone,[2,k.a],[2,y.a]],null,null),(l()(),t["ɵted"](-1,1,["\n\n  "])),(l()(),t["ɵeld"](25,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.doSosialSharing()&&a}return a},_.b,_.a)),t["ɵdid"](26,1097728,null,0,S.a,[[8,""],v.a,t.ElementRef,t.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),t["ɵted"](-1,0,[" Share "])),(l()(),t["ɵted"](-1,1,["\n\n  "])),(l()(),t["ɵeld"](29,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),t["ɵted"](30,null,[" "," "])),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](32,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),t["ɵted"](33,null,[" "," "])),(l()(),t["ɵted"](-1,1,["\n\n"])),(l()(),t["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"primary","")},function(l,n){var e=n.component;l(n,3,0,t["ɵnov"](n,4)._hidden,t["ɵnov"](n,4)._sbPadding);l(n,6,0,t["ɵnov"](n,8).isHidden);l(n,12,0,t["ɵnov"](n,13)._hidden);l(n,22,0,t["ɵnov"](n,23).statusbarPadding,t["ɵnov"](n,23)._hasRefresher);l(n,30,0,e.successMessage);l(n,33,0,e.errorMessage)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(1),u=(e(0),e(69),e(266)),o=function(){function l(l,n,e){this.socialSharing=l,this.platform=n,this.alertCtrl=e}return l.prototype.doSosialSharing=function(){var l=this;this.socialSharing.canShareViaEmail().then(function(){l.shareVia("email")}).catch(function(n){l.errorMessage="can't share via email "+n,console.log("Can't share via email",n);l.alertCtrl.create({title:"Attention!",subTitle:"Only works on real device",buttons:["Close"]}).present()})},l.prototype.shareVia=function(l){var n=this;"email"===l&&this.socialSharing.shareViaEmail("Body","Subject",["recipient@example.org"]).then(function(l){n.successMessage=l,console.log("Share Via Email")},function(l){n.errorMessage="Error send via Email "+l,console.log("Error send via Email",l);n.alertCtrl.create({title:"Attention!",subTitle:"Only works on real device",buttons:["Close"]}).present()})},l}(),r=function(){return function(){}}(),i=e(456),d=e(457),s=e(458),c=e(459),b=e(460),m=e(461),f=e(462),g=e(463),p=e(464),h=e(145),v=e(4),k=e(8),R=e(903),C=e(56),E=e(14),y=e(36),_=e(68),S=e(35),N=e(224),D=e(39),M=e(223),V=e(57),I=e(63),T=e(466),x=e(90),K=e(465),L=e(37),F=e(7),O=e(15),P=e(43),w=e(92),A=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),B=t["ɵccf"]("page-native-social-sharing",o,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"page-native-social-sharing",[],null,null,null,a,A)),t["ɵdid"](1,49152,null,0,o,[u.a,F.a,w.a],null,null)],null,null)},{},{},[]),j=e(21),z=e(32),q=e(222),H=e(64);e.d(n,"NativeSocialSharingPageModuleNgFactory",function(){return J});var J=t["ɵcmf"](r,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[i.a,d.a,s.a,c.a,b.a,m.a,f.a,g.a,p.a,B]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,j.NgLocalization,j.NgLocaleLocalization,[t.LOCALE_ID,[2,j["ɵa"]]]),t["ɵmpd"](4608,z.t,z.t,[]),t["ɵmpd"](4608,z.d,z.d,[]),t["ɵmpd"](512,j.CommonModule,j.CommonModule,[]),t["ɵmpd"](512,z.r,z.r,[]),t["ɵmpd"](512,z.i,z.i,[]),t["ɵmpd"](512,z.p,z.p,[]),t["ɵmpd"](512,q.a,q.a,[]),t["ɵmpd"](512,q.b,q.b,[]),t["ɵmpd"](512,r,r,[]),t["ɵmpd"](256,H.a,o,[])])})},903:function(l,n,e){"use strict";function a(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.backButtonClick(e)&&a}return a},o.b,o.a)),t["ɵdid"](3,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,r.a,[[8,"bar-button"],i.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,d.a,[i.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,u.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=a;var t=e(1),u=e(21),o=e(68),r=e(35),i=e(4),d=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([45],{
+
+/***/ 1229:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FeaturePullToRefreshPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_crud_http_crud_http__ = __webpack_require__(455);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var FeaturePullToRefreshPage = /** @class */ (function () {
+    function FeaturePullToRefreshPage(loadingCtrl, crudHttpProvider) {
+        this.loadingCtrl = loadingCtrl;
+        this.crudHttpProvider = crudHttpProvider;
+        this.dataNotes = { id: null };
+    }
+    FeaturePullToRefreshPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        var loader = this.loadingCtrl.create({ content: 'Please wait...', duration: 10000 });
+        loader.present();
+        this.crudHttpProvider.getNotesDB()
+            .then(function (data) {
+            _this.notesItems = data;
+            if (data)
+                loader.dismiss();
+        });
+    };
+    FeaturePullToRefreshPage.prototype.doRefresh = function (refresher) {
+        var _this = this;
+        console.log('Begin async operation', refresher);
+        this.crudHttpProvider.getNotesDB()
+            .then(function (data) {
+            console.log('Async operation has ended');
+            _this.notesItems = data;
+            refresher.complete();
+        });
+    };
+    FeaturePullToRefreshPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-feature-pull-to-refresh',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\feature-pull-to-refresh\feature-pull-to-refresh.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Feature Pull to Refresh</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <ion-refresher (ionRefresh)="doRefresh($event)">\n    <ion-refresher-content\n      pullingIcon="arrow-dropdown"\n      pullingText="Pull to refresh"\n      refreshingSpinner="circles"\n      refreshingText="Refreshing...">\n    </ion-refresher-content>\n  </ion-refresher>\n  <ion-list>\n    <ion-item-sliding *ngFor="let item of notesItems; let i = index">\n      <ion-item>\n        {{ item.title }}\n      </ion-item>\n    </ion-item-sliding>\n  </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\feature-pull-to-refresh\feature-pull-to-refresh.html"*/,
+            providers: [__WEBPACK_IMPORTED_MODULE_2__providers_crud_http_crud_http__["a" /* CrudHttpProvider */]],
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */], __WEBPACK_IMPORTED_MODULE_2__providers_crud_http_crud_http__["a" /* CrudHttpProvider */]])
+    ], FeaturePullToRefreshPage);
+    return FeaturePullToRefreshPage;
+}());
+
+//# sourceMappingURL=feature-pull-to-refresh.js.map
+
+/***/ }),
+
+/***/ 910:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FeaturePullToRefreshPageModule", function() { return FeaturePullToRefreshPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__feature_pull_to_refresh__ = __webpack_require__(1229);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var FeaturePullToRefreshPageModule = /** @class */ (function () {
+    function FeaturePullToRefreshPageModule() {
+    }
+    FeaturePullToRefreshPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__feature_pull_to_refresh__["a" /* FeaturePullToRefreshPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__feature_pull_to_refresh__["a" /* FeaturePullToRefreshPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__feature_pull_to_refresh__["a" /* FeaturePullToRefreshPage */]
+            ]
+        })
+    ], FeaturePullToRefreshPageModule);
+    return FeaturePullToRefreshPageModule;
+}());
+
+//# sourceMappingURL=feature-pull-to-refresh.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=45.js.map

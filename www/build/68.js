@@ -55,7 +55,7 @@ var FirebaseRegisterPage = /** @class */ (function () {
                     });
                     _this.alert.present().then(function () {
                         if (result.uid)
-                            _this.navCtrl.setRoot('ProfileFourPage');
+                            _this.navCtrl.setRoot('SlidePage');
                     });
                 });
                 _this.loading = null;

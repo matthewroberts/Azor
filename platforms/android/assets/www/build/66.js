@@ -1,1 +1,87 @@
-webpackJsonp([66],{853:function(e,n,l){"use strict";function a(e){return t["ɵvid"](0,[(e()(),t["ɵeld"](0,0,null,null,10,"ion-header",[],null,null,null,null,null)),t["ɵdid"](1,16384,null,0,g.a,[p.a,t.ElementRef,t.Renderer,[2,y.a]],null,null),(e()(),t["ɵted"](-1,null,["\n  "])),(e()(),t["ɵeld"](3,0,null,null,6,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,w.b,w.a)),t["ɵdid"](4,49152,null,0,C.a,[v.a,[2,y.a],[2,k.a],p.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(e()(),t["ɵted"](-1,3,["\n    "])),(e()(),t["ɵeld"](6,0,null,3,2,"ion-title",[],null,null,null,R.b,R.a)),t["ɵdid"](7,49152,null,0,T.a,[p.a,t.ElementRef,t.Renderer,[2,_.a],[2,C.a]],null,null),(e()(),t["ɵted"](-1,0,["Blog Post"])),(e()(),t["ɵted"](-1,3,["\n  "])),(e()(),t["ɵted"](-1,null,["\n"])),(e()(),t["ɵted"](-1,null,["\n"])),(e()(),t["ɵeld"](12,0,null,null,25,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,E.b,E.a)),t["ɵdid"](13,4374528,null,0,P.a,[p.a,D.a,I.a,t.ElementRef,t.Renderer,v.a,N.a,t.NgZone,[2,y.a],[2,k.a]],null,null),(e()(),t["ɵted"](-1,1,["\n  "])),(e()(),t["ɵeld"](15,0,null,1,9,"header",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["\n    "])),(e()(),t["ɵeld"](17,0,null,null,4,"h1",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["Land "])),(e()(),t["ɵeld"](19,0,null,null,1,"span",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["of the"])),(e()(),t["ɵted"](-1,null,[" Lost"])),(e()(),t["ɵted"](-1,null,["\n    "])),(e()(),t["ɵeld"](23,0,null,null,0,"img",[["src","assets/img/blog/mountain-range-front.png"]],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["\n  "])),(e()(),t["ɵted"](-1,1,["\n  "])),(e()(),t["ɵeld"](26,0,null,1,10,"main",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["\n    "])),(e()(),t["ɵeld"](28,0,null,null,1,"p",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["From this point he marched two stages—ten parasangs—to the river Psarus, which is two hundred feet broad, and from the\n      Psarus he marched a single stage—five parasangs—to Issi, the last city in Cilicia. It lies on the seaboard—a prosperous,\n      large and flourishing town. Here they halted three days, and here Cyrus was joined by his fleet. There were thirty-five\n      ships from Peloponnesus, with the Lacedaemonian admiral Pythagoras on board. These had been piloted from Ephesus by\n      Tamos the Egyptian, who himself had another fleet of twenty-five ships belonging to Cyrus. These had formed Tamos's\n      blockading squadron at Miletus, when that city sided with Tissaphernes; he had also used them in other military services\n      rendered to Cyrus in his operations against that satrap. There was a third officer on board the fleet, the Lacedaemonian\n      Cheirisophus, who had been sent for by Cyrus, and had brought with him seven hundred hoplites, over whom he was to\n      act as general in the service of Cyrus. The fleet lay at anchor opposite Cyrus's tent. Here too another reinforcement\n      presented itself. This was a body of four hundred hoplites, Hellenic mercenaries in the service of Abrocomas, who deserted\n      him for Cyrus, and joined in the campaign against the king."])),(e()(),t["ɵted"](-1,null,["\n    "])),(e()(),t["ɵeld"](31,0,null,null,1,"p",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["From Issi, he marched a single stage—five parasangs—to the gates of Cilicia and Syria. This was a double fortress: the\n      inner and nearer one, which protects Cilicia, was held by Syennesis and a garrison of Cilicians; the outer and further\n      one, protecting Syria, was reported to be garrisoned by a body of the king's troops. Through the gap between the two\n      fortresses flows a river named the Carsus, which is a hundred feet broad, and the whole space between was scarcely\n      more than six hundred yards. To force a passage here would be impossible, so narrow was the pass itself, with the fortification\n      walls stretching down to the sea, and precipitous rocks above; while both fortresses were furnished with gates. It\n      was the existence of this pass which had induced Cyrus to send for the fleet, so as to enable him to lead a body of\n      hoplites inside and outside the gates; and so to force a passage through the enemy, if he were guarding the Syrian\n      gate, as he fully expected to find Abrocomas doing with a large army. This, however, Abrocomas had not done; but as\n      soon as he learnt that Cyrus was in Cilicia, he had turned round and made his exit from Phoenicia, to join the king\n      with an army amounting, as report said, to three hundred thousand men."])),(e()(),t["ɵted"](-1,null,["\n    "])),(e()(),t["ɵeld"](34,0,null,null,1,"p",[],null,null,null,null,null)),(e()(),t["ɵted"](-1,null,["From this point Cyrus pursued his march, through Syria a single stage—five parasangs—to Myriandus, a city inhabited by\n      Phoenicians, on the sea-coast. This was a commercial port, and numerous merchant vessels were riding at anchor in the\n      harbour. Here they halted seven days, and here Xenias the Arcadian general, and Pasion the Megarian got on board a\n      trader, and having stowed away their most valuable effects, set sail for home; most people explained the act as the\n      outcome of a fit of jealousy, because Cyrus had allowed Clearchus to retain their men, who had deserted to him, in\n      hopes of returning to Hellas instead of marching against the king; when the two had so vanished, a rumour spread that\n      Cyrus was after them with some ships of war, and some hoped the cowards might be caught, others pitied them, if that\n      should be their fate."])),(e()(),t["ɵted"](-1,null,["\n  "])),(e()(),t["ɵted"](-1,1,["\n"])),(e()(),t["ɵted"](-1,null,["\n\n"]))],function(e,n){e(n,4,0,"primary")},function(e,n){e(n,3,0,t["ɵnov"](n,4)._hidden,t["ɵnov"](n,4)._sbPadding);e(n,12,0,t["ɵnov"](n,13).statusbarPadding,t["ɵnov"](n,13)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var t=l(1),s=(l(0),l(69),function(){return function(e){this.navCtrl=e}}()),o=function(){return function(){}}(),r=l(456),u=l(457),i=l(458),d=l(459),h=l(460),c=l(461),f=l(462),m=l(463),b=l(464),g=l(145),p=l(4),y=l(8),w=l(903),C=l(56),v=l(14),k=l(36),R=l(466),T=l(90),_=l(57),E=l(465),P=l(37),D=l(7),I=l(15),N=l(43),x=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),L=t["ɵccf"]("page-blog-post",s,function(e){return t["ɵvid"](0,[(e()(),t["ɵeld"](0,0,null,null,1,"page-blog-post",[],null,null,null,a,x)),t["ɵdid"](1,49152,null,0,s,[k.a],null,null)],null,null)},{},{},[]),M=l(21),F=l(32),j=l(222),A=l(64);l.d(n,"BlogPostPageModuleNgFactory",function(){return H});var H=t["ɵcmf"](o,[],function(e){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[r.a,u.a,i.a,d.a,h.a,c.a,f.a,m.a,b.a,L]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,M.NgLocalization,M.NgLocaleLocalization,[t.LOCALE_ID,[2,M["ɵa"]]]),t["ɵmpd"](4608,F.t,F.t,[]),t["ɵmpd"](4608,F.d,F.d,[]),t["ɵmpd"](512,M.CommonModule,M.CommonModule,[]),t["ɵmpd"](512,F.r,F.r,[]),t["ɵmpd"](512,F.i,F.i,[]),t["ɵmpd"](512,F.p,F.p,[]),t["ɵmpd"](512,j.a,j.a,[]),t["ɵmpd"](512,j.b,j.b,[]),t["ɵmpd"](512,o,o,[]),t["ɵmpd"](256,A.a,s,[])])})},903:function(e,n,l){"use strict";function a(e){return t["ɵvid"](0,[(e()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,s.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(e()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(e,n,l){var a=!0;if("click"===n){a=!1!==e.component.backButtonClick(l)&&a}return a},o.b,o.a)),t["ɵdid"](3,278528,null,0,s.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,r.a,[[8,"bar-button"],u.a,t.ElementRef,t.Renderer],null,null),(e()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,s.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,i.a,[u.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(e()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,s.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(e()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(e()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,s.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(e,n){var l=n.component;e(n,1,0,"toolbar-background","toolbar-background-"+l._mode);e(n,3,0,"back-button","back-button-"+l._mode);e(n,6,0,"back-button-icon","back-button-icon-"+l._mode);e(n,7,0,l._bbIcon);e(n,9,0,"back-button-text","back-button-text-"+l._mode);e(n,15,0,"toolbar-content","toolbar-content-"+l._mode)},function(e,n){var l=n.component;e(n,2,0,l._hideBb);e(n,5,0,t["ɵnov"](n,7)._hidden);e(n,10,0,l._backText)})}l.d(n,"a",function(){return d}),n.b=a;var t=l(1),s=l(21),o=l(68),r=l(35),u=l(4),i=l(63),d=(l(56),l(8),l(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([66],{
+
+/***/ 1159:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormListPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_global_setting__ = __webpack_require__(198);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var FormListPage = /** @class */ (function () {
+    function FormListPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.rootPage = 'FormListPage';
+        this.items = __WEBPACK_IMPORTED_MODULE_2__app_global_setting__["h" /* LISTMENUFORM */];
+    }
+    FormListPage.prototype.itemTapped = function (event, item) {
+        this.navCtrl.push(item.component);
+    };
+    FormListPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-form',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\form.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Form</ion-title>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <ion-list>\n    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">\n      {{item.title}}\n    </button>\n  </ion-list>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\form\form.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], FormListPage);
+    return FormListPage;
+}());
+
+//# sourceMappingURL=form.js.map
+
+/***/ }),
+
+/***/ 888:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FormListPageModule", function() { return FormListPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__form__ = __webpack_require__(1159);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var FormListPageModule = /** @class */ (function () {
+    function FormListPageModule() {
+    }
+    FormListPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__form__["a" /* FormListPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__form__["a" /* FormListPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__form__["a" /* FormListPage */]
+            ]
+        })
+    ], FormListPageModule);
+    return FormListPageModule;
+}());
+
+//# sourceMappingURL=form.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=66.js.map

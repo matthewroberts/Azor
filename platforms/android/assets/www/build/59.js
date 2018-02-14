@@ -1,1 +1,87 @@
-webpackJsonp([59],{864:function(l,n,e){"use strict";function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,21,"div",[],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n\t\t"])),(l()(),a["ɵeld"](2,0,null,null,18,"figure",[["class","snip1574"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n\t\t\t"])),(l()(),a["ɵeld"](4,0,null,null,0,"img",[["alt","profile-sample2"]],[[8,"src",4]],null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n\t\t\t"])),(l()(),a["ɵeld"](6,0,null,null,13,"figcaption",[],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n\t\t\t\t"])),(l()(),a["ɵeld"](8,0,null,null,4,"blockquote",[],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n\t\t\t\t\t"])),(l()(),a["ɵeld"](10,0,null,null,1,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](11,null,["",""])),(l()(),a["ɵted"](-1,null,["\n\t\t\t\t"])),(l()(),a["ɵted"](-1,null,["\n\t\t\t\t"])),(l()(),a["ɵeld"](14,0,null,null,1,"h3",[],null,null,null,null,null)),(l()(),a["ɵted"](15,null,["",""])),(l()(),a["ɵted"](-1,null,["\n\t\t\t\t"])),(l()(),a["ɵeld"](17,0,null,null,1,"h5",[],null,null,null,null,null)),(l()(),a["ɵted"](18,null,["",""])),(l()(),a["ɵted"](-1,null,["\n\t\t\t"])),(l()(),a["ɵted"](-1,null,["\n\t\t"])),(l()(),a["ɵted"](-1,null,["\n\t"]))],null,function(l,n){l(n,4,0,n.context.$implicit.imageUrl);l(n,11,0,n.context.$implicit.quote);l(n,15,0,n.context.$implicit.name);l(n,18,0,n.context.$implicit.position)})}function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,h.a,[R.a,a.ElementRef,a.Renderer,[2,k.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\t"])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,v.b,v.a)),a["ɵdid"](4,49152,null,0,C.a,[y.a,[2,k.a],[2,w.a],R.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n\t\t"])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==a["ɵnov"](l,8).toggle()&&t}return t},_.b,_.a)),a["ɵdid"](7,1097728,[[1,4]],0,I.a,[[8,""],R.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,D.a,[E.a,[2,k.a],[2,I.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,N.a,[R.a,a.ElementRef,a.Renderer,[2,T.a],[2,C.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,q.a,[R.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n\t\t"])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,F.b,F.a)),a["ɵdid"](17,49152,null,0,V.a,[R.a,a.ElementRef,a.Renderer,[2,T.a],[2,C.a]],null,null),(l()(),a["ɵted"](-1,0,["Testimonials"])),(l()(),a["ɵted"](-1,3,["\n\t"])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵeld"](22,0,null,null,5,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,x.b,x.a)),a["ɵdid"](23,4374528,null,0,j.a,[R.a,P.a,U.a,a.ElementRef,a.Renderer,y.a,L.a,a.NgZone,[2,k.a],[2,w.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\t"])),(l()(),a["ɵand"](16777216,null,1,1,null,t)),a["ɵdid"](26,802816,null,0,W.NgForOf,[a.ViewContainerRef,a.TemplateRef,a.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),a["ɵted"](-1,1,["\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,e.testimonials)},function(l,n){l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),i=(e(0),e(69),function(){function l(l){this.navCtrl=l,this.testimonials=[{imageUrl:"assets/img/misc/testimonial-1.jpg",quote:"Which is worse, that everyone has his price, or that the price is always so low.",name:"Sue Shei",position:"Founder"},{imageUrl:"assets/img/misc/testimonial-2.jpg",quote:"I'm killing time while I wait for life to shower me with meaning and happiness.",name:"Will Barrow",position:"Web Designer"},{imageUrl:"assets/img/misc/testimonial-3.jpg",quote:"The only skills I have the patience to learn are those that have no real application in life.",name:"Indigo Violet",position:"Public Relations"},{imageUrl:"assets/img/misc/testimonial-1.jpg",quote:"Which is worse, that everyone has his price, or that the price is always so low.",name:"Sue Shei",position:"Founder"},{imageUrl:"assets/img/misc/testimonial-2.jpg",quote:"I'm killing time while I wait for life to shower me with meaning and happiness.",name:"Will Barrow",position:"Web Designer"},{imageUrl:"assets/img/misc/testimonial-3.jpg",quote:"The only skills I have the patience to learn are those that have no real application in life.",name:"Indigo Violet",position:"Public Relations"}]}return l.prototype.ionViewDidLoad=function(){console.log("Hello Testimonials Page")},l}()),o=function(){return function(){}}(),s=e(456),d=e(457),r=e(458),c=e(459),m=e(460),f=e(461),g=e(462),p=e(463),b=e(464),h=e(145),R=e(4),k=e(8),v=e(903),C=e(56),y=e(14),w=e(36),_=e(68),I=e(35),D=e(224),E=e(39),N=e(223),T=e(57),q=e(63),F=e(466),V=e(90),x=e(465),j=e(37),P=e(7),U=e(15),L=e(43),W=e(21),K=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),M=a["ɵccf"]("page-testimonials",i,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-testimonials",[],null,null,null,u,K)),a["ɵdid"](1,49152,null,0,i,[w.a],null,null)],null,null)},{},{},[]),O=e(32),B=e(222),S=e(64);e.d(n,"TestimonialsPageModuleNgFactory",function(){return $});var $=a["ɵcmf"](o,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[s.a,d.a,r.a,c.a,m.a,f.a,g.a,p.a,b.a,M]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,W.NgLocalization,W.NgLocaleLocalization,[a.LOCALE_ID,[2,W["ɵa"]]]),a["ɵmpd"](4608,O.t,O.t,[]),a["ɵmpd"](4608,O.d,O.d,[]),a["ɵmpd"](512,W.CommonModule,W.CommonModule,[]),a["ɵmpd"](512,O.r,O.r,[]),a["ɵmpd"](512,O.i,O.i,[]),a["ɵmpd"](512,O.p,O.p,[]),a["ɵmpd"](512,B.a,B.a,[]),a["ɵmpd"](512,B.b,B.b,[]),a["ɵmpd"](512,o,o,[]),a["ɵmpd"](256,S.a,i,[])])})},903:function(l,n,e){"use strict";function t(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),u["ɵdid"](1,278528,null,0,a.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},i.b,i.a)),u["ɵdid"](3,278528,null,0,a.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],s.a,u.ElementRef,u.Renderer],null,null),(l()(),u["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),u["ɵdid"](6,278528,null,0,a.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](7,147456,null,0,d.a,[s.a,u.ElementRef,u.Renderer],{name:[0,"name"]},null),(l()(),u["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),u["ɵdid"](9,278528,null,0,a.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵted"](10,null,["",""])),u["ɵncd"](null,0),u["ɵncd"](null,1),u["ɵncd"](null,2),(l()(),u["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),u["ɵdid"](15,278528,null,0,a.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,u["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return r}),n.b=t;var u=e(1),a=e(21),i=e(68),o=e(35),s=e(4),d=e(63),r=(e(56),e(8),e(36),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([59],{
+
+/***/ 1166:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Homev2Page; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_global_setting__ = __webpack_require__(198);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var Homev2Page = /** @class */ (function () {
+    function Homev2Page(navCtrl) {
+        this.navCtrl = navCtrl;
+        //Main Menu
+        this.pages = __WEBPACK_IMPORTED_MODULE_2__app_global_setting__["p" /* PAGES */];
+    }
+    Homev2Page.prototype.showList = function (pages) {
+        this.navCtrl.setRoot(pages.page);
+    };
+    Homev2Page = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-homev2',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\home\homev2\homev2.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title> Dashboard v2 </ion-title>\n  </ion-navbar>\n  \n</ion-header>\n\n<ion-content>\n  <ion-slides pager autoplay="1000" loop="true" speed="1000">\n    <ion-slide>\n      <div class="slide-item" style="background-image: url(assets/img/home/2.jpg)"></div>\n    </ion-slide>\n    <ion-slide>\n      <div class="slide-item" style="background-image: url(assets/img/home/3.jpg)"></div>\n    </ion-slide>\n    <ion-slide>\n      <div class="slide-item" style="background-image: url(assets/img/home/4.jpg)"></div>\n    </ion-slide>\n  </ion-slides>\n\n  <ion-list>\n    <div *ngFor="let item of pages; let i = index">\n      <ion-item (click)="showList(item)">\n        <ion-icon color="primary" name="{{item.icon}}" item-start></ion-icon>\n        {{ item.title }}\n      </ion-item>\n    </div>\n  </ion-list>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\home\homev2\homev2.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], Homev2Page);
+    return Homev2Page;
+}());
+
+//# sourceMappingURL=homev2.js.map
+
+/***/ }),
+
+/***/ 895:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LoginListPageModule", function() { return LoginListPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__homev2__ = __webpack_require__(1166);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var LoginListPageModule = /** @class */ (function () {
+    function LoginListPageModule() {
+    }
+    LoginListPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__homev2__["a" /* Homev2Page */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__homev2__["a" /* Homev2Page */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__homev2__["a" /* Homev2Page */]
+            ]
+        })
+    ], LoginListPageModule);
+    return LoginListPageModule;
+}());
+
+//# sourceMappingURL=homev2.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=59.js.map

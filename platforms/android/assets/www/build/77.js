@@ -1,1 +1,94 @@
-webpackJsonp([77],{823:function(l,n,e){"use strict";function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),o["ɵdid"](1,16384,null,0,k.a,[g.a,o.ElementRef,o.Renderer,[2,R.a]],null,null),(l()(),o["ɵted"](-1,null,["\n\n  "])),(l()(),o["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,h.b,h.a)),o["ɵdid"](4,49152,null,0,v.a,[C.a,[2,R.a],[2,E.a],g.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==o["ɵnov"](l,8).toggle()&&t}return t},T.b,T.a)),o["ɵdid"](7,1097728,[[1,4]],0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],null,null),o["ɵdid"](8,1064960,null,0,_.a,[w.a,[2,R.a],[2,y.a],[2,v.a]],{menuToggle:[0,"menuToggle"]},null),o["ɵdid"](9,16384,null,1,D.a,[g.a,o.ElementRef,o.Renderer,[2,N.a],[2,v.a]],null,null),o["ɵqud"](603979776,1,{_buttons:1}),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](13,147456,null,0,L.a,[g.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,B.b,B.a)),o["ɵdid"](17,49152,null,0,P.a,[g.a,o.ElementRef,o.Renderer,[2,N.a],[2,v.a]],null,null),(l()(),o["ɵted"](-1,0,["Toast"])),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n\n"])),(l()(),o["ɵted"](-1,null,["\n\n\n"])),(l()(),o["ɵeld"](22,0,null,null,22,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,I.b,I.a)),o["ɵdid"](23,4374528,null,0,M.a,[g.a,x.a,K.a,o.ElementRef,o.Renderer,C.a,S.a,o.NgZone,[2,R.a],[2,E.a]],null,null),(l()(),o["ɵted"](-1,1,["\n\n  "])),(l()(),o["ɵeld"](25,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showToast("top")&&t}return t},T.b,T.a)),o["ɵdid"](26,1097728,null,0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],{block:[0,"block"]},null),(l()(),o["ɵted"](-1,0,["Show Toast Top Position"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](29,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showToast("middle")&&t}return t},T.b,T.a)),o["ɵdid"](30,1097728,null,0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],{block:[0,"block"]},null),(l()(),o["ɵted"](-1,0,["Show Toast Middle Position"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](33,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showToast("bottom")&&t}return t},T.b,T.a)),o["ɵdid"](34,1097728,null,0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],{block:[0,"block"]},null),(l()(),o["ɵted"](-1,0,["Show Toast Bottom Position"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](37,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showLongToast()&&t}return t},T.b,T.a)),o["ɵdid"](38,1097728,null,0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],{block:[0,"block"]},null),(l()(),o["ɵted"](-1,0,["Show Long Toast"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](41,0,null,1,2,"button",[["block",""],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showToastWithCloseButton()&&t}return t},T.b,T.a)),o["ɵdid"](42,1097728,null,0,y.a,[[8,""],g.a,o.ElementRef,o.Renderer],{block:[0,"block"]},null),(l()(),o["ɵted"](-1,0,["Show Toast W/ Close Button"])),(l()(),o["ɵted"](-1,1,["\n\n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"");l(n,30,0,"");l(n,34,0,"");l(n,38,0,"");l(n,42,0,"")},function(l,n){l(n,3,0,o["ɵnov"](n,4)._hidden,o["ɵnov"](n,4)._sbPadding);l(n,6,0,o["ɵnov"](n,8).isHidden);l(n,12,0,o["ɵnov"](n,13)._hidden);l(n,22,0,o["ɵnov"](n,23).statusbarPadding,o["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),u=(e(0),e(69),function(){function l(l,n,e){this.toastCtrl=l,this.navCtrl=n,this.navParams=e}return l.prototype.showToast=function(l){var n=this.toastCtrl.create({message:"Mmmm, buttered toast",duration:2e3,position:l});n.present(n)},l.prototype.showToastWithCloseButton=function(){this.toastCtrl.create({message:"Your files were successfully saved",showCloseButton:!0,closeButtonText:"Ok"}).present()},l.prototype.showLongToast=function(){this.toastCtrl.create({message:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea voluptatibus quibusdam eum nihil optio, ullam accusamus magni, nobis suscipit reprehenderit, sequi quam amet impedit. Accusamus dolorem voluptates laborum dolor obcaecati.",duration:2e3}).present()},l}()),a=function(){return function(){}}(),d=e(456),s=e(457),i=e(458),r=e(459),c=e(460),b=e(461),m=e(462),f=e(463),p=e(464),k=e(145),g=e(4),R=e(8),h=e(903),v=e(56),C=e(14),E=e(36),T=e(68),y=e(35),_=e(224),w=e(39),D=e(223),N=e(57),L=e(63),B=e(466),P=e(90),I=e(465),M=e(37),x=e(7),K=e(15),S=e(43),V=e(167),q=e(19),F=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),O=o["ɵccf"]("page-toast",u,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-toast",[],null,null,null,t,F)),o["ɵdid"](1,49152,null,0,u,[V.a,E.a,q.a],null,null)],null,null)},{},{},[]),W=e(21),z=e(32),A=e(222),j=e(64);e.d(n,"ToastPageModuleNgFactory",function(){return H});var H=o["ɵcmf"](a,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[d.a,s.a,i.a,r.a,c.a,b.a,m.a,f.a,p.a,O]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,W.NgLocalization,W.NgLocaleLocalization,[o.LOCALE_ID,[2,W["ɵa"]]]),o["ɵmpd"](4608,z.t,z.t,[]),o["ɵmpd"](4608,z.d,z.d,[]),o["ɵmpd"](512,W.CommonModule,W.CommonModule,[]),o["ɵmpd"](512,z.r,z.r,[]),o["ɵmpd"](512,z.i,z.i,[]),o["ɵmpd"](512,z.p,z.p,[]),o["ɵmpd"](512,A.a,A.a,[]),o["ɵmpd"](512,A.b,A.b,[]),o["ɵmpd"](512,a,a,[]),o["ɵmpd"](256,j.a,u,[])])})},903:function(l,n,e){"use strict";function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),o["ɵdid"](1,278528,null,0,u.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},a.b,a.a)),o["ɵdid"](3,278528,null,0,u.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],s.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](6,278528,null,0,u.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](7,147456,null,0,i.a,[s.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),o["ɵdid"](9,278528,null,0,u.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵted"](10,null,["",""])),o["ɵncd"](null,0),o["ɵncd"](null,1),o["ɵncd"](null,2),(l()(),o["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),o["ɵdid"](15,278528,null,0,u.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,o["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return r}),n.b=t;var o=e(1),u=e(21),a=e(68),d=e(35),s=e(4),i=e(63),r=(e(56),e(8),e(36),o["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([77],{
+
+/***/ 1114:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CrudFirebaseDetailPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_firebase_firebase_database__ = __webpack_require__(457);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var CrudFirebaseDetailPage = /** @class */ (function () {
+    function CrudFirebaseDetailPage(navCtrl, navParams, firebaseDBProvider) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.firebaseDBProvider = firebaseDBProvider;
+        this.dataNotes = navParams.get('item');
+    }
+    CrudFirebaseDetailPage.prototype.saveNotes = function () {
+        this.firebaseDBProvider.saveNotesDB(this.dataNotes);
+        this.navCtrl.pop();
+    };
+    CrudFirebaseDetailPage.prototype.back = function () {
+        this.navCtrl.pop();
+    };
+    CrudFirebaseDetailPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-crud-firebase-detail',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\crud\crud-firebase-list\crud-firebase-detail\crud-firebase-detail.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button menuToggle *ngIf="!selectedItem">\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>CRUD Firebase Detail</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n  <ion-item>\n    <ion-input type="text" [(ngModel)]="dataNotes.title" placeholder="New Note Title"></ion-input>\n  </ion-item>\n  <ion-item>\n    <ion-textarea [(ngModel)]="dataNotes.text" placeholder="Your Text Here"></ion-textarea>\n  </ion-item>\n  <ion-col>\n    <button ion-button color="primary" (click)="saveNotes()">Save</button>\n    <button ion-button color="danger" (click)="back()">Back</button>\n  </ion-col>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\crud\crud-firebase-list\crud-firebase-detail\crud-firebase-detail.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["o" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_firebase_firebase_database__["a" /* FirebaseDatabaseProvider */]])
+    ], CrudFirebaseDetailPage);
+    return CrudFirebaseDetailPage;
+}());
+
+//# sourceMappingURL=crud-firebase-detail.js.map
+
+/***/ }),
+
+/***/ 876:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CrudFirebaseDetailPageModule", function() { return CrudFirebaseDetailPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__crud_firebase_detail__ = __webpack_require__(1114);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var CrudFirebaseDetailPageModule = /** @class */ (function () {
+    function CrudFirebaseDetailPageModule() {
+    }
+    CrudFirebaseDetailPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__crud_firebase_detail__["a" /* CrudFirebaseDetailPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__crud_firebase_detail__["a" /* CrudFirebaseDetailPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__crud_firebase_detail__["a" /* CrudFirebaseDetailPage */]
+            ]
+        })
+    ], CrudFirebaseDetailPageModule);
+    return CrudFirebaseDetailPageModule;
+}());
+
+//# sourceMappingURL=crud-firebase-detail.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=77.js.map

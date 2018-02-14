@@ -1,1 +1,84 @@
-webpackJsonp([41],{883:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,17,"ion-item",[["class","item item-block"]],null,null,null,R.b,R.a)),a["ɵdid"](1,1097728,null,3,k.a,[v.a,C.a,a.ElementRef,a.Renderer,[2,h.a]],null,null),a["ɵqud"](335544320,1,{contentLabel:0}),a["ɵqud"](603979776,2,{_buttons:1}),a["ɵqud"](603979776,3,{_icons:1}),a["ɵdid"](5,16384,null,0,_.a,[],null,null),(l()(),a["ɵted"](-1,2,["\n        "])),(l()(),a["ɵeld"](7,0,null,2,0,"img",[["class","post-profile-image"],["src","assets/img/misc/cat.jpg"]],null,null,null,null,null)),(l()(),a["ɵted"](8,2,[" ","\n        "])),(l()(),a["ɵeld"](9,0,null,2,1,"div",[["class","post-time"]],null,null,null,null,null)),(l()(),a["ɵted"](10,null,[""," something"])),(l()(),a["ɵted"](-1,2,["\n        "])),(l()(),a["ɵeld"](12,0,null,2,4,"div",[["class","post-options"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n          "])),(l()(),a["ɵeld"](14,0,null,null,1,"ion-icon",[["name","undo"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](15,147456,[[3,4]],0,y.a,[C.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,null,["\n        "])),(l()(),a["ɵted"](-1,2,["\n      "]))],function(l,n){l(n,15,0,"undo")},function(l,n){l(n,8,0,n.context.$implicit.text);l(n,10,0,n.context.$implicit.created_at);l(n,14,0,a["ɵnov"](n,15)._hidden)})}function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,10,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,E.a,[C.a,a.ElementRef,a.Renderer,[2,D.a]],null,null),(l()(),a["ɵted"](-1,null,["\n  "])),(l()(),a["ɵeld"](3,0,null,null,6,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,N.b,N.a)),a["ɵdid"](4,49152,null,0,x.a,[w.a,[2,D.a],[2,F.a],C.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,3,2,"ion-title",[],null,null,null,I.b,I.a)),a["ɵdid"](7,49152,null,0,P.a,[C.a,a.ElementRef,a.Renderer,[2,V.a],[2,x.a]],null,null),(l()(),a["ɵted"](-1,0,["Profile Page"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵeld"](12,0,null,null,36,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,K.b,K.a)),a["ɵdid"](13,4374528,null,0,L.a,[C.a,O.a,M.a,a.ElementRef,a.Renderer,w.a,j.a,a.NgZone,[2,D.a],[2,F.a]],null,null),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](15,0,null,1,2,"div",[["id","profile-bg"]],null,null,null,null,null)),a["ɵdid"](16,278528,null,0,q.NgStyle,[a.KeyValueDiffers,a.ElementRef,a.Renderer2],{ngStyle:[0,"ngStyle"]},null),a["ɵpod"](17,{"background-image":0}),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](19,0,null,1,28,"div",[["id","content"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n    "])),(l()(),a["ɵeld"](21,0,null,null,18,"div",[["id","profile-info"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵeld"](23,0,null,null,0,"img",[["id","profile-image"],["src","assets/img/profile/profile-2.jpg"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵeld"](25,0,null,null,1,"h3",[["id","profile-name"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["John"])),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵeld"](28,0,null,null,1,"span",[["id","profile-description"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["Traveler, geek and animal lover."])),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵeld"](31,0,null,null,7,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["Follow my "])),(l()(),a["ɵeld"](33,0,null,null,1,"a",[["href","http://twitter.com/ionicframework"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["@facebook"])),(l()(),a["ɵted"](-1,null,[" and\n        "])),(l()(),a["ɵeld"](36,0,null,null,1,"a",[["href","http://twitter.com/ionicframework"]],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["@twitter"])),(l()(),a["ɵted"](-1,null,[" accounts."])),(l()(),a["ɵted"](-1,null,["\n    "])),(l()(),a["ɵted"](-1,null,["\n    "])),(l()(),a["ɵeld"](41,0,null,null,5,"ion-list",[],null,null,null,null,null)),a["ɵdid"](42,16384,null,0,S.a,[C.a,a.ElementRef,a.Renderer,O.a,T.l,M.a],null,null),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵand"](16777216,null,null,1,null,u)),a["ɵdid"](45,802816,null,0,q.NgForOf,[a.ViewContainerRef,a.TemplateRef,a.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),a["ɵted"](-1,null,["\n    "])),(l()(),a["ɵted"](-1,null,["\n  "])),(l()(),a["ɵted"](-1,1,["\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,16,0,l(n,17,0,"url("+e.imageUrl+")"));l(n,45,0,e.posts)},function(l,n){l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,12,0,a["ɵnov"](n,13).statusbarPadding,a["ɵnov"](n,13)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),d=(e(0),e(69),function(){return function(l){this.navCtrl=l,this.posts=[],this.imageUrl="assets/img/profile/profile-cover.jpg";for(var n=0;n<10;n++)this.posts[n]={text:"Post text "+n,created_at:n+1}}}()),o=function(){return function(){}}(),i=e(456),r=e(457),s=e(458),c=e(459),f=e(460),m=e(461),b=e(462),p=e(463),g=e(464),R=e(225),k=e(29),v=e(26),C=e(4),h=e(65),_=e(91),y=e(63),E=e(145),D=e(8),N=e(903),x=e(56),w=e(14),F=e(36),I=e(466),P=e(90),V=e(57),K=e(465),L=e(37),O=e(7),M=e(15),j=e(43),q=e(21),S=e(70),T=e(12),z=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),B=a["ɵccf"]("page-profile-one",d,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-profile-one",[],null,null,null,t,z)),a["ɵdid"](1,49152,null,0,d,[F.a],null,null)],null,null)},{},{},[]),J=e(32),U=e(222),$=e(64);e.d(n,"ProfileOnePageModuleNgFactory",function(){return A});var A=a["ɵcmf"](o,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[i.a,r.a,s.a,c.a,f.a,m.a,b.a,p.a,g.a,B]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,q.NgLocalization,q.NgLocaleLocalization,[a.LOCALE_ID,[2,q["ɵa"]]]),a["ɵmpd"](4608,J.t,J.t,[]),a["ɵmpd"](4608,J.d,J.d,[]),a["ɵmpd"](512,q.CommonModule,q.CommonModule,[]),a["ɵmpd"](512,J.r,J.r,[]),a["ɵmpd"](512,J.i,J.i,[]),a["ɵmpd"](512,J.p,J.p,[]),a["ɵmpd"](512,U.a,U.a,[]),a["ɵmpd"](512,U.b,U.b,[]),a["ɵmpd"](512,o,o,[]),a["ɵmpd"](256,$.a,d,[])])})},903:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},d.b,d.a)),t["ɵdid"](3,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],i.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,r.a,[i.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var t=e(1),a=e(21),d=e(68),o=e(35),i=e(4),r=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([41],{
+
+/***/ 1233:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NotifDetailPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var NotifDetailPage = /** @class */ (function () {
+    function NotifDetailPage(params) {
+        this.params = params;
+        this.pushMessage = 'push message will be displayed here';
+        if (params.data.message) {
+            this.pushMessage = params.data.message;
+        }
+    }
+    NotifDetailPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-notif-detail',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\notif-detail\notif-detail.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Notif Detail</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n  <h2>Push Details Page</h2>\n  <p>\n    Clicking push notification should navigate you here\n  </p>\n  <h6>{{pushMessage}}</h6>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\notif-detail\notif-detail.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["o" /* NavParams */]])
+    ], NotifDetailPage);
+    return NotifDetailPage;
+}());
+
+//# sourceMappingURL=notif-detail.js.map
+
+/***/ }),
+
+/***/ 914:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NotifDetailPageModule", function() { return NotifDetailPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__notif_detail__ = __webpack_require__(1233);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var NotifDetailPageModule = /** @class */ (function () {
+    function NotifDetailPageModule() {
+    }
+    NotifDetailPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__notif_detail__["a" /* NotifDetailPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__notif_detail__["a" /* NotifDetailPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__notif_detail__["a" /* NotifDetailPage */]
+            ]
+        })
+    ], NotifDetailPageModule);
+    return NotifDetailPageModule;
+}());
+
+//# sourceMappingURL=notif-detail.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=41.js.map

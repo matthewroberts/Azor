@@ -1,1 +1,112 @@
-webpackJsonp([36],{889:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,k.a,[R.a,a.ElementRef,a.Renderer,[2,h.a]],null,null),(l()(),a["ɵted"](-1,null,["\n  "])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,v.b,v.a)),a["ɵdid"](4,49152,null,0,C.a,[E.a,[2,h.a],[2,_.a],R.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==a["ɵnov"](l,8).toggle()&&u}return u},y.b,y.a)),a["ɵdid"](7,1097728,[[1,4]],0,D.a,[[8,""],R.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,N.a,[T.a,[2,h.a],[2,D.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,I.a,[R.a,a.ElementRef,a.Renderer,[2,K.a],[2,C.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,L.a,[R.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,M.b,M.a)),a["ɵdid"](17,49152,null,0,V.a,[R.a,a.ElementRef,a.Renderer,[2,K.a],[2,C.a]],null,null),(l()(),a["ɵted"](-1,0,["Theming"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵted"](-1,null,["\n"])),(l()(),a["ɵeld"](22,0,null,null,13,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,x.b,x.a)),a["ɵdid"](23,4374528,null,0,F.a,[R.a,P.a,z.a,a.ElementRef,a.Renderer,E.a,B.a,a.NgZone,[2,h.a],[2,_.a]],null,null),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](25,0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),a["ɵted"](-1,null,["Setting theme"])),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](28,0,null,1,2,"button",[["class","pop-in"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeTheme("")&&u}return u},y.b,y.a)),a["ɵdid"](29,1097728,null,0,D.a,[[8,""],R.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵted"](-1,0,["Default"])),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](32,0,null,1,2,"button",[["class","pop-in"],["color","dark"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.changeTheme("theme-dark")&&u}return u},y.b,y.a)),a["ɵdid"](33,1097728,null,0,D.a,[[8,""],R.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,0,["Dark"])),(l()(),a["ɵted"](-1,1,["\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,33,0,"dark")},function(l,n){l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),t=(e(0),e(93)),d=(e(69),function(){function l(l,n){this.navCtrl=l,this.global=n}return l.prototype.changeTheme=function(l){this.global.set("theme",l)},l}()),o=function(){return function(){}}(),r=e(456),i=e(457),s=e(458),c=e(459),b=e(460),m=e(461),f=e(462),g=e(463),p=e(464),k=e(145),R=e(4),h=e(8),v=e(903),C=e(56),E=e(14),_=e(36),y=e(68),D=e(35),N=e(224),T=e(39),I=e(223),K=e(57),L=e(63),M=e(466),V=e(90),x=e(465),F=e(37),P=e(7),z=e(15),B=e(43),O=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),j=a["ɵccf"]("page-theming",d,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-theming",[],null,null,null,u,O)),a["ɵdid"](1,49152,null,0,d,[_.a,t.b],null,null)],null,null)},{},{},[]),q=e(21),w=e(32),A=e(222),H=e(64);e.d(n,"ThemingPageModuleNgFactory",function(){return J});var J=a["ɵcmf"](o,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[r.a,i.a,s.a,c.a,b.a,m.a,f.a,g.a,p.a,j]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,q.NgLocalization,q.NgLocaleLocalization,[a.LOCALE_ID,[2,q["ɵa"]]]),a["ɵmpd"](4608,w.t,w.t,[]),a["ɵmpd"](4608,w.d,w.d,[]),a["ɵmpd"](512,q.CommonModule,q.CommonModule,[]),a["ɵmpd"](512,w.r,w.r,[]),a["ɵmpd"](512,w.i,w.i,[]),a["ɵmpd"](512,w.p,w.p,[]),a["ɵmpd"](512,A.a,A.a,[]),a["ɵmpd"](512,A.b,A.b,[]),a["ɵmpd"](512,o,o,[]),a["ɵmpd"](256,H.a,d,[])])})},903:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},d.b,d.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],r.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,i.a,[r.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var a=e(1),t=e(21),d=e(68),o=e(35),r=e(4),i=e(63),s=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([36],{
+
+/***/ 1238:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NativeAppRatePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_app_rate__ = __webpack_require__(464);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var NativeAppRatePage = /** @class */ (function () {
+    function NativeAppRatePage(appRate, platform, alertCtrl) {
+        // if (!this.platform.is('cordova')) {
+        //   console.warn('Cordova is not available');
+        //   const alert = this.alertCtrl.create({
+        //     title: 'Attention!',
+        //     subTitle: 'Cordova is not available',
+        //     buttons: ['Close']
+        //   });
+        //   alert.present();
+        // }
+        this.appRate = appRate;
+        this.platform = platform;
+        this.alertCtrl = alertCtrl;
+        // set certain preferences
+        this.appRate.preferences.storeAppURL = {
+            ios: '<app_id>',
+            android: 'market://details?id=<package_name>',
+            windows: 'ms-windows-store://review/?ProductId=<store_id>'
+        };
+        this.appRate.promptForRating(true);
+        // or, override the whole preferences object
+        this.appRate.preferences = {
+            usesUntilPrompt: 3,
+            storeAppURL: {
+                ios: '<app_id>',
+                android: 'market://details?id=<package_name>',
+                windows: 'ms-windows-store://review/?ProductId=<store_id>'
+            }
+        };
+        this.appRate.promptForRating(false);
+    }
+    NativeAppRatePage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-native-app-rate',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-app-rate\native-app-rate.html"*/'<ion-header>\n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Native Apprate</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\native\native-app-rate\native-app-rate.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__ionic_native_app_rate__["a" /* AppRate */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["p" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */]])
+    ], NativeAppRatePage);
+    return NativeAppRatePage;
+}());
+
+//# sourceMappingURL=native-app-rate.js.map
+
+/***/ }),
+
+/***/ 919:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NativeAppRatePageModule", function() { return NativeAppRatePageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__native_app_rate__ = __webpack_require__(1238);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var NativeAppRatePageModule = /** @class */ (function () {
+    function NativeAppRatePageModule() {
+    }
+    NativeAppRatePageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__native_app_rate__["a" /* NativeAppRatePage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__native_app_rate__["a" /* NativeAppRatePage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__native_app_rate__["a" /* NativeAppRatePage */]
+            ]
+        })
+    ], NativeAppRatePageModule);
+    return NativeAppRatePageModule;
+}());
+
+//# sourceMappingURL=native-app-rate.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=36.js.map

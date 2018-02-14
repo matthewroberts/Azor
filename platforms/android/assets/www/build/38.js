@@ -1,1 +1,178 @@
-webpackJsonp([38],{886:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,6,"button",[["class","item item-block"],["ion-item",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.itemTapped(e,l.context.$implicit)&&u}return u},_.b,_.a)),t["ɵdid"](1,1097728,null,3,E.a,[y.a,D.a,t.ElementRef,t.Renderer,[2,N.a]],null,null),t["ɵqud"](335544320,2,{contentLabel:0}),t["ɵqud"](603979776,3,{_buttons:1}),t["ɵqud"](603979776,4,{_icons:1}),t["ɵdid"](5,16384,null,0,I.a,[],null,null),(l()(),t["ɵted"](6,2,["\n      ","\n    "]))],null,function(l,n){l(n,6,0,n.context.$implicit.title)})}function a(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,21,"ion-header",[],null,null,null,null,null)),t["ɵdid"](1,16384,null,0,T.a,[D.a,t.ElementRef,t.Renderer,[2,L.a]],null,null),(l()(),t["ɵted"](-1,null,["\n    \n    "])),(l()(),t["ɵeld"](3,0,null,null,17,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,F.b,F.a)),t["ɵdid"](4,49152,null,0,x.a,[V.a,[2,L.a],[2,K.a],D.a,t.ElementRef,t.Renderer],{color:[0,"color"]},null),(l()(),t["ɵted"](-1,3,["\n      "])),(l()(),t["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==t["ɵnov"](l,8).toggle()&&u}return u},M.b,M.a)),t["ɵdid"](7,1097728,[[1,4]],0,O.a,[[8,""],D.a,t.ElementRef,t.Renderer],null,null),t["ɵdid"](8,1064960,null,0,q.a,[P.a,[2,L.a],[2,O.a],[2,x.a]],{menuToggle:[0,"menuToggle"]},null),t["ɵdid"](9,16384,null,1,w.a,[D.a,t.ElementRef,t.Renderer,[2,z.a],[2,x.a]],null,null),t["ɵqud"](603979776,1,{_buttons:1}),(l()(),t["ɵted"](-1,0,["\n        "])),(l()(),t["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](13,147456,null,0,B.a,[D.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵted"](-1,0,["\n      "])),(l()(),t["ɵted"](-1,3,["\n      "])),(l()(),t["ɵeld"](16,0,null,3,3,"ion-title",[],null,null,null,$.b,$.a)),t["ɵdid"](17,49152,null,0,j.a,[D.a,t.ElementRef,t.Renderer,[2,z.a],[2,x.a]],null,null),(l()(),t["ɵted"](18,0,["",""])),t["ɵpid"](131072,A.a,[H.a,t.ChangeDetectorRef]),(l()(),t["ɵted"](-1,3,["\n    "])),(l()(),t["ɵted"](-1,null,["\n  \n  "])),(l()(),t["ɵted"](-1,null,["\n"])),(l()(),t["ɵeld"](23,0,null,null,9,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,J.b,J.a)),t["ɵdid"](24,4374528,null,0,Z.a,[D.a,G.a,Q.a,t.ElementRef,t.Renderer,V.a,S.a,t.NgZone,[2,L.a],[2,K.a]],null,null),(l()(),t["ɵted"](-1,1,["\n  "])),(l()(),t["ɵeld"](26,0,null,1,5,"ion-list",[],null,null,null,null,null)),t["ɵdid"](27,16384,null,0,U.a,[D.a,t.ElementRef,t.Renderer,G.a,W.l,Q.a],null,null),(l()(),t["ɵted"](-1,null,["\n    "])),(l()(),t["ɵand"](16777216,null,null,1,null,u)),t["ɵdid"](30,802816,null,0,X.NgForOf,[t.ViewContainerRef,t.TemplateRef,t.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),t["ɵted"](-1,null,["\n  "])),(l()(),t["ɵted"](-1,1,["\n"])),(l()(),t["ɵted"](-1,null,["\n  "]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,30,0,e.items)},function(l,n){l(n,3,0,t["ɵnov"](n,4)._hidden,t["ɵnov"](n,4)._sbPadding);l(n,6,0,t["ɵnov"](n,8).isHidden);l(n,12,0,t["ɵnov"](n,13)._hidden);l(n,18,0,t["ɵunv"](n,18,0,t["ɵnov"](n,19).transform("TITLE")));l(n,23,0,t["ɵnov"](n,24).statusbarPadding,t["ɵnov"](n,24)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var t=e(1),d=(e(0),e(69),e(153)),o=e(161),i=e(150),r=e(93),s=function(){function l(l,n,e){this.navCtrl=l,this.menuCtrl=n,this.translate=e,this.items=r.c}return l.prototype.itemTapped=function(l,n){console.log(n.value),this.translate.use(n.value),this.menuCtrl.open()},l}(),c=o.a,m=function(){return function(){}}(),b=e(456),f=e(457),p=e(458),g=e(459),R=e(460),v=e(461),k=e(462),C=e(463),h=e(464),_=e(225),E=e(29),y=e(26),D=e(4),N=e(65),I=e(91),T=e(145),L=e(8),F=e(903),x=e(56),V=e(14),K=e(36),M=e(68),O=e(35),q=e(224),P=e(39),w=e(223),z=e(57),B=e(63),$=e(466),j=e(90),A=e(163),H=e(47),J=e(465),Z=e(37),G=e(7),Q=e(15),S=e(43),U=e(70),W=e(12),X=e(21),Y=t["ɵcrt"]({encapsulation:2,styles:[],data:{}}),ll=t["ɵccf"]("page-language",s,function(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"page-language",[],null,null,null,a,Y)),t["ɵdid"](1,49152,null,0,s,[K.a,P.a,H.a],null,null)],null,null)},{},{},[]),nl=e(32),el=e(99),ul=e(100),al=e(102),tl=e(101),dl=e(162),ol=e(222),il=e(64);e.d(n,"LanguagePageModuleNgFactory",function(){return rl});var rl=t["ɵcmf"](m,[],function(l){return t["ɵmod"]([t["ɵmpd"](512,t.ComponentFactoryResolver,t["ɵCodegenComponentFactoryResolver"],[[8,[b.a,f.a,p.a,g.a,R.a,v.a,k.a,C.a,h.a,ll]],[3,t.ComponentFactoryResolver],t.NgModuleRef]),t["ɵmpd"](4608,X.NgLocalization,X.NgLocaleLocalization,[t.LOCALE_ID,[2,X["ɵa"]]]),t["ɵmpd"](4608,nl.t,nl.t,[]),t["ɵmpd"](4608,nl.d,nl.d,[]),t["ɵmpd"](5120,el.b,c,[i.e]),t["ɵmpd"](4608,ul.a,ul.b,[]),t["ɵmpd"](4608,al.b,al.a,[]),t["ɵmpd"](4608,tl.b,tl.a,[]),t["ɵmpd"](4608,H.a,H.a,[dl.a,el.b,ul.a,al.b,tl.b,H.b,H.c]),t["ɵmpd"](512,X.CommonModule,X.CommonModule,[]),t["ɵmpd"](512,nl.r,nl.r,[]),t["ɵmpd"](512,nl.i,nl.i,[]),t["ɵmpd"](512,nl.p,nl.p,[]),t["ɵmpd"](512,ol.a,ol.a,[]),t["ɵmpd"](512,ol.b,ol.b,[]),t["ɵmpd"](512,d.b,d.b,[]),t["ɵmpd"](512,m,m,[]),t["ɵmpd"](256,il.a,s,[]),t["ɵmpd"](256,H.c,void 0,[]),t["ɵmpd"](256,H.b,void 0,[])])})},903:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},d.b,d.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,o.a,[[8,"bar-button"],i.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,r.a,[i.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var a=e(1),t=e(21),d=e(68),o=e(35),i=e(4),r=e(63),s=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([38],{
+
+/***/ 1236:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TinderCardsPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__providers_util_toast_service__ = __webpack_require__(456);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_http__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Rx__ = __webpack_require__(205);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Rx___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_Rx__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_angular2_swing__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_angular2_swing___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_angular2_swing__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+/**
+ * Need Capitalize Pipes
+ */
+
+
+var TinderCardsPage = /** @class */ (function () {
+    function TinderCardsPage(navCtrl, http, toastCtrl) {
+        var _this = this;
+        this.navCtrl = navCtrl;
+        this.http = http;
+        this.toastCtrl = toastCtrl;
+        this.recentCard = '';
+        this.stackConfig = {
+            throwOutConfidence: function (offset, element) {
+                return Math.min(Math.abs(offset) / (element.offsetWidth / 2), 1);
+            },
+            transform: function (element, x, y, r) {
+                _this.onItemMove(element, x, y, r);
+            },
+            throwOutDistance: function (d) {
+                return 800;
+            }
+        };
+    }
+    TinderCardsPage.prototype.ngAfterViewInit = function () {
+        // Either subscribe in controller or set in HTML
+        this.swingStack.throwin.subscribe(function (event) {
+            event.target.style.background = '#ffffff';
+        });
+        this.cards = [{ email: '' }];
+        this.addNewCards(1);
+    };
+    // Called whenever we drag an element
+    TinderCardsPage.prototype.onItemMove = function (element, x, y, r) {
+        var color = '';
+        var abs = Math.abs(x);
+        var min = Math.trunc(Math.min(16 * 16 - abs, 16 * 16));
+        var hexCode = this.decimalToHex(min, 2);
+        if (x > 0) {
+            color = '#' + hexCode + 'FF' + hexCode;
+        }
+        else {
+            color = '#FF' + hexCode + hexCode;
+        }
+        element.style.background = color;
+        element.style['transform'] = "translate3d(0, 0, 0) translate(" + x + "px, " + y + "px) rotate(" + r + "deg)";
+    };
+    // Connected through HTML
+    TinderCardsPage.prototype.voteUp = function (like) {
+        var removedCard = this.cards.pop();
+        this.addNewCards(1);
+        if (like) {
+            this.toastCtrl.create('You liked: ' + removedCard.email);
+        }
+        else {
+            this.toastCtrl.create('You disliked: ' + removedCard.email);
+        }
+    };
+    // Add new cards to our array
+    TinderCardsPage.prototype.addNewCards = function (count) {
+        var _this = this;
+        this.http.get('https://randomuser.me/api/?results=' + count)
+            .map(function (data) { return data.json().results; })
+            .subscribe(function (result) {
+            for (var _i = 0, result_1 = result; _i < result_1.length; _i++) {
+                var val = result_1[_i];
+                _this.cards.push(val);
+            }
+        });
+    };
+    // http://stackoverflow.com/questions/57803/how-to-convert-decimal-to-hex-in-javascript
+    TinderCardsPage.prototype.decimalToHex = function (d, padding) {
+        var hex = Number(d).toString(16);
+        padding = typeof (padding) === 'undefined' || padding === null ? padding = 2 : padding;
+        while (hex.length < padding) {
+            hex = '0' + hex;
+        }
+        return hex;
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["ViewChild"])('myswing1'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_4_angular2_swing__["SwingStackComponent"])
+    ], TinderCardsPage.prototype, "swingStack", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["ViewChildren"])('mycards1'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1__angular_core__["QueryList"])
+    ], TinderCardsPage.prototype, "swingCards", void 0);
+    TinderCardsPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Component"])({
+            selector: 'page-tinder-cards',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\tinder-cards\tinder-cards.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title>Tinder Cards</ion-title>\n  </ion-navbar>\n</ion-header>\n<ion-content padding>\n  <div swing-stack #myswing1 [stackConfig]="stackConfig" (throwoutleft)="voteUp(false)" (throwoutright)="voteUp(true)" id="card-stack">\n    <ion-card #mycards1 swing-card *ngFor="let card of cards" class="td-card">\n      <ion-item *ngIf="card.picture">\n        <img *ngIf="card.picture" [src]="card.picture.medium">\n        <h1>{{ card.name.first | capitalize }} {{ card.name.last | capitalize}}</h1>\n        <p>{{ card.email }}</p>\n      </ion-item>\n      <ion-card-content *ngIf="card.location">\n        From {{ card.location.city | capitalize }}, {{ card.location.postcode }}<br> Phone: {{ card.phone }}\n      </ion-card-content>\n    </ion-card>\n  </div>\n</ion-content>\n<ion-footer>\n  <div class="tinder-footer">\n    <div id="swipe_dislike" class="rate" (click)="voteUp(false)"></div>\n    <div class="info"></div>\n    <div id="swipe_like" class="rate" (click)="voteUp(true)"></div>\n  </div>\n</ion-footer>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\tinder-cards\tinder-cards.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_5_ionic_angular__["n" /* NavController */], __WEBPACK_IMPORTED_MODULE_2__angular_http__["b" /* Http */], __WEBPACK_IMPORTED_MODULE_0__providers_util_toast_service__["a" /* ToastService */]])
+    ], TinderCardsPage);
+    return TinderCardsPage;
+}());
+
+//# sourceMappingURL=tinder-cards.js.map
+
+/***/ }),
+
+/***/ 917:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TinderCardsPageModule", function() { return TinderCardsPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__app_shared_module__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__tinder_cards__ = __webpack_require__(1236);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_angular2_swing__ = __webpack_require__(201);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_angular2_swing___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_angular2_swing__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+var TinderCardsPageModule = /** @class */ (function () {
+    function TinderCardsPageModule() {
+    }
+    TinderCardsPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_3__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_1__tinder_cards__["a" /* TinderCardsPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_4_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_1__tinder_cards__["a" /* TinderCardsPage */]),
+                __WEBPACK_IMPORTED_MODULE_2_angular2_swing__["SwingModule"],
+                __WEBPACK_IMPORTED_MODULE_0__app_shared_module__["a" /* SharedModule */]
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_1__tinder_cards__["a" /* TinderCardsPage */]
+            ]
+        })
+    ], TinderCardsPageModule);
+    return TinderCardsPageModule;
+}());
+
+//# sourceMappingURL=tinder-cards.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=38.js.map

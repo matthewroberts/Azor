@@ -107,6 +107,10 @@
             {
               "xml": "<feature name=\"PushNotification\"><param name=\"android-package\" value=\"com.adobe.phonegap.push.PushPlugin\" /></feature>",
               "count": 1
+            },
+            {
+              "xml": "<feature name=\"SocialSharing\"><param name=\"android-package\" value=\"nl.xservices.plugins.SocialSharing\" /></feature>",
+              "count": 1
             }
           ],
           "widget": [
@@ -158,6 +162,10 @@
             },
             {
               "xml": "<service android:exported=\"false\" android:name=\"com.adobe.phonegap.push.RegistrationIntentService\" />",
+              "count": 1
+            },
+            {
+              "xml": "<provider android:authorities=\"${applicationId}.sharing.provider\" android:exported=\"false\" android:grantUriPermissions=\"true\" android:name=\"nl.xservices.plugins.FileProvider\"><meta-data android:name=\"android.support.FILE_PROVIDER_PATHS\" android:resource=\"@xml/sharing_paths\" /></provider>",
               "count": 1
             }
           ],
@@ -252,7 +260,7 @@
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
-              "count": 2
+              "count": 3
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.READ_EXTERNAL_STORAGE\" />",
@@ -352,6 +360,12 @@
     },
     "phonegap-plugin-push": {
       "SENDER_ID": "728947504355",
+      "PACKAGE_NAME": "com.ionicpremium.ionium2"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.ionicpremium.ionium2"
+    },
+    "cordova-plugin-x-socialsharing": {
       "PACKAGE_NAME": "com.ionicpremium.ionium2"
     }
   },
@@ -786,6 +800,20 @@
       "clobbers": [
         "PushNotification"
       ]
+    },
+    {
+      "id": "es6-promise-plugin.Promise",
+      "file": "plugins/es6-promise-plugin/www/promise.js",
+      "pluginId": "es6-promise-plugin",
+      "runs": true
+    },
+    {
+      "id": "cordova-plugin-x-socialsharing.SocialSharing",
+      "file": "plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js",
+      "pluginId": "cordova-plugin-x-socialsharing",
+      "clobbers": [
+        "window.plugins.socialsharing"
+      ]
     }
   ],
   "plugin_metadata": {
@@ -813,6 +841,8 @@
     "ionic-plugin-keyboard": "2.2.1",
     "cordova-plugin-camera": "4.0.3-dev",
     "cordova-plugin-ionic-webview": "1.1.16",
-    "phonegap-plugin-push": "1.10.6"
+    "phonegap-plugin-push": "1.10.6",
+    "es6-promise-plugin": "4.1.0",
+    "cordova-plugin-x-socialsharing": "5.2.1"
   }
 }

@@ -1,1 +1,128 @@
-webpackJsonp([47],{877:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,4,"ion-col",[["class","col"],["col-6",""],["col-lg-4",""],["col-md-6",""],["col-sm-4",""],["col-xl-2",""]],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,R.a,[],null,null),(l()(),a["ɵted"](-1,null,["\n          "])),(l()(),a["ɵeld"](3,0,null,null,0,"img",[],[[8,"src",4]],null,null,null,null)),(l()(),a["ɵted"](-1,null,["\n        "]))],null,function(l,n){l(n,3,0,n.context.$implicit.photoURL)})}function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,v.a,[k.a,a.ElementRef,a.Renderer,[2,C.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\n  "])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,y.b,y.a)),a["ɵdid"](4,49152,null,0,L.a,[_.a,[2,C.a],[2,E.a],k.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==a["ɵnov"](l,8).toggle()&&u}return u},N.b,N.a)),a["ɵdid"](7,1097728,[[1,4]],0,D.a,[[8,""],k.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,w.a,[P.a,[2,C.a],[2,D.a],[2,L.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,I.a,[k.a,a.ElementRef,a.Renderer,[2,M.a],[2,L.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,F.a,[k.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,x.b,x.a)),a["ɵdid"](17,49152,null,0,O.a,[k.a,a.ElementRef,a.Renderer,[2,M.a],[2,L.a]],null,null),(l()(),a["ɵted"](-1,0,["Native Photo Library"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵeld"](22,0,null,null,19,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,T.b,T.a)),a["ɵdid"](23,4374528,null,0,V.a,[k.a,K.a,U.a,a.ElementRef,a.Renderer,_.a,A.a,a.NgZone,[2,C.a],[2,E.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](25,0,null,1,9,"ion-grid",[["class","form-container grid"]],null,null,null,null,null)),a["ɵdid"](26,16384,null,0,z.a,[],null,null),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵeld"](28,0,null,null,5,"ion-row",[["class","row"]],null,null,null,null,null)),a["ɵdid"](29,16384,null,0,j.a,[],null,null),(l()(),a["ɵted"](-1,null,["\n        "])),(l()(),a["ɵand"](16777216,null,null,1,null,u)),a["ɵdid"](32,802816,null,0,q.NgForOf,[a.ViewContainerRef,a.TemplateRef,a.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),a["ɵted"](-1,null,["\n      "])),(l()(),a["ɵted"](-1,null,["\n  "])),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](36,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](37,null,[" "," "])),(l()(),a["ɵted"](-1,1,["\n  "])),(l()(),a["ɵeld"](39,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),a["ɵted"](40,null,[" "," "])),(l()(),a["ɵted"](-1,1,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,32,0,e.showPhoto)},function(l,n){var e=n.component;l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher);l(n,37,0,e.successMessage);l(n,40,0,e.errorMessage)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),o=(e(0),e(69),e(264)),r=function(){function l(l,n,e){if(this.photoLibrary=l,this.platform=n,this.alertCtrl=e,this.platform.is("cordova"))this.openPhotoLibrary();else{console.warn("Cordova is not available");this.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()}}return l.prototype.openPhotoLibrary=function(){var l=this;this.photoLibrary.requestAuthorization().then(function(){l.photoLibrary.getLibrary().subscribe({next:function(n){var e=new Array;n.forEach(function(l){var n="file:///"+("storage"+l.photoURL.split("%2F").join("/").split("storage")[1]);console.log(n);e.push({id:l.id,photoURL:n,thumbnailURL:l.thumbnailURL,fileName:l.fileName,width:l.width,height:l.height,creationDate:l.creationDate,latitude:l.latitude,longitude:l.longitude,albumIds:l.albumIds})}),l.showPhoto=e,console.log(l.showPhoto)},error:function(n){l.errorMessage=n}})}).catch(function(n){l.errorMessage=n,console.log("permissions weren't granted")})},l}(),d=function(){return function(){}}(),i=e(456),s=e(457),c=e(458),f=e(459),b=e(460),m=e(461),g=e(462),p=e(463),h=e(464),R=e(147),v=e(145),k=e(4),C=e(8),y=e(903),L=e(56),_=e(14),E=e(36),N=e(68),D=e(35),w=e(224),P=e(39),I=e(223),M=e(57),F=e(63),x=e(466),O=e(90),T=e(465),V=e(37),K=e(7),U=e(15),A=e(43),z=e(248),j=e(149),q=e(21),B=e(92),H=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),J=a["ɵccf"]("page-native-photo-library",r,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-native-photo-library",[],null,null,null,t,H)),a["ɵdid"](1,49152,null,0,r,[o.a,K.a,B.a],null,null)],null,null)},{},{},[]),Z=e(32),$=e(222),G=e(64);e.d(n,"NativePhotoLibraryPageModuleNgFactory",function(){return Q});var Q=a["ɵcmf"](d,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[i.a,s.a,c.a,f.a,b.a,m.a,g.a,p.a,h.a,J]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,q.NgLocalization,q.NgLocaleLocalization,[a.LOCALE_ID,[2,q["ɵa"]]]),a["ɵmpd"](4608,Z.t,Z.t,[]),a["ɵmpd"](4608,Z.d,Z.d,[]),a["ɵmpd"](512,q.CommonModule,q.CommonModule,[]),a["ɵmpd"](512,Z.r,Z.r,[]),a["ɵmpd"](512,Z.i,Z.i,[]),a["ɵmpd"](512,Z.p,Z.p,[]),a["ɵmpd"](512,$.a,$.a,[]),a["ɵmpd"](512,$.b,$.b,[]),a["ɵmpd"](512,d,d,[]),a["ɵmpd"](256,G.a,r,[])])})},903:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},o.b,o.a)),t["ɵdid"](3,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,r.a,[[8,"bar-button"],d.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,i.a,[d.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var t=e(1),a=e(21),o=e(68),r=e(35),d=e(4),i=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([47],{
+
+/***/ 1227:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FeatureGoogleMapPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_geolocation__ = __webpack_require__(458);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var FeatureGoogleMapPage = /** @class */ (function () {
+    function FeatureGoogleMapPage(loadingCtrl, navCtrl, geolocation) {
+        this.loadingCtrl = loadingCtrl;
+        this.navCtrl = navCtrl;
+        this.geolocation = geolocation;
+        this.loader = this.loadingCtrl.create({ content: 'Please wait...', duration: 10000 });
+    }
+    FeatureGoogleMapPage.prototype.ionViewDidLoad = function () {
+        this.loader.present();
+        this.loadMap();
+    };
+    FeatureGoogleMapPage.prototype.loadMap = function () {
+        var _this = this;
+        this.geolocation.getCurrentPosition()
+            .then(function (position) {
+            var latLng = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+            var mapOptions = {
+                center: latLng,
+                zoom: 15,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            _this.map = new google.maps.Map(_this.mapElement.nativeElement, mapOptions);
+            if (_this.map)
+                _this.loader.dismiss();
+        }, function (err) {
+            console.log(err);
+        });
+    };
+    FeatureGoogleMapPage.prototype.addMarker = function () {
+        var marker = new google.maps.Marker({
+            map: this.map,
+            animation: google.maps.Animation.DROP,
+            position: this.map.getCenter()
+        });
+        var content = "<h4>Information!</h4>";
+        this.addInfoWindow(marker, content);
+    };
+    FeatureGoogleMapPage.prototype.addInfoWindow = function (marker, content) {
+        var _this = this;
+        var infoWindow = new google.maps.InfoWindow({
+            content: content
+        });
+        google.maps.event.addListener(marker, 'click', function () {
+            infoWindow.open(_this.map, marker);
+        });
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('map'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_0__angular_core__["ElementRef"])
+    ], FeatureGoogleMapPage.prototype, "mapElement", void 0);
+    FeatureGoogleMapPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-feature-google-map',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\feature-google-map\feature-google-map.html"*/'\n<ion-header> \n\n  <ion-navbar color="primary">\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Feature Google Map</ion-title>\n    <ion-buttons end>\n      <button ion-button (click)="addMarker()">\n        <ion-icon name="add" color="royal"></ion-icon>\n      </button>\n    </ion-buttons>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <div #map id="map"></div>\n\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\feature-google-map\feature-google-map.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_geolocation__["a" /* Geolocation */]])
+    ], FeatureGoogleMapPage);
+    return FeatureGoogleMapPage;
+}());
+
+//# sourceMappingURL=feature-google-map.js.map
+
+/***/ }),
+
+/***/ 908:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FeatureGoogleMapPageModule", function() { return FeatureGoogleMapPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__feature_google_map__ = __webpack_require__(1227);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var FeatureGoogleMapPageModule = /** @class */ (function () {
+    function FeatureGoogleMapPageModule() {
+    }
+    FeatureGoogleMapPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__feature_google_map__["a" /* FeatureGoogleMapPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__feature_google_map__["a" /* FeatureGoogleMapPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_2__feature_google_map__["a" /* FeatureGoogleMapPage */]
+            ]
+        })
+    ], FeatureGoogleMapPageModule);
+    return FeatureGoogleMapPageModule;
+}());
+
+//# sourceMappingURL=feature-google-map.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=47.js.map

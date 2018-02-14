@@ -1,1 +1,114 @@
-webpackJsonp([7],{898:function(l,n,e){"use strict";function u(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,7,"ion-slide",[],null,null,null,k.b,k.a)),o["ɵdid"](1,278528,null,0,C.NgStyle,[o.KeyValueDiffers,o.ElementRef,o.Renderer2],{ngStyle:[0,"ngStyle"]},null),o["ɵpod"](2,{background:0}),o["ɵdid"](3,180224,null,0,h.a,[o.ElementRef,o.Renderer,E.a],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](5,0,null,0,1,"h2",[],null,null,null,null,null)),(l()(),o["ɵted"](6,null,["",""])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,6,0,n.context.$implicit.title)})}function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,7,"ion-slide",[],null,null,null,k.b,k.a)),o["ɵdid"](1,278528,null,0,C.NgStyle,[o.KeyValueDiffers,o.ElementRef,o.Renderer2],{ngStyle:[0,"ngStyle"]},null),o["ɵpod"](2,{background:0}),o["ɵdid"](3,180224,null,0,h.a,[o.ElementRef,o.Renderer,E.a],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](5,0,null,0,1,"h2",[],null,null,null,null,null)),(l()(),o["ɵted"](6,null,["",""])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,6,0,n.context.$implicit.title)})}function a(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,7,"ion-slide",[],null,null,null,k.b,k.a)),o["ɵdid"](1,278528,null,0,C.NgStyle,[o.KeyValueDiffers,o.ElementRef,o.Renderer2],{ngStyle:[0,"ngStyle"]},null),o["ɵpod"](2,{background:0}),o["ɵdid"](3,180224,null,0,h.a,[o.ElementRef,o.Renderer,E.a],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](5,0,null,0,1,"h2",[],null,null,null,null,null)),(l()(),o["ɵted"](6,null,["",""])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,6,0,n.context.$implicit.title)})}function d(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,7,"ion-slide",[],null,null,null,k.b,k.a)),o["ɵdid"](1,278528,null,0,C.NgStyle,[o.KeyValueDiffers,o.ElementRef,o.Renderer2],{ngStyle:[0,"ngStyle"]},null),o["ɵpod"](2,{background:0}),o["ɵdid"](3,180224,null,0,h.a,[o.ElementRef,o.Renderer,E.a],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](5,0,null,0,1,"h2",[],null,null,null,null,null)),(l()(),o["ɵted"](6,null,["",""])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,1,0,l(n,2,0,"url("+n.context.$implicit.imageUrl+")"))},function(l,n){l(n,6,0,n.context.$implicit.title)})}function i(l){return o["ɵvid"](0,[o["ɵqud"](402653184,1,{slider:0}),(l()(),o["ɵeld"](1,0,null,null,10,"ion-header",[],null,null,null,null,null)),o["ɵdid"](2,16384,null,0,N.a,[D.a,o.ElementRef,o.Renderer,[2,F.a]],null,null),(l()(),o["ɵted"](-1,null,["\n  "])),(l()(),o["ɵeld"](4,0,null,null,6,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,w.b,w.a)),o["ɵdid"](5,49152,null,0,_.a,[S.a,[2,F.a],[2,O.a],D.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](7,0,null,3,2,"ion-title",[],null,null,null,x.b,x.a)),o["ɵdid"](8,49152,null,0,V.a,[D.a,o.ElementRef,o.Renderer,[2,I.a],[2,_.a]],null,null),(l()(),o["ɵted"](-1,0,["Slide Transitions"])),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵeld"](13,0,null,null,42,"ion-content",[["text-center",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,K.b,K.a)),o["ɵdid"](14,4374528,null,0,T.a,[D.a,U.a,$.a,o.ElementRef,o.Renderer,S.a,M.a,o.NgZone,[2,F.a],[2,O.a]],null,null),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](16,0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["Slide (default)"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](19,0,null,1,5,"ion-slides",[["autoplay","2500"],["loop","true"]],null,null,null,j.b,j.a)),o["ɵdid"](20,1228800,null,0,E.a,[D.a,U.a,o.NgZone,[2,F.a],o.ElementRef,o.Renderer],{autoplay:[0,"autoplay"],loop:[1,"loop"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,u)),o["ɵdid"](23,802816,null,0,C.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,1,["\n\n  "])),(l()(),o["ɵeld"](26,0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["Cube"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](29,0,null,1,5,"ion-slides",[["autoplay","2500"],["effect","cube"],["loop","true"]],null,null,null,j.b,j.a)),o["ɵdid"](30,1228800,null,0,E.a,[D.a,U.a,o.NgZone,[2,F.a],o.ElementRef,o.Renderer],{autoplay:[0,"autoplay"],effect:[1,"effect"],loop:[2,"loop"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,t)),o["ɵdid"](33,802816,null,0,C.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,1,["\n\n  "])),(l()(),o["ɵeld"](36,0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["Coverflow"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](39,0,null,1,5,"ion-slides",[["autoplay","2500"],["effect","coverflow"],["loop","true"]],null,null,null,j.b,j.a)),o["ɵdid"](40,1228800,null,0,E.a,[D.a,U.a,o.NgZone,[2,F.a],o.ElementRef,o.Renderer],{autoplay:[0,"autoplay"],effect:[1,"effect"],loop:[2,"loop"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,a)),o["ɵdid"](43,802816,null,0,C.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,1,["\n\n  "])),(l()(),o["ɵeld"](46,0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["Fade"])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](49,0,null,1,5,"ion-slides",[["autoplay","2500"],["effect","fade"],["loop","true"]],null,null,null,j.b,j.a)),o["ɵdid"](50,1228800,null,0,E.a,[D.a,U.a,o.NgZone,[2,F.a],o.ElementRef,o.Renderer],{autoplay:[0,"autoplay"],effect:[1,"effect"],loop:[2,"loop"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,d)),o["ɵdid"](53,802816,null,0,C.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,1,["\n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){var e=n.component;l(n,5,0,"primary");l(n,20,0,"2500","true");l(n,23,0,e.slides);l(n,30,0,"2500","cube","true");l(n,33,0,e.slides);l(n,40,0,"2500","coverflow","true");l(n,43,0,e.slides);l(n,50,0,"2500","fade","true");l(n,53,0,e.slides)},function(l,n){l(n,4,0,o["ɵnov"](n,5)._hidden,o["ɵnov"](n,5)._sbPadding);l(n,13,0,o["ɵnov"](n,14).statusbarPadding,o["ɵnov"](n,14)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),r=(e(0),e(69),function(){return function(l){this.navCtrl=l,this.slides=[{title:"Dream's Adventure",imageUrl:"assets/img/lists/wishlist-1.jpg",songs:2,private:!1},{title:"For the Weekend",imageUrl:"assets/img/lists/wishlist-2.jpg",songs:4,private:!1},{title:"Family Time",imageUrl:"assets/img/lists/wishlist-3.jpg",songs:5,private:!0},{title:"My Trip",imageUrl:"assets/img/lists/wishlist-4.jpg",songs:12,private:!0}]}}()),s=function(){return function(){}}(),c=e(456),f=e(457),p=e(458),m=e(459),g=e(460),b=e(461),R=e(462),y=e(463),v=e(464),k=e(907),C=e(21),h=e(226),E=e(146),N=e(145),D=e(4),F=e(8),w=e(903),_=e(56),S=e(14),O=e(36),x=e(466),V=e(90),I=e(57),K=e(465),T=e(37),U=e(7),$=e(15),M=e(43),j=e(906),L=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),Z=o["ɵccf"]("page-slide-transitions",r,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-slide-transitions",[],null,null,null,i,L)),o["ɵdid"](1,49152,null,0,r,[O.a],null,null)],null,null)},{},{},[]),P=e(32),z=e(222),A=e(64);e.d(n,"SlideTransitionsPageModuleNgFactory",function(){return B});var B=o["ɵcmf"](s,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[c.a,f.a,p.a,m.a,g.a,b.a,R.a,y.a,v.a,Z]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,C.NgLocalization,C.NgLocaleLocalization,[o.LOCALE_ID,[2,C["ɵa"]]]),o["ɵmpd"](4608,P.t,P.t,[]),o["ɵmpd"](4608,P.d,P.d,[]),o["ɵmpd"](512,C.CommonModule,C.CommonModule,[]),o["ɵmpd"](512,P.r,P.r,[]),o["ɵmpd"](512,P.i,P.i,[]),o["ɵmpd"](512,P.p,P.p,[]),o["ɵmpd"](512,z.a,z.a,[]),o["ɵmpd"](512,z.b,z.b,[]),o["ɵmpd"](512,s,s,[]),o["ɵmpd"](256,A.a,r,[])])})},903:function(l,n,e){"use strict";function u(l){return t["ɵvid"](0,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),t["ɵdid"](1,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},d.b,d.a)),t["ɵdid"](3,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](4,1097728,null,0,i.a,[[8,"bar-button"],o.a,t.ElementRef,t.Renderer],null,null),(l()(),t["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),t["ɵdid"](6,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵdid"](7,147456,null,0,r.a,[o.a,t.ElementRef,t.Renderer],{name:[0,"name"]},null),(l()(),t["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),t["ɵdid"](9,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),t["ɵted"](10,null,["",""])),t["ɵncd"](null,0),t["ɵncd"](null,1),t["ɵncd"](null,2),(l()(),t["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),t["ɵdid"](15,278528,null,0,a.NgClass,[t.IterableDiffers,t.KeyValueDiffers,t.ElementRef,t.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),t["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,t["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var t=e(1),a=e(21),d=e(68),i=e(35),o=e(4),r=e(63),s=(e(56),e(8),e(36),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},906:function(l,n,e){"use strict";function u(l){return t["ɵvid"](2,[(l()(),t["ɵeld"](0,0,null,null,3,"div",[["class","swiper-container"]],[[1,"dir",0]],null,null,null,null)),(l()(),t["ɵeld"](1,0,null,null,1,"div",[["class","swiper-wrapper"]],null,null,null,null,null)),t["ɵncd"](null,0),(l()(),t["ɵeld"](3,0,null,null,0,"div",[["class","swiper-pagination"]],[[2,"hide",null]],null,null,null,null))],null,function(l,n){var e=n.component;l(n,0,0,e._rtl?"rtl":null);l(n,3,0,!e.pager)})}e.d(n,"a",function(){return a}),n.b=u;var t=e(1),a=(e(146),e(4),e(7),e(8),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))},907:function(l,n,e){"use strict";function u(l){return t["ɵvid"](2,[(l()(),t["ɵeld"](0,0,null,null,1,"div",[["class","slide-zoom"]],null,null,null,null,null)),t["ɵncd"](null,0)],null,null)}e.d(n,"a",function(){return a}),n.b=u;var t=e(1),a=(e(226),e(146),t["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([7],{
+
+/***/ 1267:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideRightToLeftPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var SlideRightToLeftPage = /** @class */ (function () {
+    function SlideRightToLeftPage(navCtrl) {
+        this.navCtrl = navCtrl;
+        this.slides = [
+            {
+                title: 'Dream\'s Adventure',
+                imageUrl: 'assets/img/lists/wishlist-1.jpg',
+                songs: 2,
+                private: false
+            },
+            {
+                title: 'For the Weekend',
+                imageUrl: 'assets/img/lists/wishlist-2.jpg',
+                songs: 4,
+                private: false
+            },
+            {
+                title: 'Family Time',
+                imageUrl: 'assets/img/lists/wishlist-3.jpg',
+                songs: 5,
+                private: true
+            },
+            {
+                title: 'My Trip',
+                imageUrl: 'assets/img/lists/wishlist-4.jpg',
+                songs: 12,
+                private: true
+            }
+        ];
+    }
+    SlideRightToLeftPage.prototype.onSlideChanged = function () {
+        var currentIndex = this.slider.getActiveIndex();
+        console.log('Slide changed! Current index is', currentIndex);
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["ViewChild"])('slider'),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* Slides */])
+    ], SlideRightToLeftPage.prototype, "slider", void 0);
+    SlideRightToLeftPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-slide-rtl',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-rtl\slide-rtl.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title>Right to Left Slides</ion-title>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <ion-slides #slider pager autoplay="2000" (ionSlideDidChange)="onSlideChanged()" dir="rtl">\n    <ion-slide *ngFor="let slide of slides"\n               [ngStyle]="{\'background\' : \'url(\' + slide.imageUrl + \')\'}">\n      <h2>{{slide.title}}</h2>\n    </ion-slide>\n  </ion-slides>\n</ion-content>\n\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\slide\slide-rtl\slide-rtl.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], SlideRightToLeftPage);
+    return SlideRightToLeftPage;
+}());
+
+//# sourceMappingURL=slide-rtl.js.map
+
+/***/ }),
+
+/***/ 948:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SlideRightToLeftPageModule", function() { return SlideRightToLeftPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__slide_rtl__ = __webpack_require__(1267);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var SlideRightToLeftPageModule = /** @class */ (function () {
+    function SlideRightToLeftPageModule() {
+    }
+    SlideRightToLeftPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__slide_rtl__["a" /* SlideRightToLeftPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__slide_rtl__["a" /* SlideRightToLeftPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__slide_rtl__["a" /* SlideRightToLeftPage */]
+            ]
+        })
+    ], SlideRightToLeftPageModule);
+    return SlideRightToLeftPageModule;
+}());
+
+//# sourceMappingURL=slide-rtl.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=7.js.map

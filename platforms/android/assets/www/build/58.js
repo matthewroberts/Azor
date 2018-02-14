@@ -1,1 +1,107 @@
-webpackJsonp([58],{865:function(l,n,e){"use strict";function u(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,10,"div",[["class","timeline"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n  "])),o["ɵncd"](null,0),(l()(),o["ɵted"](-1,null,["\n\n  "])),(l()(),o["ɵeld"](4,0,null,null,5,"timeline-item",[],null,null,null,a,z)),o["ɵdid"](5,49152,null,0,y.b,[],null,null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵeld"](7,0,null,0,1,"ion-icon",[["class",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](8,147456,null,0,C.a,[E.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵted"](-1,0,["\n  "])),(l()(),o["ɵted"](-1,null,["\n\n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){l(n,8,0,n.component.endIcon)},function(l,n){l(n,7,0,o["ɵnov"](n,8)._hidden)})}function a(l){return o["ɵvid"](0,[o["ɵncd"](null,0)],null,null)}function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),o["ɵted"](1,null,["",""])),(l()(),o["ɵted"](-1,null,[" "])),(l()(),o["ɵeld"](3,0,null,null,1,"span",[],null,null,null,null,null)),(l()(),o["ɵted"](4,null,["",""]))],null,function(l,n){var e=n.component;l(n,1,0,e.time.subtitle);l(n,4,0,e.time.title)})}function i(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,20,"timeline-item",[],null,null,null,a,z)),o["ɵdid"](1,49152,null,0,y.b,[],null,null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](3,0,null,0,1,"timeline-time",[],null,null,null,t,D)),o["ɵdid"](4,49152,null,0,y.c,[],{time:[0,"time"]},null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](6,0,null,0,1,"ion-icon",[["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](7,147456,null,0,C.a,[E.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](9,0,null,0,10,"ion-card",[],null,null,null,null,null)),o["ɵdid"](10,16384,null,0,N.a,[E.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](-1,null,["\n        "])),(l()(),o["ɵeld"](12,0,null,null,2,"ion-card-header",[],null,null,null,null,null)),o["ɵdid"](13,16384,null,0,w.a,[E.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](14,null,["\n          ","\n        "])),(l()(),o["ɵted"](-1,null,["\n        "])),(l()(),o["ɵeld"](16,0,null,null,2,"ion-card-content",[],null,null,null,null,null)),o["ɵdid"](17,16384,null,0,x.a,[E.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](18,null,["\n          ","\n        "])),(l()(),o["ɵted"](-1,null,["\n      "])),(l()(),o["ɵted"](-1,0,["\n    "]))],function(l,n){l(n,4,0,n.context.$implicit.time);l(n,7,0,n.context.$implicit.icon)},function(l,n){l(n,6,0,o["ɵnov"](n,7)._hidden);l(n,14,0,n.context.$implicit.title);l(n,18,0,n.context.$implicit.content)})}function d(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),o["ɵdid"](1,16384,null,0,I.a,[E.a,o.ElementRef,o.Renderer,[2,P.a]],null,null),(l()(),o["ɵted"](-1,null,["\n  "])),(l()(),o["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,T.b,T.a)),o["ɵdid"](4,49152,null,0,V.a,[F.a,[2,P.a],[2,L.a],E.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==o["ɵnov"](l,8).toggle()&&u}return u},K.b,K.a)),o["ɵdid"](7,1097728,[[1,4]],0,M.a,[[8,""],E.a,o.ElementRef,o.Renderer],null,null),o["ɵdid"](8,1064960,null,0,O.a,[j.a,[2,P.a],[2,M.a],[2,V.a]],{menuToggle:[0,"menuToggle"]},null),o["ɵdid"](9,16384,null,1,q.a,[E.a,o.ElementRef,o.Renderer,[2,S.a],[2,V.a]],null,null),o["ɵqud"](603979776,1,{_buttons:1}),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](13,147456,null,0,C.a,[E.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,$.b,$.a)),o["ɵdid"](17,49152,null,0,B.a,[E.a,o.ElementRef,o.Renderer,[2,S.a],[2,V.a]],null,null),(l()(),o["ɵted"](-1,0,["timeline"])),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n\n"])),(l()(),o["ɵted"](-1,null,["\n\n\n"])),(l()(),o["ɵeld"](22,0,null,null,9,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,J.b,J.a)),o["ɵdid"](23,4374528,null,0,A.a,[E.a,H.a,Z.a,o.ElementRef,o.Renderer,F.a,G.a,o.NgZone,[2,P.a],[2,L.a]],null,null),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](25,0,null,1,5,"timeline",[],null,null,null,u,_)),o["ɵdid"](26,49152,null,0,y.a,[],null,null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵand"](16777216,null,0,1,null,i)),o["ɵdid"](29,802816,null,0,Q.NgForOf,[o.ViewContainerRef,o.TemplateRef,o.IterableDiffers],{ngForOf:[0,"ngForOf"]},null),(l()(),o["ɵted"](-1,0,["\n\n  "])),(l()(),o["ɵted"](-1,1,["\n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){var e=n.component;l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,29,0,e.items)},function(l,n){l(n,3,0,o["ɵnov"](n,4)._hidden,o["ɵnov"](n,4)._sbPadding);l(n,6,0,o["ɵnov"](n,8).isHidden);l(n,12,0,o["ɵnov"](n,13)._hidden);l(n,22,0,o["ɵnov"](n,23).statusbarPadding,o["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),r=(e(0),e(69),function(){function l(l,n){this.navCtrl=l,this.navParams=n,this.items=[{title:"Courgette daikon",content:"Parsley amaranth tigernut silver beet maize fennel spinach. Ricebean black-eyed pea maize scallion green bean spinach cabbage jícama bell pepper carrot onion corn plantain garbanzo. Sierra leone bologi komatsuna celery peanut swiss chard silver beet squash dandelion maize chicory burdock tatsoi dulse radish wakame beetroot.",icon:"calendar",time:{subtitle:"4/16/2013",title:"21:30"}},{title:"Courgette daikon",content:"Parsley amaranth tigernut silver beet maize fennel spinach. Ricebean black-eyed pea maize scallion green bean spinach cabbage jícama bell pepper carrot onion corn plantain garbanzo. Sierra leone bologi komatsuna celery peanut swiss chard silver beet squash dandelion maize chicory burdock tatsoi dulse radish wakame beetroot.",icon:"calendar",time:{subtitle:"January",title:"29"}},{title:"Courgette daikon",content:"Parsley amaranth tigernut silver beet maize fennel spinach. Ricebean black-eyed pea maize scallion green bean spinach cabbage jícama bell pepper carrot onion corn plantain garbanzo. Sierra leone bologi komatsuna celery peanut swiss chard silver beet squash dandelion maize chicory burdock tatsoi dulse radish wakame beetroot.",icon:"calendar",time:{title:"Short Text"}}]}return l.prototype.ionViewDidLoad=function(){console.log("ionViewDidLoad TimelinePage")},l}()),c=e(228),s=function(){return function(){}}(),m=e(456),b=e(457),f=e(458),p=e(459),g=e(460),R=e(461),k=e(462),h=e(463),v=e(464),y=e(475),C=e(63),E=e(4),_=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),z=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),D=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),N=e(229),w=e(237),x=e(235),I=e(145),P=e(8),T=e(903),V=e(56),F=e(14),L=e(36),K=e(68),M=e(35),O=e(224),j=e(39),q=e(223),S=e(57),$=e(466),B=e(90),J=e(465),A=e(37),H=e(7),Z=e(15),G=e(43),Q=e(21),U=e(19),W=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),X=o["ɵccf"]("page-timeline",r,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-timeline",[],null,null,null,d,W)),o["ɵdid"](1,49152,null,0,r,[L.a,U.a],null,null)],null,null)},{},{},[]),Y=e(32),ll=e(222),nl=e(64);e.d(n,"TimelinePageModuleNgFactory",function(){return el});var el=o["ɵcmf"](s,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[m.a,b.a,f.a,p.a,g.a,R.a,k.a,h.a,v.a,X]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,Q.NgLocalization,Q.NgLocaleLocalization,[o.LOCALE_ID,[2,Q["ɵa"]]]),o["ɵmpd"](4608,Y.t,Y.t,[]),o["ɵmpd"](4608,Y.d,Y.d,[]),o["ɵmpd"](512,Q.CommonModule,Q.CommonModule,[]),o["ɵmpd"](512,Y.r,Y.r,[]),o["ɵmpd"](512,Y.i,Y.i,[]),o["ɵmpd"](512,Y.p,Y.p,[]),o["ɵmpd"](512,ll.a,ll.a,[]),o["ɵmpd"](512,ll.b,ll.b,[]),o["ɵmpd"](512,c.a,c.a,[]),o["ɵmpd"](512,s,s,[]),o["ɵmpd"](256,nl.a,r,[])])})},903:function(l,n,e){"use strict";function u(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},i.b,i.a)),a["ɵdid"](3,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],o.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,r.a,[o.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,t.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return c}),n.b=u;var a=e(1),t=e(21),i=e(68),d=e(35),o=e(4),r=e(63),c=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([58],{
+
+/***/ 1167:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoginBackgroundSliderPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var LoginBackgroundSliderPage = /** @class */ (function () {
+    function LoginBackgroundSliderPage(formBuilder) {
+        this.formBuilder = formBuilder;
+        this.backgrounds = [
+            'assets/img/background/background-1.jpg',
+            'assets/img/background/background-2.jpg',
+            'assets/img/background/background-3.jpg',
+            'assets/img/background/background-4.jpg'
+        ];
+        this.loginForm = formBuilder.group({
+            email: ['', __WEBPACK_IMPORTED_MODULE_1__angular_forms__["h" /* Validators */].required],
+            password: ['', __WEBPACK_IMPORTED_MODULE_1__angular_forms__["h" /* Validators */].compose([__WEBPACK_IMPORTED_MODULE_1__angular_forms__["h" /* Validators */].minLength(6),
+                    __WEBPACK_IMPORTED_MODULE_1__angular_forms__["h" /* Validators */].required])]
+        });
+    }
+    LoginBackgroundSliderPage.prototype.ionViewDidLoad = function () {
+        console.log('Hello LoginBackgroundSlider Page');
+    };
+    LoginBackgroundSliderPage.prototype.openResetPassword = function () {
+        console.log('Reset password clicked');
+    };
+    LoginBackgroundSliderPage.prototype.doLogin = function () {
+        if (!this.loginForm.valid) {
+            console.log('Invalid or empty data');
+        }
+        else {
+            var userEmail = this.loginForm.value.email;
+            var userPassword = this.loginForm.value.password;
+            console.log('user data', userEmail, userPassword);
+        }
+    };
+    LoginBackgroundSliderPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-login-background-slider',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-background-slider\login-background-slider.html"*/'<ion-header no-border>\n  <ion-navbar transparent>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <ion-slides pager="false" autoplay="2000" loop="true" speed="1500" effect="fade">\n    <ion-slide class="slide-background swiper-no-swiping" *ngFor="let background of backgrounds" [ngStyle]="{\'background-image\': \'url(\' + background +\')\'}">\n    </ion-slide>\n  </ion-slides>\n  <div class="login-container">\n    <img class="logo" src="assets/img/logo/logo.png" />\n    <form (submit)="doLogin()">\n      <strong>Login:</strong>\n      <ion-item>\n        <ion-input type="email" placeholder="Email"></ion-input>\n      </ion-item>\n      <ion-item>\n        <ion-input type="password" placeholder="Password"></ion-input>\n      </ion-item>\n      <button ion-button margin color="danger">LOGIN</button>\n      <p (click)="openResetPassword()"><strong>Forgot your password?</strong></p>\n    </form>\n  </div>\n</ion-content>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-background-slider\login-background-slider.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__angular_forms__["a" /* FormBuilder */]])
+    ], LoginBackgroundSliderPage);
+    return LoginBackgroundSliderPage;
+}());
+
+//# sourceMappingURL=login-background-slider.js.map
+
+/***/ }),
+
+/***/ 896:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LoginBackgroundSliderPageModule", function() { return LoginBackgroundSliderPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__login_background_slider__ = __webpack_require__(1167);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var LoginBackgroundSliderPageModule = /** @class */ (function () {
+    function LoginBackgroundSliderPageModule() {
+    }
+    LoginBackgroundSliderPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__login_background_slider__["a" /* LoginBackgroundSliderPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__login_background_slider__["a" /* LoginBackgroundSliderPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__login_background_slider__["a" /* LoginBackgroundSliderPage */]
+            ]
+        })
+    ], LoginBackgroundSliderPageModule);
+    return LoginBackgroundSliderPageModule;
+}());
+
+//# sourceMappingURL=login-background-slider.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=58.js.map

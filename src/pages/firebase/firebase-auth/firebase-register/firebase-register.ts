@@ -54,7 +54,7 @@ export class FirebaseRegisterPage {
               buttons: ['OK']
             });
             this.alert.present().then(()=>{
-              if(result.uid) this.navCtrl.setRoot('ProfileFourPage');
+              if(result.uid) this.navCtrl.setRoot('SlidePage');
             });
           });
           this.loading = null; 

@@ -1,1 +1,90 @@
-webpackJsonp([49],{874:function(l,n,e){"use strict";function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),o["ɵdid"](1,16384,null,0,k.a,[v.a,o.ElementRef,o.Renderer,[2,R.a]],null,null),(l()(),o["ɵted"](-1,null,["\n\n  "])),(l()(),o["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,C.b,C.a)),o["ɵdid"](4,49152,null,0,h.a,[y.a,[2,R.a],[2,E.a],v.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==o["ɵnov"](l,8).toggle()&&t}return t},_.b,_.a)),o["ɵdid"](7,1097728,[[1,4]],0,L.a,[[8,""],v.a,o.ElementRef,o.Renderer],null,null),o["ɵdid"](8,1064960,null,0,M.a,[N.a,[2,R.a],[2,L.a],[2,h.a]],{menuToggle:[0,"menuToggle"]},null),o["ɵdid"](9,16384,null,1,D.a,[v.a,o.ElementRef,o.Renderer,[2,T.a],[2,h.a]],null,null),o["ɵqud"](603979776,1,{_buttons:1}),(l()(),o["ɵted"](-1,0,["\n      "])),(l()(),o["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](13,147456,null,0,I.a,[v.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵted"](-1,0,["\n    "])),(l()(),o["ɵted"](-1,3,["\n    "])),(l()(),o["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,A.b,A.a)),o["ɵdid"](17,49152,null,0,P.a,[v.a,o.ElementRef,o.Renderer,[2,T.a],[2,h.a]],null,null),(l()(),o["ɵted"](-1,0,["Native Geolocation"])),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n\n"])),(l()(),o["ɵted"](-1,null,["\n\n"])),(l()(),o["ɵeld"](22,0,null,null,12,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,x.b,x.a)),o["ɵdid"](23,4374528,null,0,K.a,[v.a,V.a,w.a,o.ElementRef,o.Renderer,y.a,F.a,o.NgZone,[2,R.a],[2,E.a]],null,null),(l()(),o["ɵted"](24,1,["\n\n  Real Time Location : ","\n\n  "])),(l()(),o["ɵeld"](25,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.getLocation()&&t}return t},_.b,_.a)),o["ɵdid"](26,1097728,null,0,L.a,[[8,""],v.a,o.ElementRef,o.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),o["ɵted"](-1,0,[" Get Location "])),(l()(),o["ɵted"](-1,1,["\n\n  "])),(l()(),o["ɵeld"](29,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),o["ɵted"](30,null,[" "," "])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](32,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),o["ɵted"](33,null,[" "," "])),(l()(),o["ɵted"](-1,1,["\n  \n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"primary","")},function(l,n){var e=n.component;l(n,3,0,o["ɵnov"](n,4)._hidden,o["ɵnov"](n,4)._sbPadding);l(n,6,0,o["ɵnov"](n,8).isHidden);l(n,12,0,o["ɵnov"](n,13)._hidden);l(n,22,0,o["ɵnov"](n,23).statusbarPadding,o["ɵnov"](n,23)._hasRefresher);l(n,24,0,e.realTimeLocation);l(n,30,0,e.successMessage);l(n,33,0,e.errorMessage)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),a=(e(0),e(69),e(240)),u=function(){function l(l,n,e){var t=this;this.platform=l,this.geolocation=n,this.alertCtrl=e;this.geolocation.watchPosition({enableHighAccuracy:!0,timeout:5e3,maximumAge:0}).subscribe(function(l){t.realTimeLocation=l.coords.latitude+", "+l.coords.longitude},function(l){t.errorMessage=l,console.log("Error get data",l);t.alertCtrl.create({title:"Attention!",subTitle:"Cordova is not available",buttons:["Close"]}).present()})}return l.prototype.getLocation=function(){var l=this;this.platform.ready().then(function(){l.geolocation.getCurrentPosition({}).then(function(n){l.successMessage=n.coords.latitude+", "+n.coords.longitude,console.log("Your Location : ",l.successMessage)},function(n){l.errorMessage="Error : "+n,console.log("Error : ",n);l.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()}).catch(function(n){l.errorMessage=n,console.log("Error : ",n);l.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()})})},l}(),r=function(){return function(){}}(),i=e(456),d=e(457),s=e(458),c=e(459),b=e(460),f=e(461),m=e(462),g=e(463),p=e(464),k=e(145),v=e(4),R=e(8),C=e(903),h=e(56),y=e(14),E=e(36),_=e(68),L=e(35),M=e(224),N=e(39),D=e(223),T=e(57),I=e(63),A=e(466),P=e(90),x=e(465),K=e(37),V=e(7),w=e(15),F=e(43),O=e(92),G=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),z=o["ɵccf"]("page-native-geolocation",u,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-native-geolocation",[],null,null,null,t,G)),o["ɵdid"](1,49152,null,0,u,[V.a,a.a,O.a],null,null)],null,null)},{},{},[]),B=e(21),H=e(32),j=e(222),q=e(64);e.d(n,"NativeGeolocationPageModuleNgFactory",function(){return J});var J=o["ɵcmf"](r,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[i.a,d.a,s.a,c.a,b.a,f.a,m.a,g.a,p.a,z]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,B.NgLocalization,B.NgLocaleLocalization,[o.LOCALE_ID,[2,B["ɵa"]]]),o["ɵmpd"](4608,H.t,H.t,[]),o["ɵmpd"](4608,H.d,H.d,[]),o["ɵmpd"](512,B.CommonModule,B.CommonModule,[]),o["ɵmpd"](512,H.r,H.r,[]),o["ɵmpd"](512,H.i,H.i,[]),o["ɵmpd"](512,H.p,H.p,[]),o["ɵmpd"](512,j.a,j.a,[]),o["ɵmpd"](512,j.b,j.b,[]),o["ɵmpd"](512,r,r,[]),o["ɵmpd"](256,q.a,u,[])])})},903:function(l,n,e){"use strict";function t(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),o["ɵdid"](1,278528,null,0,a.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},u.b,u.a)),o["ɵdid"](3,278528,null,0,a.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](4,1097728,null,0,r.a,[[8,"bar-button"],i.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](6,278528,null,0,a.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](7,147456,null,0,d.a,[i.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),o["ɵdid"](9,278528,null,0,a.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵted"](10,null,["",""])),o["ɵncd"](null,0),o["ɵncd"](null,1),o["ɵncd"](null,2),(l()(),o["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),o["ɵdid"](15,278528,null,0,a.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,o["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=t;var o=e(1),a=e(21),u=e(68),r=e(35),i=e(4),d=e(63),s=(e(56),e(8),e(36),o["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([49],{
+
+/***/ 1225:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CountdownPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+/**
+ * This Component need :
+ * - timer components. Load it in component
+ * - timer-progress components. Load it in component
+ */
+var CountdownPage = /** @class */ (function () {
+    function CountdownPage(navCtrl, menu) {
+        this.navCtrl = navCtrl;
+        this.menu = menu;
+    }
+    CountdownPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-countdown',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\countdown\countdown.html"*/'<ion-header >\n	<ion-navbar color="primary">\n		<ion-title>Countdown</ion-title>\n	</ion-navbar>\n</ion-header>\n\n<ion-content padding>\n	<h2>Countdown Timer</h2>\n	<timer #countdownTimer [timeInSeconds]="2700"></timer>\n	<timer-progress #countdownTimerProgress [timeInSeconds]="2700"></timer-progress>\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\countdown\countdown.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* MenuController */]])
+    ], CountdownPage);
+    return CountdownPage;
+}());
+
+//# sourceMappingURL=countdown.js.map
+
+/***/ }),
+
+/***/ 906:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CountdownPageModule", function() { return CountdownPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__app_shared_module__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__countdown__ = __webpack_require__(1225);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+var CountdownPageModule = /** @class */ (function () {
+    function CountdownPageModule() {
+    }
+    CountdownPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_2__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_1__countdown__["a" /* CountdownPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_1__countdown__["a" /* CountdownPage */]),
+                __WEBPACK_IMPORTED_MODULE_0__app_shared_module__["a" /* SharedModule */],
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_1__countdown__["a" /* CountdownPage */]
+            ]
+        })
+    ], CountdownPageModule);
+    return CountdownPageModule;
+}());
+
+//# sourceMappingURL=countdown.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=49.js.map

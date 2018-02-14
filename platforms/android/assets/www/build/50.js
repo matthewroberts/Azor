@@ -1,1 +1,80 @@
-webpackJsonp([50],{872:function(l,n,e){"use strict";function a(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),u["ɵdid"](1,16384,null,0,R.a,[k.a,u.ElementRef,u.Renderer,[2,v.a]],null,null),(l()(),u["ɵted"](-1,null,["\n\n  "])),(l()(),u["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,C.b,C.a)),u["ɵdid"](4,49152,null,0,h.a,[E.a,[2,v.a],[2,y.a],k.a,u.ElementRef,u.Renderer],{color:[0,"color"]},null),(l()(),u["ɵted"](-1,3,["\n    "])),(l()(),u["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==u["ɵnov"](l,8).toggle()&&a}return a},_.b,_.a)),u["ɵdid"](7,1097728,[[1,4]],0,M.a,[[8,""],k.a,u.ElementRef,u.Renderer],null,null),u["ɵdid"](8,1064960,null,0,N.a,[D.a,[2,v.a],[2,M.a],[2,h.a]],{menuToggle:[0,"menuToggle"]},null),u["ɵdid"](9,16384,null,1,A.a,[k.a,u.ElementRef,u.Renderer,[2,I.a],[2,h.a]],null,null),u["ɵqud"](603979776,1,{_buttons:1}),(l()(),u["ɵted"](-1,0,["\n      "])),(l()(),u["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),u["ɵdid"](13,147456,null,0,K.a,[k.a,u.ElementRef,u.Renderer],{name:[0,"name"]},null),(l()(),u["ɵted"](-1,0,["\n    "])),(l()(),u["ɵted"](-1,3,["\n    "])),(l()(),u["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,L.b,L.a)),u["ɵdid"](17,49152,null,0,V.a,[k.a,u.ElementRef,u.Renderer,[2,I.a],[2,h.a]],null,null),(l()(),u["ɵted"](-1,0,["Native Email Composer"])),(l()(),u["ɵted"](-1,3,["\n  "])),(l()(),u["ɵted"](-1,null,["\n\n"])),(l()(),u["ɵted"](-1,null,["\n\n"])),(l()(),u["ɵeld"](22,0,null,null,12,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,T.b,T.a)),u["ɵdid"](23,4374528,null,0,j.a,[k.a,w.a,x.a,u.ElementRef,u.Renderer,E.a,F.a,u.NgZone,[2,v.a],[2,y.a]],null,null),(l()(),u["ɵted"](-1,1,["\n\n  "])),(l()(),u["ɵeld"](25,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.sendMail()&&a}return a},_.b,_.a)),u["ɵdid"](26,1097728,null,0,M.a,[[8,""],k.a,u.ElementRef,u.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),u["ɵted"](-1,0,[" Send Mail "])),(l()(),u["ɵted"](-1,1,["\n\n  "])),(l()(),u["ɵeld"](29,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),u["ɵted"](30,null,[" "," "])),(l()(),u["ɵted"](-1,1,["\n  "])),(l()(),u["ɵeld"](32,0,null,1,1,"p",[],null,null,null,null,null)),(l()(),u["ɵted"](33,null,[" "," "])),(l()(),u["ɵted"](-1,1,["\n\n"])),(l()(),u["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"primary","")},function(l,n){var e=n.component;l(n,3,0,u["ɵnov"](n,4)._hidden,u["ɵnov"](n,4)._sbPadding);l(n,6,0,u["ɵnov"](n,8).isHidden);l(n,12,0,u["ɵnov"](n,13)._hidden);l(n,22,0,u["ɵnov"](n,23).statusbarPadding,u["ɵnov"](n,23)._hasRefresher);l(n,30,0,e.successMessage);l(n,33,0,e.errorMessage)})}Object.defineProperty(n,"__esModule",{value:!0});var u=e(1),o=(e(0),e(69),e(260)),t=function(){function l(l,n,e){var a=this;this.emailComposer=l,this.platform=n,this.alertCtrl=e,this.emailComposer.isAvailable().then(function(l){},function(l){a.errorMessage=l,console.log(l)}),this.email={to:"ionicpremium@gmail.com",bcc:["john@doe.com","jane@doe.com"],attachments:["file://img/logo.png","res://icon.png","base64:icon.png//iVBORw0KGgoAAAANSUhEUg...","file://README.pdf"],subject:"Cordova Icons",body:"How are you? Nice greetings from Leipzig",isHtml:!0}}return l.prototype.sendMail=function(){var l=this;this.emailComposer.open(this.email).then(function(n){l.successMessage=n,console.log(n)},function(n){l.errorMessage=n,console.log(n);l.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()})},l}(),d=function(){return function(){}}(),r=e(456),i=e(457),s=e(458),c=e(459),m=e(460),b=e(461),f=e(462),g=e(463),p=e(464),R=e(145),k=e(4),v=e(8),C=e(903),h=e(56),E=e(14),y=e(36),_=e(68),M=e(35),N=e(224),D=e(39),A=e(223),I=e(57),K=e(63),L=e(466),V=e(90),T=e(465),j=e(37),w=e(7),x=e(15),F=e(43),O=e(92),P=u["ɵcrt"]({encapsulation:2,styles:[],data:{}}),z=u["ɵccf"]("page-native-email-composer",t,function(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,1,"page-native-email-composer",[],null,null,null,a,P)),u["ɵdid"](1,49152,null,0,t,[o.a,w.a,O.a],null,null)],null,null)},{},{},[]),B=e(21),H=e(32),S=e(222),U=e(64);e.d(n,"NativeEmailComposerPageModuleNgFactory",function(){return q});var q=u["ɵcmf"](d,[],function(l){return u["ɵmod"]([u["ɵmpd"](512,u.ComponentFactoryResolver,u["ɵCodegenComponentFactoryResolver"],[[8,[r.a,i.a,s.a,c.a,m.a,b.a,f.a,g.a,p.a,z]],[3,u.ComponentFactoryResolver],u.NgModuleRef]),u["ɵmpd"](4608,B.NgLocalization,B.NgLocaleLocalization,[u.LOCALE_ID,[2,B["ɵa"]]]),u["ɵmpd"](4608,H.t,H.t,[]),u["ɵmpd"](4608,H.d,H.d,[]),u["ɵmpd"](512,B.CommonModule,B.CommonModule,[]),u["ɵmpd"](512,H.r,H.r,[]),u["ɵmpd"](512,H.i,H.i,[]),u["ɵmpd"](512,H.p,H.p,[]),u["ɵmpd"](512,S.a,S.a,[]),u["ɵmpd"](512,S.b,S.b,[]),u["ɵmpd"](512,d,d,[]),u["ɵmpd"](256,U.a,t,[])])})},903:function(l,n,e){"use strict";function a(l){return u["ɵvid"](0,[(l()(),u["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),u["ɵdid"](1,278528,null,0,o.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var a=!0;if("click"===n){a=!1!==l.component.backButtonClick(e)&&a}return a},t.b,t.a)),u["ɵdid"](3,278528,null,0,o.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],r.a,u.ElementRef,u.Renderer],null,null),(l()(),u["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),u["ɵdid"](6,278528,null,0,o.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵdid"](7,147456,null,0,i.a,[r.a,u.ElementRef,u.Renderer],{name:[0,"name"]},null),(l()(),u["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),u["ɵdid"](9,278528,null,0,o.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),u["ɵted"](10,null,["",""])),u["ɵncd"](null,0),u["ɵncd"](null,1),u["ɵncd"](null,2),(l()(),u["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),u["ɵdid"](15,278528,null,0,o.NgClass,[u.IterableDiffers,u.KeyValueDiffers,u.ElementRef,u.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),u["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,u["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=a;var u=e(1),o=e(21),t=e(68),d=e(35),r=e(4),i=e(63),s=(e(56),e(8),e(36),u["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([50],{
+
+/***/ 1175:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BlogPostPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var BlogPostPage = /** @class */ (function () {
+    function BlogPostPage(navCtrl) {
+        this.navCtrl = navCtrl;
+    }
+    BlogPostPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-blog-post',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\blog-post\blog-post.html"*/'<ion-header >\n  <ion-navbar color="primary">\n    <ion-title>Blog Post</ion-title>\n  </ion-navbar>\n</ion-header>\n<ion-content>\n  <header>\n    <h1>Land <span>of the</span> Lost</h1>\n    <img src="assets/img/blog/mountain-range-front.png">\n  </header>\n  <main>\n    <p>From this point he marched two stages—ten parasangs—to the river Psarus, which is two hundred feet broad, and from the\n      Psarus he marched a single stage—five parasangs—to Issi, the last city in Cilicia. It lies on the seaboard—a prosperous,\n      large and flourishing town. Here they halted three days, and here Cyrus was joined by his fleet. There were thirty-five\n      ships from Peloponnesus, with the Lacedaemonian admiral Pythagoras on board. These had been piloted from Ephesus by\n      Tamos the Egyptian, who himself had another fleet of twenty-five ships belonging to Cyrus. These had formed Tamos\'s\n      blockading squadron at Miletus, when that city sided with Tissaphernes; he had also used them in other military services\n      rendered to Cyrus in his operations against that satrap. There was a third officer on board the fleet, the Lacedaemonian\n      Cheirisophus, who had been sent for by Cyrus, and had brought with him seven hundred hoplites, over whom he was to\n      act as general in the service of Cyrus. The fleet lay at anchor opposite Cyrus\'s tent. Here too another reinforcement\n      presented itself. This was a body of four hundred hoplites, Hellenic mercenaries in the service of Abrocomas, who deserted\n      him for Cyrus, and joined in the campaign against the king.</p>\n    <p>From Issi, he marched a single stage—five parasangs—to the gates of Cilicia and Syria. This was a double fortress: the\n      inner and nearer one, which protects Cilicia, was held by Syennesis and a garrison of Cilicians; the outer and further\n      one, protecting Syria, was reported to be garrisoned by a body of the king\'s troops. Through the gap between the two\n      fortresses flows a river named the Carsus, which is a hundred feet broad, and the whole space between was scarcely\n      more than six hundred yards. To force a passage here would be impossible, so narrow was the pass itself, with the fortification\n      walls stretching down to the sea, and precipitous rocks above; while both fortresses were furnished with gates. It\n      was the existence of this pass which had induced Cyrus to send for the fleet, so as to enable him to lead a body of\n      hoplites inside and outside the gates; and so to force a passage through the enemy, if he were guarding the Syrian\n      gate, as he fully expected to find Abrocomas doing with a large army. This, however, Abrocomas had not done; but as\n      soon as he learnt that Cyrus was in Cilicia, he had turned round and made his exit from Phoenicia, to join the king\n      with an army amounting, as report said, to three hundred thousand men.</p>\n    <p>From this point Cyrus pursued his march, through Syria a single stage—five parasangs—to Myriandus, a city inhabited by\n      Phoenicians, on the sea-coast. This was a commercial port, and numerous merchant vessels were riding at anchor in the\n      harbour. Here they halted seven days, and here Xenias the Arcadian general, and Pasion the Megarian got on board a\n      trader, and having stowed away their most valuable effects, set sail for home; most people explained the act as the\n      outcome of a fit of jealousy, because Cyrus had allowed Clearchus to retain their men, who had deserted to him, in\n      hopes of returning to Hellas instead of marching against the king; when the two had so vanished, a rumour spread that\n      Cyrus was after them with some ships of war, and some hoped the cowards might be caught, others pitied them, if that\n      should be their fate.</p>\n  </main>\n</ion-content>\n\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\miscellaneous\blog-post\blog-post.html"*/
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */]])
+    ], BlogPostPage);
+    return BlogPostPage;
+}());
+
+//# sourceMappingURL=blog-post.js.map
+
+/***/ }),
+
+/***/ 904:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BlogPostPageModule", function() { return BlogPostPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__blog_post__ = __webpack_require__(1175);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var BlogPostPageModule = /** @class */ (function () {
+    function BlogPostPageModule() {
+    }
+    BlogPostPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__blog_post__["a" /* BlogPostPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__blog_post__["a" /* BlogPostPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__blog_post__["a" /* BlogPostPage */]
+            ]
+        })
+    ], BlogPostPageModule);
+    return BlogPostPageModule;
+}());
+
+//# sourceMappingURL=blog-post.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=50.js.map

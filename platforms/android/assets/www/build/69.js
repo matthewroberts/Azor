@@ -1,1 +1,133 @@
-webpackJsonp([69],{845:function(l,n,e){"use strict";function u(l){return o["ɵvid"](0,[o["ɵqud"](402653184,1,{player:0}),(l()(),o["ɵeld"](1,0,null,null,6,"ion-header",[["no-border",""]],null,null,null,null,null)),o["ɵdid"](2,16384,null,0,m.a,[k.a,o.ElementRef,o.Renderer,[2,v.a]],null,null),(l()(),o["ɵted"](-1,null,["\n  "])),(l()(),o["ɵeld"](4,0,null,null,2,"ion-navbar",[["class","toolbar"],["transparent",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,R.b,R.a)),o["ɵdid"](5,49152,null,0,y.a,[C.a,[2,v.a],[2,E.a],k.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](-1,3,["\n  "])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵted"](-1,null,["\n"])),(l()(),o["ɵeld"](9,0,null,null,24,"ion-content",[["fullscreen",""],["padding",""],["text-center",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,h.b,h.a)),o["ɵdid"](10,4374528,null,0,_.a,[k.a,L.a,D.a,o.ElementRef,o.Renderer,C.a,N.a,o.NgZone,[2,v.a],[2,E.a]],{fullscreen:[0,"fullscreen"]},null),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](12,0,null,1,0,"img",[["class","logo"],["src","assets/img/logo/logo.png"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](14,0,null,1,13,"div",[["class","buttons"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵeld"](16,0,null,null,2,"button",[["class","login-button facebook"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.goToLogin()&&u}return u},V.b,V.a)),o["ɵdid"](17,1097728,null,0,I.a,[[8,""],k.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](-1,0,["Continue with Facebook"])),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵeld"](20,0,null,null,2,"button",[["class","login-button google"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.goToLogin()&&u}return u},V.b,V.a)),o["ɵdid"](21,1097728,null,0,I.a,[[8,""],k.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵted"](-1,0,["Login"])),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵeld"](24,0,null,null,2,"button",[["class","login-button"],["color","dark"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.goToSignup()&&u}return u},V.b,V.a)),o["ɵdid"](25,1097728,null,0,I.a,[[8,""],k.a,o.ElementRef,o.Renderer],{color:[0,"color"]},null),(l()(),o["ɵted"](-1,0,["Create account"])),(l()(),o["ɵted"](-1,null,["\n  "])),(l()(),o["ɵted"](-1,1,["\n  "])),(l()(),o["ɵeld"](29,0,[[1,0],["player",1]],1,3,"video",[["autoplay",""],["id","bgvid"],["loop",""],["muted",""],["playsinline",""],["poster","assets/video-cover.jpg"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,["\n    "])),(l()(),o["ɵeld"](31,0,null,null,0,"source",[["src","assets/video/background-480.mp4"],["type","video/mp4"]],null,null,null,null,null)),(l()(),o["ɵted"](-1,null,[" Your browser does not support the video tag.\n  "])),(l()(),o["ɵted"](-1,1,["\n"])),(l()(),o["ɵted"](-1,null,["\n"]))],function(l,n){l(n,10,0,"");l(n,25,0,"dark")},function(l,n){l(n,4,0,o["ɵnov"](n,5)._hidden,o["ɵnov"](n,5)._sbPadding);l(n,9,0,o["ɵnov"](n,10).statusbarPadding,o["ɵnov"](n,10)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var o=e(1),t=(e(0),e(69),function(){function l(l){this.navCtrl=l}return l.prototype.ionViewWillLeave=function(){this.player.nativeElement.src="",this.player.nativeElement.load()},l.prototype.ionViewWillEnter=function(){this.player.nativeElement.src="assets/video/background-480.mp4",this.player.nativeElement.load()},l.prototype.ionViewDidLoad=function(){console.log("Hello LoginBackgroundVideo Page")},l.prototype.goToSignup=function(){console.log("Signup clicked")},l.prototype.goToLogin=function(){console.log("Login clicked")},l}()),a=function(){return function(){}}(),d=e(456),i=e(457),r=e(458),s=e(459),c=e(460),b=e(461),g=e(462),f=e(463),p=e(464),m=e(145),k=e(4),v=e(8),R=e(903),y=e(56),C=e(14),E=e(36),h=e(465),_=e(37),L=e(7),D=e(15),N=e(43),V=e(68),I=e(35),w=o["ɵcrt"]({encapsulation:2,styles:[],data:{}}),T=o["ɵccf"]("page-login-background-video",t,function(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"page-login-background-video",[],null,null,null,u,w)),o["ɵdid"](1,49152,null,0,t,[E.a],null,null)],null,null)},{},{},[]),x=e(21),F=e(32),K=e(222),M=e(64);e.d(n,"LoginBackgroundVideoPageModuleNgFactory",function(){return P});var P=o["ɵcmf"](a,[],function(l){return o["ɵmod"]([o["ɵmpd"](512,o.ComponentFactoryResolver,o["ɵCodegenComponentFactoryResolver"],[[8,[d.a,i.a,r.a,s.a,c.a,b.a,g.a,f.a,p.a,T]],[3,o.ComponentFactoryResolver],o.NgModuleRef]),o["ɵmpd"](4608,x.NgLocalization,x.NgLocaleLocalization,[o.LOCALE_ID,[2,x["ɵa"]]]),o["ɵmpd"](4608,F.t,F.t,[]),o["ɵmpd"](4608,F.d,F.d,[]),o["ɵmpd"](512,x.CommonModule,x.CommonModule,[]),o["ɵmpd"](512,F.r,F.r,[]),o["ɵmpd"](512,F.i,F.i,[]),o["ɵmpd"](512,F.p,F.p,[]),o["ɵmpd"](512,K.a,K.a,[]),o["ɵmpd"](512,K.b,K.b,[]),o["ɵmpd"](512,a,a,[]),o["ɵmpd"](256,M.a,t,[])])})},903:function(l,n,e){"use strict";function u(l){return o["ɵvid"](0,[(l()(),o["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),o["ɵdid"](1,278528,null,0,t.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var u=!0;if("click"===n){u=!1!==l.component.backButtonClick(e)&&u}return u},a.b,a.a)),o["ɵdid"](3,278528,null,0,t.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],i.a,o.ElementRef,o.Renderer],null,null),(l()(),o["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),o["ɵdid"](6,278528,null,0,t.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵdid"](7,147456,null,0,r.a,[i.a,o.ElementRef,o.Renderer],{name:[0,"name"]},null),(l()(),o["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),o["ɵdid"](9,278528,null,0,t.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),o["ɵted"](10,null,["",""])),o["ɵncd"](null,0),o["ɵncd"](null,1),o["ɵncd"](null,2),(l()(),o["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),o["ɵdid"](15,278528,null,0,t.NgClass,[o.IterableDiffers,o.KeyValueDiffers,o.ElementRef,o.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),o["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,o["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=u;var o=e(1),t=e(21),a=e(68),d=e(35),i=e(4),r=e(63),s=(e(56),e(8),e(36),o["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([69],{
+
+/***/ 1122:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FirebaseLoginPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_firebase_firebase_auth__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_forms__ = __webpack_require__(32);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var FirebaseLoginPage = /** @class */ (function () {
+    function FirebaseLoginPage(loadingCtrl, alertCtrl, fireAuthService, navCtrl, navParams, formBuilder) {
+        this.loadingCtrl = loadingCtrl;
+        this.alertCtrl = alertCtrl;
+        this.fireAuthService = fireAuthService;
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        this.formBuilder = formBuilder;
+        this.backgroundImage = 'assets/img/background/splash3-small.png';
+        this.loginForm = this.formBuilder.group({
+            'email': ['', __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].compose([__WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].required, __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].pattern(/[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/)])],
+            'password': ['', __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].compose([__WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].required, __WEBPACK_IMPORTED_MODULE_3__angular_forms__["h" /* Validators */].minLength(1)])]
+        });
+        this.email = this.loginForm.controls['email'];
+        this.password = this.loginForm.controls['password'];
+    }
+    FirebaseLoginPage.prototype.doLogin = function () {
+        var _this = this;
+        this.showLoading();
+        var credentials = ({ email: this.email.value, password: this.password.value });
+        this.fireAuthService.doLogin(credentials).then(function (allowed) {
+            console.log(allowed);
+            if (_this.loading || _this.alert) {
+                _this.loading.dismiss().then(function () {
+                    if (allowed[0]) {
+                        _this.navCtrl.setRoot('ProfileFourPage');
+                    }
+                    else {
+                        _this.showError(allowed[1]);
+                    }
+                });
+            }
+        }, function (error) {
+            _this.showError(error);
+            _this.loading.dismiss();
+        });
+    };
+    FirebaseLoginPage.prototype.showLoading = function () {
+        this.loading = this.loadingCtrl.create({
+            content: 'Please wait...'
+        });
+        this.loading.present();
+    };
+    FirebaseLoginPage.prototype.showError = function (text) {
+        var alert = this.alertCtrl.create({
+            title: 'Fail',
+            subTitle: text,
+            buttons: ['OK']
+        });
+        alert.present();
+    };
+    FirebaseLoginPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-firebase-login',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-login\firebase-login.html"*/'<ion-content padding class="transparent-header" [ngStyle]="{\'background-image\': \'url(\' + backgroundImage +\')\'}">    \n  <ion-header no-border>\n    <ion-navbar transparent>\n    </ion-navbar>\n  </ion-header>\n  <div class="login-container">\n    <img class="logo" src="assets/img/logo/azorlogo.png" />\n    <h2>Login</h2>\n    <ion-row>\n      <form [formGroup]="loginForm" (ngSubmit)="doLogin()">\n        <ion-item padding-right>\n          <ion-label>Email</ion-label>\n          <ion-input type="text" formControlName="email" ></ion-input>\n        </ion-item>\n        <ion-item padding-right>\n          <ion-label>Password</ion-label>\n          <ion-input type="password" formControlName="password" ></ion-input>\n        </ion-item>\n        <div>\n          <button ion-button class="submit-btn" full type="submit" >Login</button>\n        </div>\n      </form>\n    </ion-row>\n  </div>\n</ion-content>'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\firebase\firebase-auth\firebase-login\firebase-login.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_2__providers_firebase_firebase_auth__["a" /* FirebaseAuthProvider */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["n" /* NavController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["o" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_3__angular_forms__["a" /* FormBuilder */]])
+    ], FirebaseLoginPage);
+    return FirebaseLoginPage;
+}());
+
+//# sourceMappingURL=firebase-login.js.map
+
+/***/ }),
+
+/***/ 884:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FirebaseLoginPageModule", function() { return FirebaseLoginPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__firebase_login__ = __webpack_require__(1122);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var FirebaseLoginPageModule = /** @class */ (function () {
+    function FirebaseLoginPageModule() {
+    }
+    FirebaseLoginPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_2__firebase_login__["a" /* FirebaseLoginPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__firebase_login__["a" /* FirebaseLoginPage */]),
+            ],
+        })
+    ], FirebaseLoginPageModule);
+    return FirebaseLoginPageModule;
+}());
+
+//# sourceMappingURL=firebase-login.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=69.js.map

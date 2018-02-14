@@ -1,1 +1,148 @@
-webpackJsonp([56],{867:function(l,n,e){"use strict";function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,20,"ion-header",[],null,null,null,null,null)),a["ɵdid"](1,16384,null,0,p.a,[k.a,a.ElementRef,a.Renderer,[2,R.a]],null,null),(l()(),a["ɵted"](-1,null,["\n\n  "])),(l()(),a["ɵeld"](3,0,null,null,16,"ion-navbar",[["class","toolbar"],["color","primary"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,v.b,v.a)),a["ɵdid"](4,49152,null,0,C.a,[E.a,[2,R.a],[2,_.a],k.a,a.ElementRef,a.Renderer],{color:[0,"color"]},null),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](6,0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==a["ɵnov"](l,8).toggle()&&t}return t},y.b,y.a)),a["ɵdid"](7,1097728,[[1,4]],0,D.a,[[8,""],k.a,a.ElementRef,a.Renderer],null,null),a["ɵdid"](8,1064960,null,0,N.a,[L.a,[2,R.a],[2,D.a],[2,C.a]],{menuToggle:[0,"menuToggle"]},null),a["ɵdid"](9,16384,null,1,S.a,[k.a,a.ElementRef,a.Renderer,[2,w.a],[2,C.a]],null,null),a["ɵqud"](603979776,1,{_buttons:1}),(l()(),a["ɵted"](-1,0,["\n      "])),(l()(),a["ɵeld"](12,0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](13,147456,null,0,A.a,[k.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵted"](-1,0,["\n    "])),(l()(),a["ɵted"](-1,3,["\n    "])),(l()(),a["ɵeld"](16,0,null,3,2,"ion-title",[],null,null,null,T.b,T.a)),a["ɵdid"](17,49152,null,0,I.a,[k.a,a.ElementRef,a.Renderer,[2,w.a],[2,C.a]],null,null),(l()(),a["ɵted"](-1,0,["Native Action Sheet"])),(l()(),a["ɵted"](-1,3,["\n  "])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n\n"])),(l()(),a["ɵeld"](22,0,null,null,6,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,M.b,M.a)),a["ɵdid"](23,4374528,null,0,B.a,[k.a,K.a,O.a,a.ElementRef,a.Renderer,E.a,F.a,a.NgZone,[2,R.a],[2,_.a]],null,null),(l()(),a["ɵted"](-1,1,["\n\n  "])),(l()(),a["ɵeld"](25,0,null,1,2,"button",[["block",""],["color","primary"],["ion-button",""]],null,[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.showAction()&&t}return t},y.b,y.a)),a["ɵdid"](26,1097728,null,0,D.a,[[8,""],k.a,a.ElementRef,a.Renderer],{color:[0,"color"],block:[1,"block"]},null),(l()(),a["ɵted"](-1,0,[" Show Action Sheet "])),(l()(),a["ɵted"](-1,1,["\n\n"])),(l()(),a["ɵted"](-1,null,["\n"]))],function(l,n){l(n,4,0,"primary");l(n,8,0,"");l(n,13,0,"menu");l(n,26,0,"primary","")},function(l,n){l(n,3,0,a["ɵnov"](n,4)._hidden,a["ɵnov"](n,4)._sbPadding);l(n,6,0,a["ɵnov"](n,8).isHidden);l(n,12,0,a["ɵnov"](n,13)._hidden);l(n,22,0,a["ɵnov"](n,23).statusbarPadding,a["ɵnov"](n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var a=e(1),u=(e(0),e(69),e(256)),o=function(){function l(l,n,e){this.actionSheet=l,this.platform=n,this.alertCtrl=e}return l.prototype.showAction=function(){var l=this;this.buttonLabels=["Share via Facebook","Share via Twitter"],this.actionSheet.show({title:"What do you want with this image?",subtitle:"Choose an action",buttonLabels:this.buttonLabels,addCancelButtonWithLabel:"Cancel",addDestructiveButtonWithLabel:"Delete",androidTheme:this.actionSheet.ANDROID_THEMES.THEME_HOLO_DARK,destructiveButtonLast:!0}).then(function(l){console.log("Button pressed: "+l)},function(n){l.errorMessage=n,console.log(n);l.alertCtrl.create({title:"Attention!",subTitle:"Only works in real device",buttons:["Close"]}).present()})},l}(),d=function(){return function(){}}(),i=e(456),r=e(457),s=e(458),c=e(459),b=e(460),f=e(461),m=e(462),g=e(463),h=e(464),p=e(145),k=e(4),R=e(8),v=e(903),C=e(56),E=e(14),_=e(36),y=e(68),D=e(35),N=e(224),L=e(39),S=e(223),w=e(57),A=e(63),T=e(466),I=e(90),M=e(465),B=e(37),K=e(7),O=e(15),F=e(43),V=e(92),x=a["ɵcrt"]({encapsulation:2,styles:[],data:{}}),H=a["ɵccf"]("page-native-action-sheet",o,function(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"page-native-action-sheet",[],null,null,null,t,x)),a["ɵdid"](1,49152,null,0,o,[u.a,K.a,V.a],null,null)],null,null)},{},{},[]),P=e(21),W=e(32),z=e(222),j=e(64);e.d(n,"NativeActionSheetPageModuleNgFactory",function(){return q});var q=a["ɵcmf"](d,[],function(l){return a["ɵmod"]([a["ɵmpd"](512,a.ComponentFactoryResolver,a["ɵCodegenComponentFactoryResolver"],[[8,[i.a,r.a,s.a,c.a,b.a,f.a,m.a,g.a,h.a,H]],[3,a.ComponentFactoryResolver],a.NgModuleRef]),a["ɵmpd"](4608,P.NgLocalization,P.NgLocaleLocalization,[a.LOCALE_ID,[2,P["ɵa"]]]),a["ɵmpd"](4608,W.t,W.t,[]),a["ɵmpd"](4608,W.d,W.d,[]),a["ɵmpd"](512,P.CommonModule,P.CommonModule,[]),a["ɵmpd"](512,W.r,W.r,[]),a["ɵmpd"](512,W.i,W.i,[]),a["ɵmpd"](512,W.p,W.p,[]),a["ɵmpd"](512,z.a,z.a,[]),a["ɵmpd"](512,z.b,z.b,[]),a["ɵmpd"](512,d,d,[]),a["ɵmpd"](256,j.a,o,[])])})},903:function(l,n,e){"use strict";function t(l){return a["ɵvid"](0,[(l()(),a["ɵeld"](0,0,null,null,1,"div",[["class","toolbar-background"]],null,null,null,null,null)),a["ɵdid"](1,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵeld"](2,0,null,null,8,"button",[["class","back-button"],["ion-button","bar-button"]],[[8,"hidden",0]],[[null,"click"]],function(l,n,e){var t=!0;if("click"===n){t=!1!==l.component.backButtonClick(e)&&t}return t},o.b,o.a)),a["ɵdid"](3,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](4,1097728,null,0,d.a,[[8,"bar-button"],i.a,a.ElementRef,a.Renderer],null,null),(l()(),a["ɵeld"](5,0,null,0,2,"ion-icon",[["class","back-button-icon"],["role","img"]],[[2,"hide",null]],null,null,null,null)),a["ɵdid"](6,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵdid"](7,147456,null,0,r.a,[i.a,a.ElementRef,a.Renderer],{name:[0,"name"]},null),(l()(),a["ɵeld"](8,0,null,0,2,"span",[["class","back-button-text"]],null,null,null,null,null)),a["ɵdid"](9,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),(l()(),a["ɵted"](10,null,["",""])),a["ɵncd"](null,0),a["ɵncd"](null,1),a["ɵncd"](null,2),(l()(),a["ɵeld"](14,0,null,null,2,"div",[["class","toolbar-content"]],null,null,null,null,null)),a["ɵdid"](15,278528,null,0,u.NgClass,[a.IterableDiffers,a.KeyValueDiffers,a.ElementRef,a.Renderer2],{klass:[0,"klass"],ngClass:[1,"ngClass"]},null),a["ɵncd"](null,3)],function(l,n){var e=n.component;l(n,1,0,"toolbar-background","toolbar-background-"+e._mode);l(n,3,0,"back-button","back-button-"+e._mode);l(n,6,0,"back-button-icon","back-button-icon-"+e._mode);l(n,7,0,e._bbIcon);l(n,9,0,"back-button-text","back-button-text-"+e._mode);l(n,15,0,"toolbar-content","toolbar-content-"+e._mode)},function(l,n){var e=n.component;l(n,2,0,e._hideBb);l(n,5,0,a["ɵnov"](n,7)._hidden);l(n,10,0,e._backText)})}e.d(n,"a",function(){return s}),n.b=t;var a=e(1),u=e(21),o=e(68),d=e(35),i=e(4),r=e(63),s=(e(56),e(8),e(36),a["ɵcrt"]({encapsulation:2,styles:[],data:{}}))}});
+webpackJsonp([56],{
+
+/***/ 1169:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoginInstagramPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+// import { FormBuilder, FormControl, Validator } from '@angular/forms';
+
+
+var LoginInstagramPage = /** @class */ (function () {
+    function LoginInstagramPage(loadingCtrl, alertCtrl, app) {
+        this.loadingCtrl = loadingCtrl;
+        this.alertCtrl = alertCtrl;
+        this.app = app;
+        this.backgroundImage = 'assets/img/background/background-5.jpg';
+        // Gradient logic from https://codepen.io/quasimondo/pen/lDdrF
+        // NOTE: I'm not using this logic anymore, but if you want to use somehow, somewhere,
+        // A programmatically way to make a nice rainbow effect, there you go.
+        // NOTE: It probably won't work because it will crash your phone as this method is heavy \o/
+        this.colors = new Array([62, 35, 255], [60, 255, 60], [255, 35, 98], [45, 175, 230], [255, 0, 255], [255, 128, 0]);
+        this.step = 0;
+        // color table indices for:
+        // [current color left,next color left,current color right,next color right]
+        this.colorIndices = [0, 1, 2, 3];
+        // transition speed
+        this.gradientSpeed = 0.00005;
+        this.gradient = '';
+    }
+    LoginInstagramPage.prototype.login = function () {
+        var _this = this;
+        var loading = this.loadingCtrl.create({
+            duration: 500
+        });
+        loading.onDidDismiss(function () {
+            var alert = _this.alertCtrl.create({
+                title: 'Logged in!',
+                subTitle: 'Thanks for logging in.',
+                buttons: ['Dismiss']
+            });
+            alert.present();
+        });
+        loading.present();
+    };
+    LoginInstagramPage.prototype.goToSignup = function () {
+        // this.navCtrl.push(SignupPage);
+    };
+    LoginInstagramPage.prototype.updateGradient = function () {
+        var _this = this;
+        var c00 = this.colors[this.colorIndices[0]];
+        var c01 = this.colors[this.colorIndices[1]];
+        var c10 = this.colors[this.colorIndices[2]];
+        var c11 = this.colors[this.colorIndices[3]];
+        var istep = 1 - this.step;
+        var r1 = Math.round(istep * c00[0] + this.step * c01[0]);
+        var g1 = Math.round(istep * c00[1] + this.step * c01[1]);
+        var b1 = Math.round(istep * c00[2] + this.step * c01[2]);
+        var color1 = 'rgb(' + r1 + ',' + g1 + ',' + b1 + ')';
+        var r2 = Math.round(istep * c10[0] + this.step * c11[0]);
+        var g2 = Math.round(istep * c10[1] + this.step * c11[1]);
+        var b2 = Math.round(istep * c10[2] + this.step * c11[2]);
+        var color2 = 'rgb(' + r2 + ',' + g2 + ',' + b2 + ')';
+        this.gradient = "-webkit-gradient(linear, left top, right bottom, from(" + color1 + "), to(" + color2 + "))";
+        this.step += this.gradientSpeed;
+        if (this.step >= 1) {
+            this.step %= 1;
+            this.colorIndices[0] = this.colorIndices[1];
+            this.colorIndices[2] = this.colorIndices[3];
+            // pick two new target color indices
+            // do not pick the same as the current one
+            this.colorIndices[1] =
+                (this.colorIndices[1] + Math.floor(1 + Math.random() * (this.colors.length - 1)))
+                    % this.colors.length;
+            this.colorIndices[3] =
+                (this.colorIndices[3] + Math.floor(1 + Math.random() * (this.colors.length - 1)))
+                    % this.colors.length;
+        }
+        setInterval(function () { _this.updateGradient(); }, 40);
+    };
+    LoginInstagramPage = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
+            selector: 'page-login-instagram',template:/*ion-inline-start:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-instagram\login-instagram.html"*/'<ion-content padding class="transparent-header">\n  <ion-header>\n    <ion-navbar>\n    </ion-navbar>\n  </ion-header>\n  <img class="logo" src="assets/img/logo/logo-instagram.png" />\n  <div padding>\n    <ion-item>\n      <ion-input type="text" placeholder="Username"></ion-input>\n    </ion-item>\n    <ion-item>\n      <ion-input type="password" placeholder="Password"></ion-input>\n    </ion-item>\n    <button ion-button block outline (click)="login()" color="light" class="login-button">Login</button>\n  </div>\n  <div class="strike">\n    <span>OR</span>\n  </div>\n  <button ion-button block clear (click)="login()" color="light" class="login-button"><ion-icon name="logo-facebook"></ion-icon> Login with Facebook</button>\n</ion-content>\n<ion-footer>\n  <ion-toolbar class="footer">\n    <div (click)="goToSignup()">\n      <span>Don\'t have an account? <strong>Sign up here</strong>.</span>\n    </div>\n  </ion-toolbar>\n</ion-footer>\n'/*ion-inline-end:"C:\Users\mroberts\Documents\Ionic\AzorApp\src\pages\login\login-instagram\login-instagram.html"*/,
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* LoadingController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["b" /* AlertController */],
+            __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["c" /* App */]])
+    ], LoginInstagramPage);
+    return LoginInstagramPage;
+}());
+
+//# sourceMappingURL=login-instagram.js.map
+
+/***/ }),
+
+/***/ 898:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LoginInstagramPageModule", function() { return LoginInstagramPageModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__login_instagram__ = __webpack_require__(1169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(57);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+var LoginInstagramPageModule = /** @class */ (function () {
+    function LoginInstagramPageModule() {
+    }
+    LoginInstagramPageModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["NgModule"])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_0__login_instagram__["a" /* LoginInstagramPage */],
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["i" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_0__login_instagram__["a" /* LoginInstagramPage */]),
+            ],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_0__login_instagram__["a" /* LoginInstagramPage */]
+            ]
+        })
+    ], LoginInstagramPageModule);
+    return LoginInstagramPageModule;
+}());
+
+//# sourceMappingURL=login-instagram.module.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=56.js.map
