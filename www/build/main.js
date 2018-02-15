@@ -566,367 +566,367 @@ var ConstantVariable = {
 
 var map = {
 	"../pages/components/action-sheets/action-sheets.module": [
-		863,
+		864,
 		90
 	],
 	"../pages/components/alert/alert.module": [
-		864,
+		865,
 		89
 	],
 	"../pages/components/checkbox/checkbox.module": [
-		865,
+		866,
 		88
 	],
 	"../pages/components/components.module": [
-		866,
+		867,
 		87
 	],
 	"../pages/components/datetime/datetime.module": [
-		867,
+		868,
 		86
 	],
 	"../pages/components/fab/fab.module": [
-		868,
+		869,
 		85
 	],
 	"../pages/components/modals/modalpopup/modalpopup.module": [
-		869,
+		870,
 		84
 	],
 	"../pages/components/modals/modals.module": [
-		870,
+		871,
 		83
 	],
 	"../pages/components/popovers/popovers.module": [
-		871,
+		872,
 		82
 	],
 	"../pages/components/popovers/show-popover/show-popover.module": [
-		872,
+		873,
 		81
 	],
 	"../pages/components/searchbar/searchbar.module": [
-		873,
+		874,
 		80
 	],
 	"../pages/components/segment/segment.module": [
-		874,
+		875,
 		79
 	],
 	"../pages/components/toast/toast.module": [
-		875,
+		876,
 		78
 	],
 	"../pages/crud/crud-firebase-list/crud-firebase-detail/crud-firebase-detail.module": [
-		876,
+		877,
 		77
 	],
 	"../pages/crud/crud-firebase-list/crud-firebase-list.module": [
-		877,
+		878,
 		76
 	],
 	"../pages/crud/crud-http-list/crud-http-detail/crud-http-detail.module": [
-		878,
+		879,
 		75
 	],
 	"../pages/crud/crud-http-list/crud-http-list.module": [
-		879,
+		880,
 		74
 	],
 	"../pages/crud/crud-storage-list/crud-storage-detail/crud-storage-detail.module": [
-		880,
+		881,
 		73
 	],
 	"../pages/crud/crud-storage-list/crud-storage-list.module": [
-		881,
+		882,
 		72
 	],
 	"../pages/crud/crud.module": [
-		882,
+		883,
 		71
 	],
 	"../pages/firebase/firebase-auth/firebase-auth.module": [
-		883,
+		884,
 		70
 	],
 	"../pages/firebase/firebase-auth/firebase-login/firebase-login.module": [
-		884,
+		885,
 		69
 	],
 	"../pages/firebase/firebase-auth/firebase-register/firebase-register.module": [
-		885,
+		886,
 		68
 	],
 	"../pages/firebase/firebase-list.module": [
-		886,
+		887,
 		67
 	],
 	"../pages/firebase/firebase-upload-file/firebase-upload-file.module": [
-		887,
+		888,
 		1
 	],
 	"../pages/form/form.module": [
-		888,
+		889,
 		66
 	],
 	"../pages/form/radio/radio.module": [
-		889,
+		890,
 		65
 	],
 	"../pages/form/range/range.module": [
-		890,
+		891,
 		64
 	],
 	"../pages/form/select/select.module": [
-		891,
+		892,
 		63
 	],
 	"../pages/form/toggle/toggle.module": [
-		892,
+		893,
 		62
 	],
 	"../pages/home/home.module": [
-		893,
+		894,
 		61
 	],
 	"../pages/home/homev1/homev1.module": [
-		894,
+		895,
 		60
 	],
 	"../pages/home/homev2/homev2.module": [
-		895,
+		896,
 		59
 	],
 	"../pages/login/login-background-slider/login-background-slider.module": [
-		896,
+		897,
 		58
 	],
 	"../pages/login/login-background-video/login-background-video.module": [
-		897,
+		898,
 		57
 	],
 	"../pages/login/login-instagram/login-instagram.module": [
-		898,
+		899,
 		56
 	],
 	"../pages/login/login-one/login-one.module": [
-		899,
+		900,
 		55
 	],
 	"../pages/login/login-slider/login-slider.module": [
-		900,
+		901,
 		54
 	],
 	"../pages/login/login.module": [
-		901,
+		902,
 		53
 	],
 	"../pages/miscellaneous/accordion/accordion.module": [
-		902,
+		903,
 		52
 	],
 	"../pages/miscellaneous/autosizing-textarea/autosizing-textarea.module": [
-		903,
+		904,
 		51
 	],
 	"../pages/miscellaneous/blog-post/blog-post.module": [
-		904,
+		905,
 		50
 	],
 	"../pages/miscellaneous/charts/charts.module": [
-		905,
+		906,
 		0
 	],
 	"../pages/miscellaneous/countdown/countdown.module": [
-		906,
+		907,
 		49
 	],
 	"../pages/miscellaneous/expandable-header/expandable-header.module": [
-		907,
+		908,
 		48
 	],
 	"../pages/miscellaneous/feature-google-map/feature-google-map.module": [
-		908,
+		909,
 		47
 	],
 	"../pages/miscellaneous/feature-infinite-scroll/feature-infinite-scroll.module": [
-		909,
+		910,
 		46
 	],
 	"../pages/miscellaneous/feature-pull-to-refresh/feature-pull-to-refresh.module": [
-		910,
+		911,
 		45
 	],
 	"../pages/miscellaneous/flash-card/flash-card.module": [
-		911,
+		912,
 		44
 	],
 	"../pages/miscellaneous/masonry-cards/masonry-cards.module": [
-		912,
+		913,
 		43
 	],
 	"../pages/miscellaneous/miscellaneous.module": [
-		913,
+		914,
 		42
 	],
 	"../pages/miscellaneous/notif-detail/notif-detail.module": [
-		914,
+		915,
 		41
 	],
 	"../pages/miscellaneous/testimonials/testimonials.module": [
-		915,
+		916,
 		40
 	],
 	"../pages/miscellaneous/timeline/timeline.module": [
-		916,
+		917,
 		39
 	],
 	"../pages/miscellaneous/tinder-cards/tinder-cards.module": [
-		917,
+		918,
 		38
 	],
 	"../pages/native/native-action-sheet/native-action-sheet.module": [
-		918,
+		919,
 		37
 	],
 	"../pages/native/native-app-rate/native-app-rate.module": [
-		919,
+		920,
 		36
 	],
 	"../pages/native/native-call-number/native-call-number.module": [
-		920,
+		921,
 		35
 	],
 	"../pages/native/native-camera/native-camera.module": [
-		921,
+		922,
 		34
 	],
 	"../pages/native/native-crop/native-crop.module": [
-		922,
+		923,
 		33
 	],
 	"../pages/native/native-date-picker/native-date-picker.module": [
-		923,
+		924,
 		32
 	],
 	"../pages/native/native-email-composer/native-email-composer.module": [
-		924,
+		925,
 		31
 	],
 	"../pages/native/native-geolocation/native-geolocation.module": [
-		925,
+		926,
 		30
 	],
 	"../pages/native/native-instagram/native-instagram.module": [
-		926,
+		927,
 		29
 	],
 	"../pages/native/native-launch-navigator/native-launch-navigator.module": [
-		927,
+		928,
 		28
 	],
 	"../pages/native/native-photo-library/native-photo-library.module": [
-		928,
+		929,
 		27
 	],
 	"../pages/native/native-sms/native-sms.module": [
-		929,
+		930,
 		26
 	],
 	"../pages/native/native-social-sharing/native-social-sharing.module": [
-		930,
+		931,
 		25
 	],
 	"../pages/native/native-youtube-player/native-youtube-player.module": [
-		931,
+		932,
 		24
 	],
 	"../pages/native/native.module": [
-		932,
+		933,
 		23
 	],
 	"../pages/profile/profile-four/profile-four.module": [
-		933,
+		934,
 		22
 	],
 	"../pages/profile/profile-one/profile-one.module": [
-		934,
+		935,
 		21
 	],
 	"../pages/profile/profile-settings/profile-settings.module": [
-		935,
+		936,
 		20
 	],
 	"../pages/profile/profile-three/profile-three.module": [
-		936,
+		937,
 		19
 	],
 	"../pages/profile/profile.module": [
-		937,
+		938,
 		18
 	],
 	"../pages/setting/language/language.module": [
-		938,
+		939,
 		17
 	],
 	"../pages/setting/setting-list.module": [
-		939,
+		940,
 		16
 	],
 	"../pages/setting/theming/theming.module": [
-		940,
+		941,
 		15
 	],
 	"../pages/side-menu/side-menu.module": [
-		941,
+		942,
 		14
 	],
 	"../pages/slide/slide-carousel/slide-carousel.module": [
-		942,
+		943,
 		13
 	],
 	"../pages/slide/slide-color-changing/slide-color-changing.module": [
-		943,
+		944,
 		12
 	],
 	"../pages/slide/slide-free-mode/slide-free-mode.module": [
-		944,
+		945,
 		11
 	],
 	"../pages/slide/slide-ionic/slide.module": [
-		945,
+		946,
 		10
 	],
 	"../pages/slide/slide-nested/slide-nested.module": [
-		946,
+		947,
 		9
 	],
 	"../pages/slide/slide-photo-gallery/slide-photo-gallery.module": [
-		947,
+		948,
 		8
 	],
 	"../pages/slide/slide-rtl/slide-rtl.module": [
-		948,
+		949,
 		7
 	],
 	"../pages/slide/slide-transitions/slide-transitions.module": [
-		949,
+		950,
 		6
 	],
 	"../pages/slide/slide-walkthrough/slide-walkthrough.module": [
-		950,
+		951,
 		5
 	],
 	"../pages/slide/slider-list/slider-list.module": [
-		951,
+		952,
 		4
 	],
 	"../pages/slide/slider-with-arrows/slider-with-arrows.module": [
-		952,
+		953,
 		3
 	],
 	"../pages/slide/slides.module": [
-		953,
+		954,
 		2
 	]
 };
@@ -1347,6 +1347,7 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+/* unused harmony export MyErrorHandler */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__shared_module__ = __webpack_require__(453);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
@@ -1355,11 +1356,16 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_angular2_swing__ = __webpack_require__(201);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_angular2_swing___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_angular2_swing__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_imports__ = __webpack_require__(203);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ionic_pro__ = __webpack_require__(863);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ionic_pro___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__ionic_pro__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 
  //enableProdMode : make development faster
@@ -1367,8 +1373,36 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 
+
 // this is the magic wand
 Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["enableProdMode"])();
+__WEBPACK_IMPORTED_MODULE_6__ionic_pro__["Pro"].init('dcd3fc2a', {
+    appVersion: '0.1.0'
+});
+var MyErrorHandler = /** @class */ (function () {
+    function MyErrorHandler(injector) {
+        try {
+            this.ionicErrorHandler = injector.get(__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["g" /* IonicErrorHandler */]);
+        }
+        catch (e) {
+            // Unable to get the IonicErrorHandler provider, ensure
+            // IonicErrorHandler has been added to the providers list below
+        }
+    }
+    MyErrorHandler.prototype.handleError = function (err) {
+        //IonicPro.monitoring.handleNewError(err);
+        // Remove this if you want to disable Ionic's auto exception handling
+        // in development mode.
+        this.ionicErrorHandler && this.ionicErrorHandler.handleError(err);
+    };
+    MyErrorHandler = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["Injectable"])(),
+        __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_core__["Injector"] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__angular_core__["Injector"]) === "function" && _a || Object])
+    ], MyErrorHandler);
+    return MyErrorHandler;
+    var _a;
+}());
+
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
@@ -1485,6 +1519,7 @@ var AppModule = /** @class */ (function () {
                 { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["ErrorHandler"], useClass: __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["g" /* IonicErrorHandler */] },
                 __WEBPACK_IMPORTED_MODULE_5__app_imports__["f" /* PROVIDERS */],
                 __WEBPACK_IMPORTED_MODULE_5__app_imports__["d" /* NATIVES */],
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["g" /* IonicErrorHandler */],
             ]
         })
     ], AppModule);

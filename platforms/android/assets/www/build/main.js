@@ -375,16 +375,16 @@ var FirebaseAuthProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__providers_util_alert_service__ = __webpack_require__(475);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__ionic_native_splash_screen__ = __webpack_require__(450);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__ionic_native_status_bar__ = __webpack_require__(451);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__ionic_native_action_sheet__ = __webpack_require__(463);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ionic_native_app_rate__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__ionic_native_action_sheet__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ionic_native_app_rate__ = __webpack_require__(463);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__ionic_native_camera__ = __webpack_require__(454);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__ionic_native_call_number__ = __webpack_require__(465);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_crop__ = __webpack_require__(466);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_crop__ = __webpack_require__(468);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__ionic_native_date_picker__ = __webpack_require__(467);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__ionic_native_email_composer__ = __webpack_require__(468);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__ionic_native_email_composer__ = __webpack_require__(466);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__ionic_native_geolocation__ = __webpack_require__(458);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__ionic_native_instagram__ = __webpack_require__(469);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_launch_navigator__ = __webpack_require__(470);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__ionic_native_instagram__ = __webpack_require__(470);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_launch_navigator__ = __webpack_require__(469);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__ionic_native_photo_library__ = __webpack_require__(471);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__ionic_native_sms__ = __webpack_require__(472);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__ionic_native_social_sharing__ = __webpack_require__(473);
@@ -570,43 +570,43 @@ var map = {
 		90
 	],
 	"../pages/components/alert/alert.module": [
-		864,
+		865,
 		89
 	],
 	"../pages/components/checkbox/checkbox.module": [
-		865,
+		864,
 		88
 	],
 	"../pages/components/components.module": [
-		866,
+		869,
 		87
 	],
 	"../pages/components/datetime/datetime.module": [
-		867,
+		866,
 		86
 	],
 	"../pages/components/fab/fab.module": [
-		868,
+		867,
 		85
 	],
 	"../pages/components/modals/modalpopup/modalpopup.module": [
-		869,
+		871,
 		84
 	],
 	"../pages/components/modals/modals.module": [
-		870,
+		868,
 		83
 	],
 	"../pages/components/popovers/popovers.module": [
-		871,
+		870,
 		82
 	],
 	"../pages/components/popovers/show-popover/show-popover.module": [
-		872,
+		873,
 		81
 	],
 	"../pages/components/searchbar/searchbar.module": [
-		873,
+		872,
 		80
 	],
 	"../pages/components/segment/segment.module": [
@@ -614,11 +614,11 @@ var map = {
 		79
 	],
 	"../pages/components/toast/toast.module": [
-		875,
+		876,
 		78
 	],
 	"../pages/crud/crud-firebase-list/crud-firebase-detail/crud-firebase-detail.module": [
-		876,
+		875,
 		77
 	],
 	"../pages/crud/crud-firebase-list/crud-firebase-list.module": [
@@ -630,43 +630,43 @@ var map = {
 		75
 	],
 	"../pages/crud/crud-http-list/crud-http-list.module": [
-		879,
+		880,
 		74
 	],
 	"../pages/crud/crud-storage-list/crud-storage-detail/crud-storage-detail.module": [
-		880,
+		881,
 		73
 	],
 	"../pages/crud/crud-storage-list/crud-storage-list.module": [
-		881,
+		882,
 		72
 	],
 	"../pages/crud/crud.module": [
-		882,
+		879,
 		71
 	],
 	"../pages/firebase/firebase-auth/firebase-auth.module": [
-		883,
+		884,
 		70
 	],
 	"../pages/firebase/firebase-auth/firebase-login/firebase-login.module": [
-		884,
+		885,
 		69
 	],
 	"../pages/firebase/firebase-auth/firebase-register/firebase-register.module": [
-		885,
+		886,
 		68
 	],
 	"../pages/firebase/firebase-list.module": [
-		886,
+		883,
 		67
 	],
 	"../pages/firebase/firebase-upload-file/firebase-upload-file.module": [
-		887,
+		892,
 		1
 	],
 	"../pages/form/form.module": [
-		888,
+		887,
 		66
 	],
 	"../pages/form/radio/radio.module": [
@@ -674,27 +674,27 @@ var map = {
 		65
 	],
 	"../pages/form/range/range.module": [
-		890,
+		888,
 		64
 	],
 	"../pages/form/select/select.module": [
-		891,
+		895,
 		63
 	],
 	"../pages/form/toggle/toggle.module": [
-		892,
+		890,
 		62
 	],
 	"../pages/home/home.module": [
-		893,
+		891,
 		61
 	],
 	"../pages/home/homev1/homev1.module": [
-		894,
+		893,
 		60
 	],
 	"../pages/home/homev2/homev2.module": [
-		895,
+		894,
 		59
 	],
 	"../pages/login/login-background-slider/login-background-slider.module": [
@@ -714,15 +714,15 @@ var map = {
 		55
 	],
 	"../pages/login/login-slider/login-slider.module": [
-		900,
+		901,
 		54
 	],
 	"../pages/login/login.module": [
-		901,
+		900,
 		53
 	],
 	"../pages/miscellaneous/accordion/accordion.module": [
-		902,
+		906,
 		52
 	],
 	"../pages/miscellaneous/autosizing-textarea/autosizing-textarea.module": [
@@ -730,19 +730,19 @@ var map = {
 		51
 	],
 	"../pages/miscellaneous/blog-post/blog-post.module": [
-		904,
+		902,
 		50
 	],
 	"../pages/miscellaneous/charts/charts.module": [
-		905,
+		907,
 		0
 	],
 	"../pages/miscellaneous/countdown/countdown.module": [
-		906,
+		904,
 		49
 	],
 	"../pages/miscellaneous/expandable-header/expandable-header.module": [
-		907,
+		905,
 		48
 	],
 	"../pages/miscellaneous/feature-google-map/feature-google-map.module": [
@@ -758,11 +758,11 @@ var map = {
 		45
 	],
 	"../pages/miscellaneous/flash-card/flash-card.module": [
-		911,
+		912,
 		44
 	],
 	"../pages/miscellaneous/masonry-cards/masonry-cards.module": [
-		912,
+		914,
 		43
 	],
 	"../pages/miscellaneous/miscellaneous.module": [
@@ -770,7 +770,7 @@ var map = {
 		42
 	],
 	"../pages/miscellaneous/notif-detail/notif-detail.module": [
-		914,
+		911,
 		41
 	],
 	"../pages/miscellaneous/testimonials/testimonials.module": [
@@ -786,11 +786,11 @@ var map = {
 		38
 	],
 	"../pages/native/native-action-sheet/native-action-sheet.module": [
-		918,
+		919,
 		37
 	],
 	"../pages/native/native-app-rate/native-app-rate.module": [
-		919,
+		918,
 		36
 	],
 	"../pages/native/native-call-number/native-call-number.module": [
@@ -802,7 +802,7 @@ var map = {
 		34
 	],
 	"../pages/native/native-crop/native-crop.module": [
-		922,
+		924,
 		33
 	],
 	"../pages/native/native-date-picker/native-date-picker.module": [
@@ -810,7 +810,7 @@ var map = {
 		32
 	],
 	"../pages/native/native-email-composer/native-email-composer.module": [
-		924,
+		922,
 		31
 	],
 	"../pages/native/native-geolocation/native-geolocation.module": [
@@ -818,11 +818,11 @@ var map = {
 		30
 	],
 	"../pages/native/native-instagram/native-instagram.module": [
-		926,
+		927,
 		29
 	],
 	"../pages/native/native-launch-navigator/native-launch-navigator.module": [
-		927,
+		926,
 		28
 	],
 	"../pages/native/native-photo-library/native-photo-library.module": [
@@ -830,51 +830,51 @@ var map = {
 		27
 	],
 	"../pages/native/native-sms/native-sms.module": [
-		929,
+		930,
 		26
 	],
 	"../pages/native/native-social-sharing/native-social-sharing.module": [
-		930,
+		931,
 		25
 	],
 	"../pages/native/native-youtube-player/native-youtube-player.module": [
-		931,
+		932,
 		24
 	],
 	"../pages/native/native.module": [
-		932,
+		929,
 		23
 	],
 	"../pages/profile/profile-four/profile-four.module": [
-		933,
+		937,
 		22
 	],
 	"../pages/profile/profile-one/profile-one.module": [
-		934,
+		933,
 		21
 	],
 	"../pages/profile/profile-settings/profile-settings.module": [
-		935,
+		934,
 		20
 	],
 	"../pages/profile/profile-three/profile-three.module": [
-		936,
+		935,
 		19
 	],
 	"../pages/profile/profile.module": [
-		937,
+		936,
 		18
 	],
 	"../pages/setting/language/language.module": [
-		938,
+		939,
 		17
 	],
 	"../pages/setting/setting-list.module": [
-		939,
+		940,
 		16
 	],
 	"../pages/setting/theming/theming.module": [
-		940,
+		938,
 		15
 	],
 	"../pages/side-menu/side-menu.module": [
@@ -886,11 +886,11 @@ var map = {
 		13
 	],
 	"../pages/slide/slide-color-changing/slide-color-changing.module": [
-		943,
+		944,
 		12
 	],
 	"../pages/slide/slide-free-mode/slide-free-mode.module": [
-		944,
+		943,
 		11
 	],
 	"../pages/slide/slide-ionic/slide.module": [
@@ -914,19 +914,19 @@ var map = {
 		6
 	],
 	"../pages/slide/slide-walkthrough/slide-walkthrough.module": [
-		950,
+		951,
 		5
 	],
 	"../pages/slide/slider-list/slider-list.module": [
-		951,
+		950,
 		4
 	],
 	"../pages/slide/slider-with-arrows/slider-with-arrows.module": [
-		952,
+		953,
 		3
 	],
 	"../pages/slide/slides.module": [
-		953,
+		952,
 		2
 	]
 };
@@ -1382,96 +1382,96 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_3__app_component__["a" /* MyApp */], {}, {
                     links: [
                         { loadChildren: '../pages/components/action-sheets/action-sheets.module#ActionSheetsPageModule', name: 'ActionSheetsPage', segment: 'action-sheets', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/components/alert/alert.module#AlertPageModule', name: 'AlertPage', segment: 'alert', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/checkbox/checkbox.module#CheckboxPageModule', name: 'CheckboxPage', segment: 'checkbox', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/components/components.module#ComponentListPageModule', name: 'ComponentListPage', segment: 'components', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/components/alert/alert.module#AlertPageModule', name: 'AlertPage', segment: 'alert', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/datetime/datetime.module#DatetimePageModule', name: 'DatetimePage', segment: 'datetime', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/fab/fab.module#FabPageModule', name: 'FabPage', segment: 'fab', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/components/modals/modalpopup/modalpopup.module#ModalContentPageModule', name: 'ModalContentPage', segment: 'modalpopup', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/modals/modals.module#ModalsPageModule', name: 'ModalsPage', segment: 'modals', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/components/components.module#ComponentListPageModule', name: 'ComponentListPage', segment: 'components', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/popovers/popovers.module#PopoversPageModule', name: 'PopoversPage', segment: 'popovers', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/components/popovers/show-popover/show-popover.module#ShowPopoverPageModule', name: 'ShowPopoverPage', segment: 'show-popover', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/components/modals/modalpopup/modalpopup.module#ModalContentPageModule', name: 'ModalContentPage', segment: 'modalpopup', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/searchbar/searchbar.module#SearchbarPageModule', name: 'SearchbarPage', segment: 'searchbar', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/components/popovers/show-popover/show-popover.module#ShowPopoverPageModule', name: 'ShowPopoverPage', segment: 'show-popover', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/components/segment/segment.module#SegmentPageModule', name: 'SegmentPage', segment: 'segment', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/components/toast/toast.module#ToastPageModule', name: 'ToastPage', segment: 'toast', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-firebase-list/crud-firebase-detail/crud-firebase-detail.module#CrudFirebaseDetailPageModule', name: 'CrudFirebaseDetailPage', segment: 'crud-firebase-detail', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/components/toast/toast.module#ToastPageModule', name: 'ToastPage', segment: 'toast', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-firebase-list/crud-firebase-list.module#CrudFirebaseListPageModule', name: 'CrudFirebaseListPage', segment: 'crud-firebase-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-http-list/crud-http-detail/crud-http-detail.module#CrudHttpDetailPageModule', name: 'CrudHttpDetailPage', segment: 'crud-http-detail', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/crud/crud.module#CrudListPageModule', name: 'CrudListPage', segment: 'crud', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-http-list/crud-http-list.module#CrudHttpListPageModule', name: 'CrudHttpListPage', segment: 'crud-http-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-storage-list/crud-storage-detail/crud-storage-detail.module#CrudStorageDetailPageModule', name: 'CrudStorageDetailPage', segment: 'crud-storage-detail', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/crud/crud-storage-list/crud-storage-list.module#CrudStorageListPageModule', name: 'CrudStorageListPage', segment: 'crud-storage-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/crud/crud.module#CrudListPageModule', name: 'CrudListPage', segment: 'crud', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/firebase/firebase-list.module#FirebaseListPageModule', name: 'FirebaseListPage', segment: 'firebase-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/firebase/firebase-auth/firebase-auth.module#FirebaseAuthPageModule', name: 'FirebaseAuthPage', segment: 'firebase-auth', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/firebase/firebase-auth/firebase-login/firebase-login.module#FirebaseLoginPageModule', name: 'FirebaseLoginPage', segment: 'firebase-login', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/firebase/firebase-auth/firebase-register/firebase-register.module#FirebaseRegisterPageModule', name: 'FirebaseRegisterPage', segment: 'firebase-register', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/firebase/firebase-list.module#FirebaseListPageModule', name: 'FirebaseListPage', segment: 'firebase-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/firebase/firebase-upload-file/firebase-upload-file.module#FirebaseUploadFilePageModule', name: 'FirebaseUploadFilePage', segment: 'firebase-upload-file', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/form/form.module#FormListPageModule', name: 'FormListPage', segment: 'form', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/form/radio/radio.module#RadioPageModule', name: 'RadioPage', segment: 'radio', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/form/range/range.module#RangePageModule', name: 'RangePage', segment: 'range', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/form/select/select.module#SelectPageModule', name: 'SelectPage', segment: 'select', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/form/radio/radio.module#RadioPageModule', name: 'RadioPage', segment: 'radio', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/form/toggle/toggle.module#TogglePageModule', name: 'TogglePage', segment: 'toggle', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/home/home.module#HomeListPageModule', name: 'HomeListPage', segment: 'home', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/firebase/firebase-upload-file/firebase-upload-file.module#FirebaseUploadFilePageModule', name: 'FirebaseUploadFilePage', segment: 'firebase-upload-file', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/home/homev1/homev1.module#LoginListPageModule', name: 'Homev1Page', segment: 'homev1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/home/homev2/homev2.module#LoginListPageModule', name: 'Homev2Page', segment: 'homev2', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/form/select/select.module#SelectPageModule', name: 'SelectPage', segment: 'select', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login-background-slider/login-background-slider.module#LoginBackgroundSliderPageModule', name: 'LoginBackgroundSliderPage', segment: 'login-background-slider', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login-background-video/login-background-video.module#LoginBackgroundVideoPageModule', name: 'LoginBackgroundVideoPage', segment: 'login-background-video', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login-instagram/login-instagram.module#LoginInstagramPageModule', name: 'LoginInstagramPage', segment: 'login-instagram', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login-one/login-one.module#LoginOnePageModule', name: 'LoginOnePage', segment: 'login-one', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/login/login-slider/login-slider.module#LoginSliderPageModule', name: 'LoginSliderPage', segment: 'login-slider', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login.module#LoginListPageModule', name: 'LoginListPage', segment: 'login', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/accordion/accordion.module#AccordionPageModule', name: 'AccordionPage', segment: 'accordion', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/autosizing-textarea/autosizing-textarea.module#AutosizingTextareaPageModule', name: 'AutosizingTextarea', segment: 'autosizing-textarea', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/login/login-slider/login-slider.module#LoginSliderPageModule', name: 'LoginSliderPage', segment: 'login-slider', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/blog-post/blog-post.module#BlogPostPageModule', name: 'BlogPostPage', segment: 'blog-post', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/charts/charts.module#ChartsPageModule', name: 'ChartsPage', segment: 'charts', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/autosizing-textarea/autosizing-textarea.module#AutosizingTextareaPageModule', name: 'AutosizingTextarea', segment: 'autosizing-textarea', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/countdown/countdown.module#CountdownPageModule', name: 'CountdownPage', segment: 'countdown', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/expandable-header/expandable-header.module#ExpandableHeaderPageModule', name: 'ExpandableHeaderPage', segment: 'expandable-header', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/accordion/accordion.module#AccordionPageModule', name: 'AccordionPage', segment: 'accordion', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/charts/charts.module#ChartsPageModule', name: 'ChartsPage', segment: 'charts', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/feature-google-map/feature-google-map.module#FeatureGoogleMapPageModule', name: 'FeatureGoogleMapPage', segment: 'feature-google-map', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/feature-infinite-scroll/feature-infinite-scroll.module#FeatureInfiniteScrollPageModule', name: 'FeatureInfiniteScrollPage', segment: 'feature-infinite-scroll', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/feature-pull-to-refresh/feature-pull-to-refresh.module#FeaturePullToRefreshPageModule', name: 'FeaturePullToRefreshPage', segment: 'feature-pull-to-refresh', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/flash-card/flash-card.module#FlashCardPageModule', name: 'FlashCardPage', segment: 'flash-card', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/masonry-cards/masonry-cards.module#MasonryCardsPageModule', name: 'MasonryCardsPage', segment: 'masonry-cards', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/miscellaneous/miscellaneous.module#MiscellaneousListPageModule', name: 'MiscellaneousListPage', segment: 'miscellaneous', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/notif-detail/notif-detail.module#NotifDetailPageModule', name: 'NotifDetailPage', segment: 'notif-detail', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/flash-card/flash-card.module#FlashCardPageModule', name: 'FlashCardPage', segment: 'flash-card', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/miscellaneous.module#MiscellaneousListPageModule', name: 'MiscellaneousListPage', segment: 'miscellaneous', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/miscellaneous/masonry-cards/masonry-cards.module#MasonryCardsPageModule', name: 'MasonryCardsPage', segment: 'masonry-cards', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/testimonials/testimonials.module#TestimonialsPageModule', name: 'TestimonialsPage', segment: 'testimonials', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/timeline/timeline.module#TimelinePageModule', name: 'TimelinePage', segment: 'timeline', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/miscellaneous/tinder-cards/tinder-cards.module#TinderCardsPageModule', name: 'TinderCardsPage', segment: 'tinder-cards', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/native/native-action-sheet/native-action-sheet.module#NativeActionSheetPageModule', name: 'NativeActionSheetPage', segment: 'native-action-sheet', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-app-rate/native-app-rate.module#NativeAppRatePageModule', name: 'NativeAppRatePage', segment: 'native-app-rate', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/native/native-action-sheet/native-action-sheet.module#NativeActionSheetPageModule', name: 'NativeActionSheetPage', segment: 'native-action-sheet', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-call-number/native-call-number.module#NativeCallNumberPageModule', name: 'NativeCallNumberPage', segment: 'native-call-number', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-camera/native-camera.module#NativeCameraPageModule', name: 'NativeCameraPage', segment: 'native-camera', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/native/native-crop/native-crop.module#NativeCropPageModule', name: 'NativeCropPage', segment: 'native-crop', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/native/native-date-picker/native-date-picker.module#NativeDatePickerPageModule', name: 'NativeDatePickerPage', segment: 'native-date-picker', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-email-composer/native-email-composer.module#NativeEmailComposerPageModule', name: 'NativeEmailComposerPage', segment: 'native-email-composer', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/native/native-date-picker/native-date-picker.module#NativeDatePickerPageModule', name: 'NativeDatePickerPage', segment: 'native-date-picker', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/native/native-crop/native-crop.module#NativeCropPageModule', name: 'NativeCropPage', segment: 'native-crop', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-geolocation/native-geolocation.module#NativeGeolocationPageModule', name: 'NativeGeolocationPage', segment: 'native-geolocation', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/native/native-instagram/native-instagram.module#NativeInstagramPageModule', name: 'NativeInstagramPage', segment: 'native-instagram', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-launch-navigator/native-launch-navigator.module#NativeLaunchNavigatorPageModule', name: 'NativeLaunchNavigatorPage', segment: 'native-launch-navigator', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/native/native-instagram/native-instagram.module#NativeInstagramPageModule', name: 'NativeInstagramPage', segment: 'native-instagram', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-photo-library/native-photo-library.module#NativePhotoLibraryPageModule', name: 'NativePhotoLibraryPage', segment: 'native-photo-library', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/native/native.module#NativeListPageModule', name: 'NativeListPage', segment: 'native', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-sms/native-sms.module#NativeSmsPageModule', name: 'NativeSmsPage', segment: 'native-sms', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-social-sharing/native-social-sharing.module#NativeSocialSharingPageModule', name: 'NativeSocialSharingPage', segment: 'native-social-sharing', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/native/native-youtube-player/native-youtube-player.module#NativeYoutubePlayerPageModule', name: 'NativeYoutubePlayerPage', segment: 'native-youtube-player', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/native/native.module#NativeListPageModule', name: 'NativeListPage', segment: 'native', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/profile/profile-four/profile-four.module#ProfileFourPageModule', name: 'ProfileFourPage', segment: 'profile-four', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/profile/profile-one/profile-one.module#ProfileOnePageModule', name: 'ProfileOnePage', segment: 'profile-one', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/profile/profile-settings/profile-settings.module#ProfileSettingsPageModule', name: 'ProfileSettingsPage', segment: 'profile-settings', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/profile/profile-three/profile-three.module#ProfileThreePageModule', name: 'ProfileThreePage', segment: 'profile-three', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/profile/profile.module#ProfileListPageModule', name: 'ProfileListPage', segment: 'profile', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/profile/profile-four/profile-four.module#ProfileFourPageModule', name: 'ProfileFourPage', segment: 'profile-four', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/setting/theming/theming.module#ThemingPageModule', name: 'ThemingPage', segment: 'theming', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/setting/language/language.module#LanguagePageModule', name: 'LanguagePage', segment: 'language', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/setting/setting-list.module#SettingListPageModule', name: 'SettingListPage', segment: 'setting-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/setting/theming/theming.module#ThemingPageModule', name: 'ThemingPage', segment: 'theming', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/side-menu/side-menu.module#SideMenuPageModule', name: 'SideMenuPage', segment: 'side-menu', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-carousel/slide-carousel.module#SlideCarouselPageModule', name: 'SlideCarouselPage', segment: 'slide-carousel', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/slide/slide-color-changing/slide-color-changing.module#SlideColorChangingPageModule', name: 'SlideColorChangingPage', segment: 'slide-color-changing', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-free-mode/slide-free-mode.module#SlideFreeModePageModule', name: 'SlideFreeModePage', segment: 'slide-free-mode', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/slide/slide-color-changing/slide-color-changing.module#SlideColorChangingPageModule', name: 'SlideColorChangingPage', segment: 'slide-color-changing', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-ionic/slide.module#SlidePageModule', name: 'SlidePage', segment: 'slide', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-nested/slide-nested.module#SlideNestedPageModule', name: 'SlideNestedPage', segment: 'slide-nested', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-photo-gallery/slide-photo-gallery.module#SlidePhotoGalleryPageModule', name: 'SlidePhotoGalleryPage', segment: 'slide-photo-gallery', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-rtl/slide-rtl.module#SlideRightToLeftPageModule', name: 'SlideRightToLeftPage', segment: 'slide-rtl', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide-transitions/slide-transitions.module#SlideTransitionsPageModule', name: 'SlideTransitionsPage', segment: 'slide-transitions', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/slide/slide-walkthrough/slide-walkthrough.module#SlideWalkthroughPageModule', name: 'SlideWalkthroughPage', segment: 'slide-walkthrough', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slider-list/slider-list.module#SliderListPageModule', name: 'SliderListPage', segment: 'slider-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/slide/slider-with-arrows/slider-with-arrows.module#SliderWithArrowsPageModule', name: 'SliderWithArrowsPage', segment: 'slider-with-arrows', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/slide/slides.module#SlidesListPageModule', name: 'SlidesListPage', segment: 'slides', priority: 'low', defaultHistory: [] }
+                        { loadChildren: '../pages/slide/slide-walkthrough/slide-walkthrough.module#SlideWalkthroughPageModule', name: 'SlideWalkthroughPage', segment: 'slide-walkthrough', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/slide/slides.module#SlidesListPageModule', name: 'SlidesListPage', segment: 'slides', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/slide/slider-with-arrows/slider-with-arrows.module#SliderWithArrowsPageModule', name: 'SliderWithArrowsPage', segment: 'slider-with-arrows', priority: 'low', defaultHistory: [] }
                     ]
                 }),
                 __WEBPACK_IMPORTED_MODULE_0__shared_module__["a" /* SharedModule */],
