@@ -16,7 +16,7 @@ export class FirebaseLoginPage {
   email: AbstractControl;
   password: AbstractControl;
 
-  backgroundImage = 'assets/img/background/splash3-small.png';
+  backgroundImage = '../../../../assets/img/background/splash3-small.png';
 
   constructor(
     public loadingCtrl: LoadingController,
